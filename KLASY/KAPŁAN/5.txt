@@ -1,0 +1,24 @@
+Leczenie lekkich ran, zbiorowe: Leczy wielu istotom 1k8 obrażeń +1/poziom.
+Obcowanie D: Bóstwo odpowiada tak lub nie na jedno pytanie/poziom.
+Odporność na czary: Podmiot otrzymuje OC 12 + poziom.
+Ogniste uderzenie: Boski ogień rani wrogów (1k6 obrażeń/poziom).
+Oręż na nieumarłych: Broń do walki wręcz niszczy nieumarłych.
+Plaga insektów: Rój atakuje istoty.
+Pokuta KD: Zdejmuje z podmiotu brzemię złych uczynków.
+Przeklęcie M: Wskazane miejsce staje się przeklętym.
+Przyzwanie potwora V: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozkaz, potężniejszy: Jak rozkaz, ale wpływa na jeden podmiot/poziom.
+Rozproszenie chaosu/dobra/prawa/zła: Premia +4 względem ataków.
+Słuszna potęga: Zwiększa twój rozmiar oraz obdarza premiami bojowymi.
+Symbol bólu M: Uruchomiona runa wywołuje ból w pobliskich istotach.
+Symbol uśpienia M: Uruchomiona runa wprowadza istoty w katatoniczną drzemkę.
+Szpiegowanie K: Szpieguje podmiot na odległość.
+Ściana kamieni: Tworzy kamienną ścianę, którą można ukształtować.
+Uświęcenie M: Wskazane miejsce staje się świętym.
+Widzenie prawdy M: Pozwala ci widzieć wszystkie rzeczy takimi, jakimi są naprawdę.
+Wskrzeszenie M: Przywraca życie podmiotowi, który umarł najdalej przed dniem/poziom.
+Zabicie żywego: Atak dotykowy zabija ofiarę.
+Zadawanie lekkich ran, zbiorowe: Zadaje wielu istotom 1k8 obrażeń +1/poziom.
+Zamiana planów K: Do ośmiu istot podróżuje na inny plan.
+Złamanie zaklęcia: Uwalnia podmiot od oczarowań, klątw, petryfikacji i przemian.
+Znak sprawiedliwości: Wskazana czynność spowoduje zadziałanie klątwy, która wpłynie na podmiot.

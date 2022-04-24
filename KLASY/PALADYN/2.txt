@@ -1,0 +1,9 @@
+Mądrość sowy: Podmiot zyskuje +4 do Rzt na 1 min./poziom.
+Niewykrywalny charakter: Ukrywa charakter na 24 godziny.
+Odporność na energię: Pozwala zignorować 10 (lub więcej) obrażeń/atak spowodowanych przez energię konkretnego rodzaju.
+Opóźnienie działania trucizny: Powstrzymuje działanie trucizny, która nie krzywdzi podmiotu przez 1 godzinę/poziom.
+Przełamanie paraliżu: Uwalnia jedną lub więcej istot spod działania paraliżu i efektów spowolnienia.
+Siła byka: Podmiot zyskuje +4 do S na 1 min./poziom.
+Splendor orła: Podmiot zyskuje +4 do Cha na 1 min./poziom.
+Strefa prawdy: Podmioty w zasięgu działania nie mogą kłamać.
+Tarcza dla przyjaciela K: Otrzymujesz połowę obrażeń podmiotu.

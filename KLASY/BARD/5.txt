@@ -1,0 +1,16 @@
+Długotrwały obraz: Jak zaawansowany obraz, ale nie wymaga koncentracji.
+Fałszywy obraz M: Za pomocą iluzji oszukuje szpiegowanie.
+Heroizm, potężniejszy: Zapewnia +4 do testów ataków, rzutów obronnych i testów umiejętności; niepodatność na strach; tymczasowe pw.
+Koszmar: Nasyła wizje powodujące 1k10 obrażeń i zmęczenie.
+Leczenie lekkich ran, zbiorowe: Leczy wielu istotom 1k8 obrażeń +1/poziom.
+Magiczna charakteryzacja: Zmienia wygląd jednej osoby na dwa poziomy.
+Miraż: Jak krajobrazowa halucynacja plus budowle.
+Pieśń niezgody: Zmusza ofiary do atakowania siebie nawzajem.
+Przejście światem cieni: Pozwala wkroczyć w cień i podróżować z dużą szybkością.
+Przyzwanie potwora V: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozproszenie magii, potężniejsze: Jak rozproszenie magii, ale +20 do testu.
+Sen: Wysyła wiadomość do śpiącej osoby.
+Sugestia, zbiorowa: Jak sugestia plus jeden podmiot/poziom.
+Wywoływanie poprzez cienie: Naśladuje wywoływania poniżej 5. poziomu, realne tylko w 20%.
+Zamglenie umysłu: Podmioty podlegają karze –10 do Rzt i rzutów obronnych na Wolę.
+Zmylenie kierunku: Czyni cię niewidzialnym i tworzy iluzoryczną kopię.

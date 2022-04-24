@@ -1,0 +1,35 @@
+Ciemność: Nienaturalne cienie zalegają na obszarze o promieniu 6 m.
+Cisza: Neguje dźwięki w promieniu 4,5 m.
+Eksplozja dźwięków: Zadaje ofiarom 1k8 obrażeń od dźwięku; może je oszołomić.
+Gracja kota: Podmiot zyskuje +4 do Zr na 1 min./poziom.
+Heroizm: Zapewnia +2 do testów ataków, rzutów obronnych i testów umiejętności.
+Hipnotyczny wzór: Wywołuje fascynację u w sumie (2k4 + poziom) KW istot.
+Języki: Umożliwia mówienie w jednym języku.
+Leczenie średnich ran: Leczy 2k8 obrażeń +1/poziom (maks. +10).
+Lustrzane odbicie: Tworzy fałszywe duplikaty twojej osoby w liczbie (1k4 +1 na trzy poziomy, maks. 8).
+Niewidzialność: Podmiot staje się niewidzialny na 1 min./poziom lub dopóki nie zaatakuje.
+Opóźnienie działania trucizny: Powstrzymuje działanie trucizny, która nie krzywdzi podmiotu przez 1 godzinę/poziom.
+Otumanienie potwora: Żywe istoty o maksymalnie 6 KW tracą następną akcję.
+Pirotechnika: Przemienia ogień w oślepiające światło lub duszący dym.
+Pomniejszy obraz: Jak milczący obraz plus nieco dźwięków.
+Przeinaczenie magii: Wprowadza w błąd percepcję istoty lub przedmiotu.
+Przekształcenie siebie: Pozwala przybrać postać podobnej istoty.
+Przyzwanie potwora II: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Przyzwanie roju: Przyzywa rój nietoperzy, szczurów lub pająków.
+Rozmycie: 20% ataków wymierzonych w podmiot chybia.
+Roztrzaskanie: Dźwiękowe wibracje powodują uszkodzenia przedmiotów lub kryształowych istot.
+Skrzący pył: Oślepia stworzenia; obrysowuje niewidzialne istoty.
+Splendor orła: Podmiot zyskuje +4 do Cha na 1 min./poziom.
+Spryt lisa: Podmiot zyskuje +4 do Int na 1 min./poziom.
+Sugestia: Zmusza podmiot do wykonania wskazanego działania.
+Szał: Zapewnia +2 do S i Bd oraz +1 do rzutów obronnych na Wolę i powoduje –2 do KP.
+Szepczący wiatr: Wysyła krótką wiadomość na odległość 1,5 km/poziom.
+Ślepota/głuchota: Sprawia, że ofiara staje się ślepa lub głucha.
+Unieruchomienie osoby: Paraliżuje jednego humanoida na 1 rundę/poziom.
+Uspokojenie emocji: Uspokaja istoty, negując efekty związane z emocjami.
+Wykrycie myśli: Pozwala “wsłuchiwać się” w powierzchowne myśli.
+Wystraszenie: Wywołuje panikę w istotach mających mniej niż 6 KW.
+Zachwyt: Ujmuje wszystkich w promieniu 30 m + 3 m/poziom.
+Zlokalizowanie przedmiotu: Wskazuje kierunek, w jakim znajduje się przedmiot (konkretny lub pewnego typu).
+Zwierzęcy posłaniec: Posyła malutkie zwierzę do konkretnego miejsca.
+Zwierzęcy trans: Wywołuje fascynację u sumie 2k6 KW zwierząt.

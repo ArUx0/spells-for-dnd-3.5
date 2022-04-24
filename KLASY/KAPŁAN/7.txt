@@ -1,0 +1,18 @@
+Azyl M: Zmienia przedmiot tak, by przetransportować do ciebie jego posiadacza.
+Bluźnierstwo: Zabija, paraliżuje, osłabia lub otumania ofiary, które nie są złe.
+Eteryczny spacer: Stajesz się eteryczny na 1 rundę/poziom.
+Kontrolowanie pogody: Zmienia pogodę w okolicy.
+Leczenie poważnych ran, zbiorowe: Leczy wielu istotom 3k8 obrażeń +1/poziom.
+Odrzucenie: Istoty nie mogą się do ciebie zbliżyć.
+Przywrócenie energii życiowej, potężniejsze D: Jak przywrócenie energii życiowej plus przywraca wszystkie poziomy i wartości wszystkich atrybutów.
+Przyzwanie potwora VII: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Regeneracja: Odcięte kończyny podmiotu odrastają, leczy 4k8 obrażeń +1/poziom (maks. +35).
+Sentencja: Zabija, paraliżuje, spowalnia lub ogłasza ofiary, które nie są praworządne.
+Słowo chaosu: Zabija, dezorientuje, oszałamia lub ogłasza ofiary, które nie są chaotyczne.
+Symbol osłabienia M: Uruchomiona runa osłabia znajdujące się w pobliżu istoty.
+Symbol oszołomienia M: Uruchomiona runa oszałamia znajdujące się w pobliżu istoty.
+Szpiegowanie, potężniejsze: Jak szpiegowanie, ale szybsze i na większy dystans.
+Święte słowo: Zabija, paraliżuje, oślepia lub ogłasza ofiary, które nie są dobre.
+Zadawanie poważnych ran, zbiorowe: Zadaje wielu istotom 3k8 obrażeń +1/poziom.
+Zmartwychwstanie M: Przywraca umarłego do pełni życia.
+Zniszczenie K: Zabija ofiarę i niszczy jej zwłoki.

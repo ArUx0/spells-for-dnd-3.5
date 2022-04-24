@@ -1,0 +1,16 @@
+Dłoń maga: Telekineza na 2,5 kg.
+Kuglarstwo: Powołuje do istnienia drobne sztuczki.
+Kołysanka: Ofiara robi się senna; –5 do testów Nasłuchiwania i Spostrzegawczości; –2 do rzutów obronnych na Wolę przeciw uśpieniu.
+Naprawa: Dokonuje drobnych napraw przedmiotu.
+Odczytanie magii: Pozwala odczytywać zwoje i księgi zaklęć.
+Odporność: Podmiot otrzymuje +1 do rzutów obronnych.
+Otumanienie: Humanoidalna istota o maksymalnie 4 KW traci następną akcję.
+Otwarcie/zamknięcie: Otwiera lub zamyka małe i lekkie przedmioty.
+Poznanie kierunku: Ustalasz, w jakim kierunku leży północ.
+Przyzwanie instrumentu: Sprowadza jeden instrument, który wybiera rzucający ten czar.
+Raca: Istota pada ofiarą olśnienia (-1 do testów ataków).
+Światło: Przedmiot rozświetla się niczym pochodnia.
+Tańczące światła: Tworzy pochodnie i innego typu światła.
+Wiadomość: Rozmowa szeptem na odległość.
+Widmowy odgłos: Tworzy złudne dźwięki.
+Wykrycie magii: Wykrywa czary i magiczne przedmioty w zasięgu 18 m.

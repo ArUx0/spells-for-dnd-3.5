@@ -1,0 +1,26 @@
+Alarm: Strzeże obszaru przez 2 godziny/poziom.
+Brzuchomówstwo: Przez 1 min./poziom pozwala zmieniać źródło pochodzenia głosu.
+Dezorientacja, słabsza: Jedna istota jest zdezorientowana przez rundę.
+Hipnoza: Wywołuje fascynację u w sumie 2k4 KW istot.
+Identyfikacja M: Wyjawia cechy magicznego przedmiotu.
+Leczenie lekkich ran: Leczy 1k8 obrażeń +1/poziom (maks. +5).
+Magiczna aura Nystula: Zmienia magiczną aurę przedmiotu.
+Magiczne usta M: Wypowiadają się raz po uaktywnieniu.
+Milczący obraz: Tworzy wymyśloną przez ciebie pomniejszą iluzję.
+Niewidoczny służący: Niewidzialny efekt mocy wykonuje twoje rozkazy.
+Niewykrywalny charakter: Ukrywa charakter na 24 godziny.
+Ożywienie liny: Sprawia, że lina porusza się zgodnie z twoją wolą.
+Przebranie: Zmienia twój wygląd.
+Przełamanie strachu: Tłumi strach lub zapewnia +4 do rzutów obronnych na strach jednemu podmiotowi i jednemu kolejnemu na cztery poziomy.
+Przyzwanie potwora I: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozumienie języków: Rozumiesz wszystkie języki i odczytujesz ich alfabet.
+Schowanie przedmiotu: Maskuje przedmiot przed szpiegowaniem.
+Spadające piórko: Przedmioty i istoty spadają powoli.
+Szybki odwrót: Twoja szybkość zwiększa się o 9 m.
+Tłuszcz: Sprawia, że przedmiot lub kwadrat o boku 3 m staje się śliski.
+Upiorny śmiech Tashy: Podmiot traci akcje na 1 rundę/poziom.
+Uśpienie: Układa do magicznego snu w sumie 4 KW istot.
+Wykrycie sekretnych drzwi: Ujawnia sekretne drzwi w zasięgu 18 m.
+Wymazywanie: Powoduje zniknięcie zwykłych i magicznych zapisków.
+Wywołanie strachu: Jedna istota o maksymalnie 5 KW ucieka przez 1k4 rundy.
+Zauroczenie osoby: Sprawia, że jedna osoba staje się twoim przyjacielem.

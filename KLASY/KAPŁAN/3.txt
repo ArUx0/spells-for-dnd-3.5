@@ -1,0 +1,31 @@
+Chodzenie po wodzie: Podmiot maszeruje po wodzie jak po stałym gruncie.
+Glif strażniczy M: Inskrypcja krzywdząca istoty, które po niej przejdą.
+Głębsza ciemności: Przedmiot rzuca nadnaturalny cień w promieniu 18 m.
+Kształtowanie kamienia: Nadaje kamieniowi dowolny kształt.
+Leczenie poważnych ran: Leczy 3k8 obrażeń +1/poziom (maks. +15).
+Magiczna szata: Zbroja lub tarcza otrzymuje +1 z usprawnienia na cztery poziomy.
+Magiczny krąg przeciw chaosowi/dobru/prawu/złu: Jak czar ochrony, ale promień 3 m i 10 min./poziom.
+Modlitwa: Sprzymierzeńcy otrzymują premię +1 do większości rzutów, a wrogowie podlegają karze –1.
+Nałożenie klątwy: –6 do wartości atrybutów; –4 do testów ataków, rzutów obronnych oraz testów umiejętności i atrybutów; lub 50% ryzyka utraty następnej akcji.
+Nieustający płomień M: Tworzy permanentną, niewydzielającą ciepła pochodnię.
+Ochrona przed energią: Absorbuje 12 obrażeń/poziom spowodowanych przez energię konkretnego rodzaju.
+Oddychanie wodą: Podmiot może oddychać pod wodą.
+Ożywienie umarłego M: Tworzy nieumarłych – szkielety i zombich.
+Piekące światło: Promień zadaje 1k8 obrażeń/dwa poziomy, a nieumarłym więcej.
+Pomocna dłoń: Widmowa dłoń prowadzi do ciebie podmiot.
+Przełamanie choroby: Leczy wszystkie choroby, na które cierpi podmiot.
+Przełamanie klątwy: Uwalnia przedmiot lub osobę spod działania klątwy.
+Przełamanie ślepoty/głuchoty: Leczy normalne i magiczne dolegliwości tego rodzaju.
+Przyzwanie potwora III: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozmawianie ze zmarłymi: Zwłoki odpowiadają na jedno pytanie/dwa poziomy.
+Rozproszenie magii: Neguje działanie czarów i efektów magicznych.
+Schowanie przedmiotu: Maskuje przedmiot przed szpiegowaniem.
+Stopienie z kamieniem: Wraz z wyposażeniem łączysz się z kamieniem.
+Stworzenie jedzenia i wody: Wykarmia trzech ludzi (lub jednego konia)/poziom.
+Ściana wiatru: Zatrzymuje strzały, mniejsze istoty oraz gazy.
+Ślepota/głuchota: Sprawia, że ofiara staje się ślepa lub głucha.
+Światło dnia: Powołuje do istnienia jasne światło w promieniu 18 m.
+Wyczyszczenie niewidzialności: Rozprasza niewidzialność w promieniu 1,5 m/poziom.
+Zadawanie poważnych ran: Atak dotykowy, 3k8 obrażeń +1/poziom (maks. +15).
+Zakażenie: Zaraża ofiarę wybraną chorobą.
+Zlokalizowanie przedmiotu: Wskazuje kierunek, w jakim znajduje się przedmiot (konkretny lub pewnego typu).

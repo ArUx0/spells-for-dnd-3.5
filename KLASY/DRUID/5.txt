@@ -1,0 +1,19 @@
+Drzewny krok: Przechodzenie pomiędzy drzewami rosnącymi w dużej odległości.
+Kamienna skóra M: Pozwala ignorować 10 obrażeń na atak.
+Kontrolowanie wiatrów: Zmienia kierunek i siłę wiatru.
+Leczenie krytycznych ran: Leczy 4k8 obrażeń +1/poziom (maks. +20).
+Obcowanie z naturą: Poznanie terenu w promieniu 1,5 km/poziom.
+Ochrona przed śmiercią: Zapewnia niepodatność na czary śmierci oraz efekty oparte na energii negatywnej.
+Plaga insektów: Rój atakuje istoty.
+Pokuta: Zdejmuje z podmiotu brzemię złych uczynków.
+Powiększenie zwierzęcia: Podwaja rozmiar jednego zwierzęcia/dwa poziomy.
+Przebudzenie D: Zwierzę lub drzewo zyskuje ludzką inteligencję.
+Przeklęcie M: Wskazane miejsce staje się przeklętym.
+Przemiana błota w skałę: Przemienia dwa sześciany o krawędzi 3 m na poziom.
+Przemiana skały w błoto: Przemienia dwa sześciany o krawędzi 3 m na poziom.
+Przyzwanie sojusznika natury V: Sprowadza istotę, by walczyła.
+Szkodliwa polimorfia: Przemienia podmiot w nieszkodliwe zwierzę.
+Ściana cierni: Ciernie ranią każdego, kto próbuje przez nie przejść.
+Ściana ognia: Zadaje 2k4 obrażenia od ognia na dystans do 3 m i 1k4 w odległości do 6 m; przejście przez ścianę powoduje 2k6 obrażeń +1/poziom.
+Uświęcenie M: Wskazane miejsce staje się świętym.
+Wezwanie burzy z piorunami: Jak wezwanie błyskawic, ale każda zadaje 5k6 obrażeń.

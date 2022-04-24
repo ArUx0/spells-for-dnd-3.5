@@ -1,0 +1,10 @@
+Antypatia: Przedmiot lub miejsce pod działaniem zaklęcia odpycha wskazane istoty.
+Burza zemsty: Burza, deszcz kwasu, błyskawice i grad.
+Gnilnik: Przyzywa 1k4+2 gnilniki, które dla ciebie walczą.
+Leczenie krytycznych ran, zbiorowe: Leczy wielu istotom 4k8 obrażeń +1/poziom.
+Przezorność: “Szósty zmysł” ostrzega przed nadchodzącym niebezpieczeństwem.
+Przyzwanie sojusznika natury IX: Sprowadza istotę, by walczyła.
+Regeneracja: Odcięte kończyny podmiotu odrastają, leczy 4k8 obrażeń +1/poziom (maks. +35).
+Rój żywiołaków: Przyzywa kilka żywiołaków.
+Sympatia M: Przedmiot lub miejsce przyciąga wskazane istoty.
+Zmiana kształtów K: Przemienia cię w dowolną istotę, a ponadto możesz raz w rundzie zmieniać kształty.

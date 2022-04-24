@@ -1,0 +1,43 @@
+IluzDługotrwały obraz: Jak zaawansowany obraz, ale koncentracja nie jest wymagana.
+Fałszywy obraz M: Za pomocą iluzji oszukuje szpiegowanie.
+Koszmar: Nasyła wizje powodujące 1k10 obrażeń i zmęczenie.
+Magiczna charakteryzacja: Zmienia wygląd jednej osoby na dwa poziomy.
+Miraż: Jak krajobrazowa halucynacja plus budowle.
+Sen: Wysyła wiadomość do śpiącej osoby.
+Wywoływanie poprzez cienie: Naśladuje wywoływania poniżej 5. poziomu, realne tylko w 20%.
+NekroFale zmęczenia: Kilka ofiar staję się zmęczona.
+Magiczny słój K: Pozwala opętać istotę.
+Symbol bólu M: Uruchomiona runa wywołuje ból w pobliskich istotach.
+Więdnięcie: Powoduje uwiąd jednej rośliny lub zadaje roślinnej istocie 1k6/poziom obrażeń.
+OczarOgłupienie: Int i Cha ofiary spadają do 1.
+Symbol uśpienia M: Uruchomiona runa wprowadza istoty w katatoniczną drzemkę.
+Unieruchomienie potwora: Jak unieruchomienie osoby, ale wpływa na istoty dowolnego rodzaju.
+Zamglenie umysłu: Podmioty podlegają –10 do Rzt i rzutów obronnych na Wolę.
+Zdominowanie osoby: Pozwala telepatycznie kontrolować humanoidów.
+OdrzucOdesłanie: Zmusza istotę do powrotu na rodzimy plan.
+Zaciszna kryjówka maga: Uniemożliwia przez 24 godziny wszelką obserwację lub szpiegowanie obszaru.
+Złamanie zaklęcia: Uwalnia podmiot od oczarowań, klątw, petryfikacji i przemian.
+PozKontakt z innym planem: Pozwala zadać pytanie pozaplanarnemu bytowi.
+Telepatyczna więź: Połączenie umożliwiające porozumiewanie się sprzymierzeńcom.
+Wścibskie oczy: 1k4 +1/poziom dryfujących oczu przeprowadza dla ciebie zwiad.
+PrzemDługotrwały lot: Możesz latać z szybkością 12 m i stosować pośpiech na długich dystansach.
+Przejście w ścianie: Tworzy przejście w drewnianej lub kamiennej ścianie.
+Przemiana błota w skałę: Przemienia dwa sześciany o krawędzi 3 m na poziom.
+Przemiana skały w błoto: Przemienia dwa sześciany o krawędzi 3 m na poziom.
+Powiększenie zwierzęcia: Podwaja rozmiar jednego zwierzęcia/dwa poziomy.
+Szkodliwa polimorfia: Przemienia podmiot w nieszkodliwe zwierzę.
+Telekineza: Porusza przedmiot, atakuje istotę, bądź też rzuca rzeczą lub stworzeniem.
+Wytwarzanie: Przemienia surowce w gotowe przedmioty.
+UniwUtrwalenie D: Sprawia, że pewne czary stają się permanentne.
+PrzywPlanarne spętanie, słabsze: Więzi pozaplanarną istotę o 6 KW lub mniej, dopóki nie wypełni zadania.
+Przyzwanie potwora V: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Sekretny kufer K: Pozwala ukryć cenny kufer na Planie Eterycznym; możesz go odzyskać na życzenie.
+Ściana kamieni: Tworzy kamienną ścianę, którą można ukształtować.
+Teleportacja: Natychmiast transportuje cię na odległość do 150 km/poziom.
+Wierny pies maga: Widmowy pies, który strzeże i atakuje.
+Zaawansowane tworzenie: Jak pomniejsze tworzenie, plus kamień i metal.
+Zabójcza chmura: Zabija istoty o 3 KW lub mniej; te o 4-6 KW giną po nieudanym rzucie obronnym; te o 6+ KW tracą Bd.
+WywołPowstrzymująca dłoń: Dłoń zapewnia osłonę względem jednego przeciwnika.
+Przesłanie wieści: Natychmiast dostarcza krótką wiadomość do dowolnego miejsca.
+Stożek zimna: 1k6/poziom obrażeń od zimna.
+Ściana mocy: Ściana niepodatna na uszkodzenia.

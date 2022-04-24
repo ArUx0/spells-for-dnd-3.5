@@ -1,0 +1,9 @@
+Leczenie poważnych ran: Leczy 3k8 obrażeń +1/poziom (maks. +15).
+Neutralizacja trucizny: Wywołuje w podmiocie niepodatność na truciznę; detoksykuje jad na lub w podmiocie.
+Ochrona przed śmiercią: Zapewnia niepodatność na czary śmierci oraz efekty oparte na energii negatywnej.
+Przywrócenie energii życiowej M: Przywraca poziom oraz wysączoną wartość atrybutu.
+Rozproszenie chaosu: Premia +4 względem ataków istot chaotycznych.
+Rozproszenie zła: Premia +4 względem ataków złych istot.
+Święty miecz: Broń staje się orężem +5 i zadaje +2k6 obrażeń złym przeciwnikom.
+Złamanie zaklęcia: Uwalnia podmiot od oczarowań, klątw, petryfikacji i przemian.
+Znak sprawiedliwości: Wskazana czynność spowoduje zadziałanie klątwy, która wpłynie na podmiot.

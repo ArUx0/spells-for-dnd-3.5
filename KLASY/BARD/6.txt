@@ -1,0 +1,20 @@
+Analiza dweomeru K: Wyjawia magiczne aspekty podmiotu.
+Gracja kota, zbiorowa: Jak gracja kota, ale wpływa na jeden podmiot/poziom.
+Kąśliwy wzrok: Ofiara wpada w panikę, ulega osłabieniu i zapada w śpiączkę.
+Krzyk, potężniejszy: Niszczący krzyk powoduje 10k6 obrażeń od dźwięku; oszałamia istoty; uszkadza przedmioty.
+Leczenie średnich ran, zbiorowe: Leczy wielu istotom 2k8 obrażeń +1/poziom.
+Ożywienie przedmiotów: Przedmioty atakują twoich przeciwników.
+Porywający taniec: Zmusza ofiarę do tańca.
+Projekcja duplikatu: Iluzoryczny duplikat mówi i rzuca czary.
+Przyzwanie potwora VI: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rezonujące wibracje: Wolnostojące budowle otrzymują 2k10 uszkodzeń/rundę.
+Splendor orła, zbiorowy: Jak splendor orła, ale wpływa na jeden podmiot/poziom.
+Spryt lisa, zbiorowy: Jak spryt lisa, ale wpływa na jeden podmiot/poziom.
+Szpiegowanie, potężniejsze: Jak szpiegowanie, ale szybsze i na większy dystans.
+Trwały obraz: Obejmuje obrazy, dźwięki i zapachy.
+Uczta bohaterów: Jedzenie dla jednej istoty/na poziom, które leczy i zapewnia premie do walki.
+Zadanie/misja: Jak słabsze zadanie plus wpływa na istotę dowolnego rodzaju.
+Zaprogramowany obraz M: Jak zaawansowany obraz, ale uaktywnia go wydarzenie.
+Zasłona: Zmienia wygląd grupy istot.
+Zauroczenie potwora, zbiorowe: Jak zauroczenie potwora, ale wpływa na wszystkie stworzenia w promieniu 9 m.
+Znalezienie ścieżki: Pokazuje najbliższą drogę do jakiegoś miejsca.

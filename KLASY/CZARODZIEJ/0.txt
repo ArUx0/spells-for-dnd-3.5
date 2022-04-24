@@ -1,0 +1,19 @@
+NekroDotyk zmęczenia: Udany atak dotykowy powoduje zmęczenie ofiary.
+Zranienie nieumarłego: Zadaje jednemu nieumarłemu 1k6 obrażeń.
+OczarOtumanienie: Humanoidalna istota o maksymalnie 4 KW traci następną akcję.
+OdrzucOdporność: Podmiot otrzymuje +1 do rzutów obronnych.
+PozOdczytanie magii: Pozwala odczytywać zwoje i księgi zaklęć.
+Wykrycie magii: Wykrywa czary i magiczne przedmioty w zasięgu 18 m.
+Wykrycie trucizny: Wykrywa truciznę w jednej istocie lub przedmiocie.
+PrzemDłoń maga: Telekineza na 2,5 kg.
+Naprawa: Dokonuje drobnych napraw przedmiotu.
+Otwarcie/zamknięcie: Otwiera lub zamyka małe i lekkie rzeczy.
+Wiadomość: Rozmowa szeptem na odległość.
+PrzywWybuch kwasu: Kula zadająca 1k3 obrażenia od kwasu.
+UniwMistyczny znak: Umożliwia zapisanie prywatnej runy (widocznej lub nie).
+Kuglarstwo: Powołuje do istnienia drobne sztuczki.
+WywołPromień mrozu: Promień zadający 1k3 obrażenia od zimna.
+Raca: Istota pada ofiarą olśnienia (–1 do testów ataków).
+Światło: Przedmiot rozświetla się niczym pochodnia.
+Tańczące światła: Tworzy pochodnie i innego typu światła.
+Widmowy odgłos: Tworzy złudne dźwięki.

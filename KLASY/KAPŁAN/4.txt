@@ -1,0 +1,23 @@
+Boska moc: Zyskujesz premię do ataku, +6 do S, i 1 pw/poziom.
+Języki: Umożliwia mówienie w jednym języku.
+Kontrolowanie wody: Unosi lub obniża poziom wody.
+Leczenie krytycznych ran: Leczy 4k8 obrażeń +1/poziom (maks. +20).
+Magiczna broń, potężniejsza: Premia +1/cztery poziomy (maks. +5).
+Nadanie zdolności czarowania: Przenosi czary na podmiot.
+Neutralizacja trucizny: Wywołuje w podmiocie niepodatność na truciznę; detoksykuje jadna lub w podmiocie.
+Niepodatność na czar: Podmiot staje się niepodatny na jeden czar na cztery poziomy.
+Ochrona przed śmiercią: Zapewnia niepodatność na czary śmierci oraz efekty oparte na energii negatywnej.
+Odesłanie: Zmusza istotę do powrotu na rodzimy plan.
+Odpychanie robactwa: Owady, pająki i inne robactwo trzyma się na dystans 3 m.
+Ogromne robactwo: Przemienia stonogi, skorpiony lub pająki w ogromne robactwo.
+Planarny sojusznik, słabszy D: Wymiana przysług z pozaplanarną istotą o 6 KW.
+Proroctwo M: Daje przydatną radę dotyczącą planowanych działań.
+Przesłanie wieści: Natychmiast dostarcza krótką wiadomość do dowolnego miejsca.
+Przywrócenie energii życiowej M: Przywraca poziom oraz wysączoną wartość atrybutu.
+Przyzwanie potwora IV: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Stąpanie w powietrzu: Podmiot maszeruje w powietrzu jak po stałym gruncie (wspina się pod kątem 45 stopni).
+Swoboda działania: Podmiot porusza się normalnie pomimo ograniczeń.
+Trucizna: Dotyk powoduje obniżenie Bd o 1k10, powtarzające się po 1 min.
+Ujawnienie kłamstw: Ujawnia zamierzone oszustwa.
+Zadawanie krytycznych ran: Atak dotykowy, 4k8 obrażeń +1/poziom (maks. +20).
+Zakotwiczenie w wymiarze: Uniemożliwia międzywymiarowe wędrówki.

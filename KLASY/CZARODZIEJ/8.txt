@@ -1,0 +1,35 @@
+IluzBarwny wzór: Zmieniające się kolory dezorientują, oszałamiają lub powodują utratę przytomności.
+Ekran: Iluzja ukrywa obszar przed wzrokiem i szpiegowaniem.
+Wywoływanie poprzez cienie, potężniejsze: Jak wywoływanie poprzez cienie, ale do 7. poziom i w 60% prawdziwe.
+NekroKlon MK: Kiedy oryginał ginie, budzi się duplikat.
+Ohydne usychanie: Powoduje 1k6/poziom obrażeń w promieniu 9 m.
+Stworzenie potężniejszych nieumarłych M: Tworzy cienie, widma, widziadła lub pożeraczy.
+Symbol śmierci M: Uruchomiona runa zabija pobliskie istoty.
+OczarAntypatia: Przedmiot lub miejsce pod działaniem zaklęcia odpycha wskazane istoty.
+Porywający taniec: Zmusza ofiarę do tańczenia.
+Słowo mocy: oszołomienie: Oszałamia jedną istotę o 150 lub mniej pw.
+Spętanie M: Wykorzystuje różnorodne techniki, by uwięzić istotę.
+Symbol obłędu M: Uruchomiona runa wywołuje obłęd u znajdujących się w pobliżu istot.
+Sympatia K: Przedmiot lub miejsce przyciąga wskazane istoty.
+Zauroczenie potwora, zbiorowe: Jak zauroczenie potwora, ale wpływa na wszystkie w promieniu 9 m.
+Żądanie: Jak przesłanie wieści, plus ślesz sugestię.
+OdrzucOchrona przed czarami MK: Zapewnia premię z odporności +8.
+Pryzmatyczna ściana: Kolory ściany mają różnorodne efekty.
+Zabezpieczenie wymiaru: Teleportacja i międzyplanarna podróż zostają zablokowane na okres 1 dnia/poziom.
+Znieczulenie umysłu: Podmiot zyskuje niepodatność na magię mentalną/emocjonalną oraz szpiegowanie.
+PozChwilowe olśnienie: Zyskujesz premię z olśnienia do jednego testu ataku, rzutu obronnego, testu umiejętności lub atrybutu.
+Ujawnienie położenia: Ujawnia dokładne położenie istoty lub przedmiotu.
+Wścibskie oczy, potężniejsze: Jak wścibskie oczy, ale oczy znajdują się pod działaniem widzenia prawdy.
+PrzemPolimorfowanie dowolnego obiektu: Zmienia dowolny podmiot w dowolny inny.
+Tymczasowy zastój M: Podmiot popada w stan zatrzymania funkcji życiowych.
+Żelazne ciało: Twoje ciało staje się żyjącym żelazem.
+PrzywLabirynt: Ofiara wpada w pułapkę – pozawymiarowy labirynt.
+Planarne spętanie, potężniejsze: Jak słabsze planarne spętanie, ale do 18 KW.
+Przyzwanie potwora VIII: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Uwięzienie duszy MK: Więzi ofiarę w klejnocie.
+Zapalająca chmura: Chmura powoduje 4k6 obrażeń od ognia/rundę.
+WywołKrzyk, potężniejszy: Niszczący krzyk powoduje 10k6 obrażeń od dźwięku; oszałamia istoty; uszkadza przedmioty.
+Promień chłodu: Udany atak dotykowy dystansowy powoduje 1k6/poziom obrażeń od zimna.
+Słoneczny wybuch: Oślepia wszystkich w promieniu 3 m i zadaje 6k6 obrażeń.
+Telekinetyczna sfera: Jak nienaruszalna sfera, ale możesz nią poruszać telepatycznie.
+Zaciśnięta pięść: Duża ręka zapewnia osłonę, popycha lub atakuje twoich przeciwników.

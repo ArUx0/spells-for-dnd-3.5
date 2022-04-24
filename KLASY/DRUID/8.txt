@@ -1,0 +1,11 @@
+Kontrolowanie roślin: Kontroluje działanie jednej lub większej liczby istot roślinnych.
+Leczenie poważnych ran, zbiorowe: Leczy wielu istotom 3k8 obrażeń +1/poziom.
+Odpychanie metalu i kamienia: Odpycha metal i kamień.
+Odwrócenie grawitacji: Przedmioty i istoty spadają “do góry”.
+Palec śmierci: Zabija jedną istotę.
+Przyzwanie sojusznika natury VIII: Sprowadza istotę, by walczyła.
+Słoneczny wybuch: Oślepia wszystkich w promieniu 3 m i zadaje 6k6 obrażeń.
+Słowo powrotu: Teleportuje cię z powrotem we wskazane miejsce.
+Trąba powietrzna: Cyklon, który powoduje obrażenia i może porwać istoty.
+Trzęsienie ziemi: Intensywne wstrząsy w promieniu 1,5 m/poziom.
+Zwierzęce kształty: Jeden sprzymierzeniec/poziom poliformuje się w wybrane zwierzę.

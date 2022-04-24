@@ -1,0 +1,42 @@
+IluzIluzoryczne pismo M: Tworzy zapiski, które może odcyfrować tylko wybrana osoba.
+Przemieszczanie: 50% ataków wymierzonych w podmiot chybia.
+Sfera niewidzialności: Wszyscy w promieniu 3 m stają się niewidzialni.
+Zaawansowany obraz: Jak milczący obraz plus dźwięki, zapachy i efekty cieplne.
+NekroDotyk wampira: Dotyk zadaje 1k6/dwa poziomy obrażeń; rzucający czar zyskuje tyle pw, ile zadał ran.
+Promień wyczerpania: Promień sprawia, że ofiara jest wyczerpana.
+Spowolniony rozkład: Chroni przed rozkładem jedne zwłoki.
+Zatrzymanie nieumarłego: Unieruchamia nieumarłego na 1 runda/poziom.
+OczarGłęboka drzemka: Usypia istoty mające w sumie 10 KW.
+Heroizm: Zapewnia +2 do testów ataków, rzutów obronnych i testów umiejętności
+Sugestia: Zmusza podmiot do wykonania wskazanego działania.
+Szał: Zapewnia +2 do S i Bd oraz +1 do rzutów obronnych na Wolę i powoduje –2 do KP
+Unieruchomienie osoby: Paraliżuje jednego humanoida na 1 rundę/poziom.
+OdrzucMagiczny krąg przeciw chaosowi/dobru/prawu/złu: Jak czar ochrony, ale promień 3 m i 10 min./poziom.
+Niewykrywalność M: Ukrywa podmiot przed poznaniem i szpiegowaniem.
+Ochrona przed energią: Absorbuje 12 obrażeń/poziom spowodowanych przez energię konkretnego rodzaju.
+Rozproszenie magii: Neguje efekty magiczne i zaklęcia.
+Wybuchające runy: Przeczytane powodują 6k6 obrażeń.
+PozJasnosłyszenie/jasnowidzenie: Pozwala przez 1 min./poziom słyszeć lub widzieć na odległość.
+Języki: Umożliwia mówienie w jednym języku.
+Mistyczny wzrok: Zaczynasz widzieć magiczne aury.
+PrzemMagiczna broń, potężniejsza: +1/cztery poziomy (maks. +5).
+Migotanie: Przez 1 rundę/poziom to znikasz, to się pojawiasz.
+Latanie: Podmiot lata z szybkością 18 m.
+Postać gazowa: Podmiot staje się niematerialny i może powoli latać.
+Przyspieszenie: Jedna istota/poziom porusza się szybciej, zyskując +1 do testów ataków, KP oraz rzutów obronnych na Refleks.
+Oddychanie wodą: Podmiot może oddychać pod wodą.
+Ognista strzała: Strzały zadają +1k6 obrażeń od ognia.
+Ostra krawędź: Podwaja normalny przypisany broni zasięg zagrożenia krytkiem.
+Sekretna strona: Zmienia jedną stronę tak, by ukryć jej prawdziwą zawartość.
+Skurczenie przedmiotu: Przedmiot zmniejsza się do 1/16 swego rozmiaru.
+Spowolnienie: Jeden podmiot/poziom może wykonywać w rundzie tylko jedną akcję oraz podlega karze –2 do KP i testów ataków.
+PrzywDeszcz ze śniegiem: Utrudnia poruszanie się i ogranicza pole widzenia.
+Przyzwanie potwora III: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Śmierdząca chmura: Opary wywołujące mdłości, 1 runda/poziom.
+Widmowy rumak: Na 1 godzinę/poziom pojawia się magiczny koń.
+Zygzak atramentowego węża M: Tworzy symbol, który unieruchamia czytającego tekst.
+WywołBłyskawica: Elektryczność powoduje 1k6/poziom obrażeń.
+Chatka: Tworzy schronienie dla 10 istot.
+Kula ognista: 1k6 obrażeń na poziom, promień 6 m.
+Ściana wiatru: Zatrzymuje strzały, mniejsze istoty oraz gazy.
+Światło dnia: Powołuje do istnienia jasne światło w promieniu 18 m.

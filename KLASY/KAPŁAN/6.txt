@@ -1,0 +1,26 @@
+Bariera z ostrzy: Ściana ostrzy zadaje 1k6 obrażeń/poziom.
+Glif strażniczy, potężniejszy: Jak glif strażniczy, ale do 10k8 obrażeń lub czar 6. poziomu.
+Krzywda: Zadaje ofierze 10 obrażeń/poziom.
+Leczenie średnich ran, zbiorowe: Leczy wielu istotom 2k8 obrażeń +1/poziom.
+Mądrość sowy, zbiorowa: Jak mądrość sowy, ale wpływa na jeden podmiot/poziom.
+Ożywienie przedmiotów: Przedmioty atakują twoich przeciwników.
+Planarny sojusznik D: Jak słabszy planarny sojusznik, ale do 12 KW.
+Powłoka ochrony przed życiem: 3-metrowe pole trzyma na odległość żyjące istoty.
+Przyzwanie potwora VI: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozproszenie magii, potężniejsze: Jak rozproszenie magii, lecz do +20 do testu.
+Siła byka, zbiorowa: Jak siła byka, ale wpływa na jeden podmiot/poziom.
+Słowo powrotu: Teleportuje cię z powrotem we wskazane miejsce.
+Spacer w chmurach: Ty i twoi sprzymierzeńcy przemieniacie się w opary i szybko podróżujecie.
+Splendor orła, zbiorowy: Jak splendor orła, ale wpływa na jeden podmiot/poziom.
+Stworzenie nieumarłych: Tworzy ghoule, ghasty, mumie lub mohrgów.
+Symbol strachu M: Uruchomiona runa wywołuje panikę w znajdujących się w pobliżu istotach.
+Symbol perswazji M: Uruchomiona runa wywołuje zauroczenie w znajdujących się w pobliżu istotach.
+Uczta bohaterów: Jedzenie dla jednej istoty/na poziom, które leczy i zapewnia premie do walki.
+Uzdrowienie: Leczy 10 obrażeń/poziom oraz wszystkie choroby i ułomności umysłowe.
+Wygnanie: Wygania 2 KW/poziom istot pozaplanarnych.
+Wytrzymałość niedźwiedzia, zbiorowa: Jak wytrzymałość niedźwiedzia, ale wpływa na jeden podmiot/poziom.
+Zabicie nieumarłego M: Niszczy 1k4 KW/poziom nieumarłych (maks. 20k4).
+Zadanie/misja: Jak słabsze zadanie plus wpływa na istotę dowolnego rodzaju.
+Zadawanie średnich ran, zbiorowe: Zadaje wielu istotom 2k8 obrażeń +1/poziom.
+Zamknięcie obszaru M: Blokuje podróże planarne oraz rani istoty o odmiennym charakterze.
+Znalezienie ścieżki: Pokazuje najkrótszą drogę do jakiegoś miejsca.

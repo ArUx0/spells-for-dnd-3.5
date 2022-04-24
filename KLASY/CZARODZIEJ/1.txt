@@ -1,0 +1,39 @@
+IluzBrzuchomówstwo: Przez 1 min./poziom pozwala zmieniać źródło pochodzenia głosu.
+Deszcz kolorów: Powoduje utratę przytomności, oślepienie i/lub oszołomienie u 1k6 słabych istot.
+Magiczna aura: Zmienia magiczną aurę przedmiotu.
+Milczący obraz: Tworzy wymyśloną przez ciebie pomniejszą iluzję.
+Przebranie: Zmienia twój wygląd.
+NekroDotyk chłodu: Jeden dotyk/poziom powoduje 1k6 obrażeń oraz może obniżyć o 1 wartość S.
+Promień osłabienia: Promień obniżający S o 1k6 +1 na dwa poziomy.
+Wywołanie strachu: Jedna istota o maksymalnie 5 KW ucieka przez 1k4 rundy.
+OczarHipnoza: Wywołuje fascynację u w sumie 2k4 KW istot.
+Uśpienie: Układa do magicznego snu w sumie 4 KW istot.
+Zauroczenie osoby: Sprawia, że jedna osoba staje się twoim przyjacielem.
+OdrzucAlarm: Strzeże obszaru przez 2 godziny/poziom.
+Ochrona przed chaosem/dobrem/prawem/złem: +2 do KP i rzutów obronnych; zapobiega kontroli umysłowej; trzyma z dala żywiołaki i przybyszów.
+Odporność na żywioły: Umożliwia bezproblemowe przebywanie w gorącym lub mroźnym środowisku.
+Tarcza: Niewidzialny dysk zapewnia +4 do KP, blokuje magiczne pociski.
+Zamknięcie drzwi: Utrzymuje drzwi zamknięte.
+PozCelny cios: Otrzymujesz +20 do następnego testu ataku.
+Identyfikacja M: Wyjawia cechy przedmiotu magicznego.
+Rozumienie języków: Rozumiesz wszystkie języki i znasz ich alfabet.
+Wykrycie nieumarłych: Ujawnia nieumarłych w zasięgu 18 m.
+Wykrycie sekretnych drzwi: Ujawnia sekretne drzwi w zasięgu 18 m.
+PrzemMagiczna broń: Broń zyskuje premię +1.
+Ożywienie liny: Sprawia, że lina porusza się zgodnie z twoją wolą.
+Pomniejszenie osoby: Humanoid zwiększa o połowę swój rozmiar.
+Powiększenie osoby: Humanoid dwukrotnie zwiększa swój rozmiar.
+Skok: Podmiot otrzymuje premię do testów Skakania.
+Spadające piórko: Przedmioty i istoty spadają powoli.
+Szybki odwrót: Twoja szybkość zwiększa się o 9 m.
+Wymazywanie: Powoduje zniknięcie zwykłych i magicznych zapisków.
+PrzywNieprzenikniona mgła: Otacza cię mgła.
+Niewidoczny służący: Niewidzialny efekt mocy wykonuje twoje rozkazy.
+Przyzwanie potwora I: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Tłuszcz: Sprawia, że przedmiot lub kwadrat o boku 3 m staje się śliski.
+Wierzchowiec: Przyzywa na 2 godziny/poziom jezdnego konia.
+Zbroja maga: Zapewnia podmiotowi premię z pancerza +4.
+WywołMagiczny pocisk: 1k4+1 obrażeń; +1 pocisk na dwa poziomy powyżej 1 (maks. 5).
+Płonące dłonie: 1k4/poziom obrażeń od ognia (maks. 5k4).
+Porażający uścisk: Dotyk powoduje 1k6/poziom obrażeń od elektryczności (maks. 5k6).
+Unoszący się dysk: Tworzy unoszący się w poziomie dysk średnicy 90 cm, który jest w stanie utrzymać ciężar 50 kg/poziom.

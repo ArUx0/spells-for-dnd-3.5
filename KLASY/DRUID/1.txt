@@ -1,0 +1,20 @@
+Błogosławione jagody: Każda z 2k4 jagód leczy 1 pw (maks. 8 pw/24 godziny).
+Długi krok: Zwiększa twą szybkość o 3 m.
+Leczenie lekkich ran: Leczy 1k8 obrażeń +1/poziom (maks. +5).
+Magiczny kamień: Trzy kamienie stają się pociskami +1 i zadają 1k6 +1 obrażeń.
+Magiczny kieł: Jedna naturalna broń podmiotu otrzymuje premię +1 do testów ataków i obrażeń.
+Magiczny kostur: Pałka lub drąg staje się na 1 min./poziom bronią +1 (1k10 obrażeń).
+Nieprzenikniona mgła: Otacza cię mgła.
+Odporność na żywioły: Umożliwia przebywanie w gorącym lub mroźnym środowisku.
+Oplątanie: Rośliny oplątują wszystkich w promieniu 12 m.
+Płomienna otoczka: Otacza podmiot światłem, negując rozmycie, ukrycie i podobne efekty.
+Przejście bez śladu: Jeden podmiot/poziom nie pozostawia śladów.
+Przyzwanie sojusznika natury I: Sprowadza istotę, by za ciebie walczyła.
+Rozmawianie ze zwierzętami: Potrafisz się komunikować ze zwierzętami.
+Rozpalenie płomieni: 1k6 obrażeń +1/poziom – po dotknięciu lub rzuceniu.
+Skok: Podmiot otrzymuje premię do testów Skakania.
+Ukrycie przed zwierzętami: Zwierzęta nie są w stanie wyczuć jednego podmiotu/poziom.
+Uspokojenie zwierzęcia: Uspokaja (2k4 + poziom) KW zwierząt.
+Wykrycie wnyków i jam: Ujawnia naturalne lub prymitywne pułapki.
+Wykrycie zwierząt lub roślin: Wykrywa zwierzęta lub rośliny danego gatunku.
+Zauroczenie zwierzęcia: Jedno zwierzę staje się twoim przyjacielem.

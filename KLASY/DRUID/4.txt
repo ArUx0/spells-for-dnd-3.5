@@ -1,0 +1,17 @@
+Cierniste kamienie: Istoty w obszarze działania otrzymują 1k8 obrażeń i mogą ulec spowolnieniu.
+Kontrolowanie wody: Unosi lub obniża poziom wody.
+Leczenie poważnych ran: Leczy 3k8 obrażeń +1/poziom (maks. +15).
+Lodowa nawałnica: Grad zadaje 5k6 obrażeń na obszarze walca o średnicy 12 m.
+Odpychanie robactwa: Owady, pająki i inne robactwo trzymają się na dystans 3 m.
+Ogniste uderzenie: Boski ogień rani wrogów (1k6 obrażeń/poziom).
+Ogromne robactwo: Przemienia stonogi, skorpiony lub pająki w ogromne robactwo.
+Powłoka ochrony przed roślinami: Trzyma rośliny na odległość.
+Przyzwanie sojusznika natury IV: Sprowadza istotę, by walczyła.
+Rdzewienie: Twój dotyk powoduje korozję żelaza i stopów.
+Reinkarnacja: Przywraca zmarły podmiot do życia, obdarzając go losowo wybranym ciałem.
+Rozkazywanie roślinom: Narzuca działania jednej lub większej liczbie istot roślinnych.
+Rozproszenie magii: Neguje działanie czarów i efektów magicznych.
+Stąpanie w powietrzu: Podmiot maszeruje w powietrzu jak po stałym gruncie (wspina się pod kątem 45 stopni).
+Swoboda działania: Podmiot porusza się normalnie pomimo ograniczeń.
+Szpiegowanie K: Szpieguje podmiot na odległość.
+Więdnięcie: Powoduje uwiąd jednej rośliny lub zadaje istocie roślinnej 1k6/poziom obrażeń.

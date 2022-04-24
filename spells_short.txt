@@ -1,0 +1,1075 @@
+BARD
+0-poziomowe czary barda (sztuczki)
+Dłoń maga: Telekineza na 2,5 kg.
+Kuglarstwo: Powołuje do istnienia drobne sztuczki.
+Kołysanka: Ofiara robi się senna; –5 do testów Nasłuchiwania i Spostrzegawczości; –2 do rzutów obronnych na Wolę przeciw uśpieniu.
+Naprawa: Dokonuje drobnych napraw przedmiotu.
+Odczytanie magii: Pozwala odczytywać zwoje i księgi zaklęć.
+Odporność: Podmiot otrzymuje +1 do rzutów obronnych.
+Otumanienie: Humanoidalna istota o maksymalnie 4 KW traci następną akcję.
+Otwarcie/zamknięcie: Otwiera lub zamyka małe i lekkie przedmioty.
+Poznanie kierunku: Ustalasz, w jakim kierunku leży północ.
+Przyzwanie instrumentu: Sprowadza jeden instrument, który wybiera rzucający ten czar.
+Raca: Istota pada ofiarą olśnienia (-1 do testów ataków).
+Światło: Przedmiot rozświetla się niczym pochodnia.
+Tańczące światła: Tworzy pochodnie i innego typu światła.
+Wiadomość: Rozmowa szeptem na odległość.
+Widmowy odgłos: Tworzy złudne dźwięki.
+Wykrycie magii: Wykrywa czary i magiczne przedmioty w zasięgu 18 m.
+1-poziomowe czary barda
+Alarm: Strzeże obszaru przez 2 godziny/poziom.
+Brzuchomówstwo: Przez 1 min./poziom pozwala zmieniać źródło pochodzenia głosu.
+Dezorientacja, słabsza: Jedna istota jest zdezorientowana przez rundę.
+Hipnoza: Wywołuje fascynację u w sumie 2k4 KW istot.
+Identyfikacja M: Wyjawia cechy magicznego przedmiotu.
+Leczenie lekkich ran: Leczy 1k8 obrażeń +1/poziom (maks. +5).
+Magiczna aura Nystula: Zmienia magiczną aurę przedmiotu.
+Magiczne usta M: Wypowiadają się raz po uaktywnieniu.
+Milczący obraz: Tworzy wymyśloną przez ciebie pomniejszą iluzję.
+Niewidoczny służący: Niewidzialny efekt mocy wykonuje twoje rozkazy.
+Niewykrywalny charakter: Ukrywa charakter na 24 godziny.
+Ożywienie liny: Sprawia, że lina porusza się zgodnie z twoją wolą.
+Przebranie: Zmienia twój wygląd.
+Przełamanie strachu: Tłumi strach lub zapewnia +4 do rzutów obronnych na strach jednemu podmiotowi i jednemu kolejnemu na cztery poziomy.
+Przyzwanie potwora I: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozumienie języków: Rozumiesz wszystkie języki i odczytujesz ich alfabet.
+Schowanie przedmiotu: Maskuje przedmiot przed szpiegowaniem.
+Spadające piórko: Przedmioty i istoty spadają powoli.
+Szybki odwrót: Twoja szybkość zwiększa się o 9 m.
+Tłuszcz: Sprawia, że przedmiot lub kwadrat o boku 3 m staje się śliski.
+Upiorny śmiech Tashy: Podmiot traci akcje na 1 rundę/poziom.
+Uśpienie: Układa do magicznego snu w sumie 4 KW istot.
+Wykrycie sekretnych drzwi: Ujawnia sekretne drzwi w zasięgu 18 m.
+Wymazywanie: Powoduje zniknięcie zwykłych i magicznych zapisków.
+Wywołanie strachu: Jedna istota o maksymalnie 5 KW ucieka przez 1k4 rundy.
+Zauroczenie osoby: Sprawia, że jedna osoba staje się twoim przyjacielem.
+2-poziomowe czary barda
+Ciemność: Nienaturalne cienie zalegają na obszarze o promieniu 6 m.
+Cisza: Neguje dźwięki w promieniu 4,5 m.
+Eksplozja dźwięków: Zadaje ofiarom 1k8 obrażeń od dźwięku; może je oszołomić.
+Gracja kota: Podmiot zyskuje +4 do Zr na 1 min./poziom.
+Heroizm: Zapewnia +2 do testów ataków, rzutów obronnych i testów umiejętności.
+Hipnotyczny wzór: Wywołuje fascynację u w sumie (2k4 + poziom) KW istot.
+Języki: Umożliwia mówienie w jednym języku.
+Leczenie średnich ran: Leczy 2k8 obrażeń +1/poziom (maks. +10).
+Lustrzane odbicie: Tworzy fałszywe duplikaty twojej osoby w liczbie (1k4 +1 na trzy poziomy, maks. 8).
+Niewidzialność: Podmiot staje się niewidzialny na 1 min./poziom lub dopóki nie zaatakuje.
+Opóźnienie działania trucizny: Powstrzymuje działanie trucizny, która nie krzywdzi podmiotu przez 1 godzinę/poziom.
+Otumanienie potwora: Żywe istoty o maksymalnie 6 KW tracą następną akcję.
+Pirotechnika: Przemienia ogień w oślepiające światło lub duszący dym.
+Pomniejszy obraz: Jak milczący obraz plus nieco dźwięków.
+Przeinaczenie magii: Wprowadza w błąd percepcję istoty lub przedmiotu.
+Przekształcenie siebie: Pozwala przybrać postać podobnej istoty.
+Przyzwanie potwora II: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Przyzwanie roju: Przyzywa rój nietoperzy, szczurów lub pająków.
+Rozmycie: 20% ataków wymierzonych w podmiot chybia.
+Roztrzaskanie: Dźwiękowe wibracje powodują uszkodzenia przedmiotów lub kryształowych istot.
+Skrzący pył: Oślepia stworzenia; obrysowuje niewidzialne istoty.
+Splendor orła: Podmiot zyskuje +4 do Cha na 1 min./poziom.
+Spryt lisa: Podmiot zyskuje +4 do Int na 1 min./poziom.
+Sugestia: Zmusza podmiot do wykonania wskazanego działania.
+Szał: Zapewnia +2 do S i Bd oraz +1 do rzutów obronnych na Wolę i powoduje –2 do KP.
+Szepczący wiatr: Wysyła krótką wiadomość na odległość 1,5 km/poziom.
+Ślepota/głuchota: Sprawia, że ofiara staje się ślepa lub głucha.
+Unieruchomienie osoby: Paraliżuje jednego humanoida na 1 rundę/poziom.
+Uspokojenie emocji: Uspokaja istoty, negując efekty związane z emocjami.
+Wykrycie myśli: Pozwala “wsłuchiwać się” w powierzchowne myśli.
+Wystraszenie: Wywołuje panikę w istotach mających mniej niż 6 KW.
+Zachwyt: Ujmuje wszystkich w promieniu 30 m + 3 m/poziom.
+Zlokalizowanie przedmiotu: Wskazuje kierunek, w jakim znajduje się przedmiot (konkretny lub pewnego typu).
+Zwierzęcy posłaniec: Posyła malutkie zwierzę do konkretnego miejsca.
+Zwierzęcy trans: Wywołuje fascynację u sumie 2k6 KW zwierząt.
+3-poziomowe czary barda
+Chatka: Tworzy schronienie dla 10 istot.
+Dezorientacja: Ofiara przez 1 rundę/poziom dziwnie się zachowuje.
+Głęboka drzemka: Usypia istoty mające w sumie 10 KW.
+Iluzoryczne pismo M: Tworzy zapiski, które może odcyfrować tylko wybrana osoba.
+Jasnosłyszenie/jasnowidzenie: Pozwala przez 1 min./poziom słyszeć lub widzieć na odległość.
+Krasomówstwo: Zyskujesz premię +30 do testów blefowania, a twoje kłamstwa mogą umknąć nawet magicznemu badaniu.
+Leczenie poważnych ran: Leczy 3k8 obrażeń +1/poziom (maks. +15).
+Migotanie: Przez 1 rundę/poziom to znikasz, to się pojawiasz.
+Postać gazowa: Podmiot staje się niematerialny i może powoli latać.
+Promyk nadziei: Podmiot zyskuje +2 do testów ataków i obrażeń, rzutów obronnych oraz testów umiejętności i atrybutów.
+Przejmująca rozpacz: Podmiot podlega karze –2 do testów ataków i obrażeń, rzutów obronnych oraz testów umiejętności i atrybutów.
+Przełamanie klątwy: Uwalnia przedmiot lub osobę spod działania klątwy.
+Przemieszczanie: 50% ataków wymierzonych w podmiot chybia.
+Przyspieszenie: Jedna istota/poziom porusza się szybciej, zyskując +1 do testów ataków, KP oraz rzutów obronnych na Refleks.
+Przyzwanie potwora III: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozmawianie ze zwierzętami: Potrafisz się komunikować ze zwierzętami.
+Rozproszenie magii: Neguje magiczne efekty i zaklęcia.
+Rzeźbienie dźwięku: Tworzy nowe dźwięki lub zmienia istniejące.
+Sekretna strona: Zmienia jedną stronę księgi tak, by ukryć jej prawdziwą zawartość.
+Sfera niewidzialności: Wszyscy w promieniu 3 m stają się niewidzialni.
+Spowolnienie: Jeden podmiot/poziom może wykonywać w rundzie tylko jedną akcję oraz podlega karze –2 do KP i testów ataków.
+Strach: Ofiary w stożku uciekają przez 1 rundę/poziom.
+Szpiegowanie K: Szpieguje podmiot na odległość.
+Światło dnia: Powołuje do istnienia jasne światło w promieniu 18 m.
+Widmowy rumak: Na 1 godzinę/poziom pojawia się magiczny koń.
+Zaawansowany obraz: Jak milczący obraz plus dźwięki, zapachy i efekty cieplne.
+Zadanie, słabsze: Pozwala wydać rozkaz podmiotowi o maksymalnie 7 KW.
+Zauroczenie potwora: Sprawia, że potwór wierzy, iż jest twoim sprzymierzeńcem.
+Zobaczenie niewidzialnego: Ujawnia niewidzialne stworzenia i przedmioty.
+Zygzak atramentowego węża M: Tworzy symbol, który unieruchamia czytającego tekst.
+4-poziomowe czary barda
+Bezpieczne schronienie: Tworzy wytrzymałą chatkę.
+Drzwi poprzez wymiary: Teleportuje cię na niewielką odległość.
+Krajobrazowa halucynacja: Sprawia, że obszar pewnego rodzaju wygląda zupełnie inaczej (pole staje się lasem i tym podobne).
+Krzyk: Ogłusza wszystkie stworzenia w stożku i zadaje 5k6 obrażeń od dźwięku.
+Leczenie krytycznych ran: Leczy 4k8 obrażeń +1/poziom (maks. +20).
+Modyfikacja pamięci: Zmienia pamięć podmiotu dotyczącą 5 minut.
+Neutralizacja trucizny: Wywołuje w podmiocie niepodatność na truciznę; detoksykuje jad na lub w podmiocie.
+Niewidzialność, potężniejsza: Jak niewidzialność, ale podmiot może atakować, pozostając niewidzialnym.
+Odpychanie robactwa: Owady, pająki i inne robactwo trzyma się na dystans 3 m.
+Przywoływanie poprzez cienie: Naśladuje przywoływanie poniżej 4. poziomu, realne tylko w 20%.
+Przyzwanie potwora IV: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozmawianie z roślinami: Możesz rozmawiać z normalnymi roślinami i stworzeniami roślinnymi.
+Strefa ciszy: Uniemożliwia podsłuchiwanie rozmów.
+Swoboda działania: Podmiot porusza się normalnie pomimo ograniczeń.
+Tęczowy wzór: Światło wywołuje fascynację u 24 KW istot.
+Unieruchomienie potwora: Jak unieruchomienie osoby, ale wpływa na istoty dowolnego rodzaju.
+Wykrycie szpiegowania: Informuje cię o tym, że ktoś podsłuchuje cię magicznie.
+Zdominowanie osoby: Pozwala telepatycznie kontrolować humanoidy.
+Zlokalizowanie stworzenia: Wskazuje kierunek, w jakim znajduje się znajoma istota.
+Złamanie zaklęcia: Uwalnia podmiot od oczarowań, klątw, petryfikacji i przemian.
+Znajomość legend MK: Pozwala ci poznać opowieści o osobie, miejscu lub rzeczy.
+5-poziomowe czary barda
+Długotrwały obraz: Jak zaawansowany obraz, ale nie wymaga koncentracji.
+Fałszywy obraz M: Za pomocą iluzji oszukuje szpiegowanie.
+Heroizm, potężniejszy: Zapewnia +4 do testów ataków, rzutów obronnych i testów umiejętności; niepodatność na strach; tymczasowe pw.
+Koszmar: Nasyła wizje powodujące 1k10 obrażeń i zmęczenie.
+Leczenie lekkich ran, zbiorowe: Leczy wielu istotom 1k8 obrażeń +1/poziom.
+Magiczna charakteryzacja: Zmienia wygląd jednej osoby na dwa poziomy.
+Miraż: Jak krajobrazowa halucynacja plus budowle.
+Pieśń niezgody: Zmusza ofiary do atakowania siebie nawzajem.
+Przejście światem cieni: Pozwala wkroczyć w cień i podróżować z dużą szybkością.
+Przyzwanie potwora V: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozproszenie magii, potężniejsze: Jak rozproszenie magii, ale +20 do testu.
+Sen: Wysyła wiadomość do śpiącej osoby.
+Sugestia, zbiorowa: Jak sugestia plus jeden podmiot/poziom.
+Wywoływanie poprzez cienie: Naśladuje wywoływania poniżej 5. poziomu, realne tylko w 20%.
+Zamglenie umysłu: Podmioty podlegają karze –10 do Rzt i rzutów obronnych na Wolę.
+Zmylenie kierunku: Czyni cię niewidzialnym i tworzy iluzoryczną kopię.
+6-poziomowe czary barda
+Analiza dweomeru K: Wyjawia magiczne aspekty podmiotu.
+Gracja kota, zbiorowa: Jak gracja kota, ale wpływa na jeden podmiot/poziom.
+Kąśliwy wzrok: Ofiara wpada w panikę, ulega osłabieniu i zapada w śpiączkę.
+Krzyk, potężniejszy: Niszczący krzyk powoduje 10k6 obrażeń od dźwięku; oszałamia istoty; uszkadza przedmioty.
+Leczenie średnich ran, zbiorowe: Leczy wielu istotom 2k8 obrażeń +1/poziom.
+Ożywienie przedmiotów: Przedmioty atakują twoich przeciwników.
+Porywający taniec: Zmusza ofiarę do tańca.
+Projekcja duplikatu: Iluzoryczny duplikat mówi i rzuca czary.
+Przyzwanie potwora VI: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rezonujące wibracje: Wolnostojące budowle otrzymują 2k10 uszkodzeń/rundę.
+Splendor orła, zbiorowy: Jak splendor orła, ale wpływa na jeden podmiot/poziom.
+Spryt lisa, zbiorowy: Jak spryt lisa, ale wpływa na jeden podmiot/poziom.
+Szpiegowanie, potężniejsze: Jak szpiegowanie, ale szybsze i na większy dystans.
+Trwały obraz: Obejmuje obrazy, dźwięki i zapachy.
+Uczta bohaterów: Jedzenie dla jednej istoty/na poziom, które leczy i zapewnia premie do walki.
+Zadanie/misja: Jak słabsze zadanie plus wpływa na istotę dowolnego rodzaju.
+Zaprogramowany obraz M: Jak zaawansowany obraz, ale uaktywnia go wydarzenie.
+Zasłona: Zmienia wygląd grupy istot.
+Zauroczenie potwora, zbiorowe: Jak zauroczenie potwora, ale wpływa na wszystkie stworzenia w promieniu 9 m.
+Znalezienie ścieżki: Pokazuje najbliższą drogę do jakiegoś miejsca.
+
+CZARODZIEJ/ZAKLINACZ
+0-poziomowe zaklęcia czarodzieja/zaklinacza (sztuczki)
+NekroDotyk zmęczenia: Udany atak dotykowy powoduje zmęczenie ofiary.
+Zranienie nieumarłego: Zadaje jednemu nieumarłemu 1k6 obrażeń.
+OczarOtumanienie: Humanoidalna istota o maksymalnie 4 KW traci następną akcję.
+OdrzucOdporność: Podmiot otrzymuje +1 do rzutów obronnych.
+PozOdczytanie magii: Pozwala odczytywać zwoje i księgi zaklęć.
+Wykrycie magii: Wykrywa czary i magiczne przedmioty w zasięgu 18 m.
+Wykrycie trucizny: Wykrywa truciznę w jednej istocie lub przedmiocie.
+PrzemDłoń maga: Telekineza na 2,5 kg.
+Naprawa: Dokonuje drobnych napraw przedmiotu.
+Otwarcie/zamknięcie: Otwiera lub zamyka małe i lekkie rzeczy.
+Wiadomość: Rozmowa szeptem na odległość.
+PrzywWybuch kwasu: Kula zadająca 1k3 obrażenia od kwasu.
+UniwMistyczny znak: Umożliwia zapisanie prywatnej runy (widocznej lub nie).
+Kuglarstwo: Powołuje do istnienia drobne sztuczki.
+WywołPromień mrozu: Promień zadający 1k3 obrażenia od zimna.
+Raca: Istota pada ofiarą olśnienia (–1 do testów ataków).
+Światło: Przedmiot rozświetla się niczym pochodnia.
+Tańczące światła: Tworzy pochodnie i innego typu światła.
+Widmowy odgłos: Tworzy złudne dźwięki.
+1-poziomowe zaklęcia czarodzieja/zaklinacza
+IluzBrzuchomówstwo: Przez 1 min./poziom pozwala zmieniać źródło pochodzenia głosu.
+Deszcz kolorów: Powoduje utratę przytomności, oślepienie i/lub oszołomienie u 1k6 słabych istot.
+Magiczna aura: Zmienia magiczną aurę przedmiotu.
+Milczący obraz: Tworzy wymyśloną przez ciebie pomniejszą iluzję.
+Przebranie: Zmienia twój wygląd.
+NekroDotyk chłodu: Jeden dotyk/poziom powoduje 1k6 obrażeń oraz może obniżyć o 1 wartość S.
+Promień osłabienia: Promień obniżający S o 1k6 +1 na dwa poziomy.
+Wywołanie strachu: Jedna istota o maksymalnie 5 KW ucieka przez 1k4 rundy.
+OczarHipnoza: Wywołuje fascynację u w sumie 2k4 KW istot.
+Uśpienie: Układa do magicznego snu w sumie 4 KW istot.
+Zauroczenie osoby: Sprawia, że jedna osoba staje się twoim przyjacielem.
+OdrzucAlarm: Strzeże obszaru przez 2 godziny/poziom.
+Ochrona przed chaosem/dobrem/prawem/złem: +2 do KP i rzutów obronnych; zapobiega kontroli umysłowej; trzyma z dala żywiołaki i przybyszów.
+Odporność na żywioły: Umożliwia bezproblemowe przebywanie w gorącym lub mroźnym środowisku.
+Tarcza: Niewidzialny dysk zapewnia +4 do KP, blokuje magiczne pociski.
+Zamknięcie drzwi: Utrzymuje drzwi zamknięte.
+PozCelny cios: Otrzymujesz +20 do następnego testu ataku.
+Identyfikacja M: Wyjawia cechy przedmiotu magicznego.
+Rozumienie języków: Rozumiesz wszystkie języki i znasz ich alfabet.
+Wykrycie nieumarłych: Ujawnia nieumarłych w zasięgu 18 m.
+Wykrycie sekretnych drzwi: Ujawnia sekretne drzwi w zasięgu 18 m.
+PrzemMagiczna broń: Broń zyskuje premię +1.
+Ożywienie liny: Sprawia, że lina porusza się zgodnie z twoją wolą.
+Pomniejszenie osoby: Humanoid zwiększa o połowę swój rozmiar.
+Powiększenie osoby: Humanoid dwukrotnie zwiększa swój rozmiar.
+Skok: Podmiot otrzymuje premię do testów Skakania.
+Spadające piórko: Przedmioty i istoty spadają powoli.
+Szybki odwrót: Twoja szybkość zwiększa się o 9 m.
+Wymazywanie: Powoduje zniknięcie zwykłych i magicznych zapisków.
+PrzywNieprzenikniona mgła: Otacza cię mgła.
+Niewidoczny służący: Niewidzialny efekt mocy wykonuje twoje rozkazy.
+Przyzwanie potwora I: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Tłuszcz: Sprawia, że przedmiot lub kwadrat o boku 3 m staje się śliski.
+Wierzchowiec: Przyzywa na 2 godziny/poziom jezdnego konia.
+Zbroja maga: Zapewnia podmiotowi premię z pancerza +4.
+WywołMagiczny pocisk: 1k4+1 obrażeń; +1 pocisk na dwa poziomy powyżej 1 (maks. 5).
+Płonące dłonie: 1k4/poziom obrażeń od ognia (maks. 5k4).
+Porażający uścisk: Dotyk powoduje 1k6/poziom obrażeń od elektryczności (maks. 5k6).
+Unoszący się dysk: Tworzy unoszący się w poziomie dysk średnicy 90 cm, który jest w stanie utrzymać ciężar 50 kg/poziom.
+2-poziomowe zaklęcia czarodzieja/zaklinacza
+IluzHipnotyczny wzór: Wywołuje fascynację w sumie (2k4 + poziom) KW istot.
+Lustrzane odbicie: Tworzy fałszywe duplikaty twojej osoby w liczbie (1k4 +1 na trzy poziomy, maks. 8).
+Magiczne usta M: Wypowiadają się raz po uaktywnieniu.
+Niewidzialność: Podmiot staje się niewidzialny na 1 min./poziom lub dopóki nie zaatakuje.
+Pomniejszy obraz: Jak milczący obraz plus nieco dźwięków.
+Przeinaczenie magii: Wprowadza w błąd poznania dotyczące istoty lub przedmiotu.
+Rozmycie: 20% ataków wymierzonych w podmiot chybia.
+Widmowa Pułapka M: Sprawia, że przedmiot wydaje się zabezpieczony pułapką.
+NekroDotyk ghoula: Paraliżuje jedną ofiarę, która zaczyna tak śmierdzieć, iż istoty w pobliżu mogą zostać osłabione.
+Fałszywe życie: Obdarza 1k10 tymczasowymi pw +1/poziom (maks. +10).
+Rozkazywanie nieumarłym: Nieumarli wykonują twoje rozkazy.
+Ślepota/głuchota: Sprawia, że ofiara staje się ślepa lub głucha.
+Upiorna dłoń: Powołuje do istnienia odciętą od ciała dłoń, która może przekazywać ataki dotykowe.
+Wystraszenie: Wywołuje panikę w istotach mających mniej niż 6 KW.
+OczarDotyk głupoty: Podmiot traci 1k6 punktów Int, Rzt i Cha.
+Otumanienie potwora: Żywe istoty o maksymalnie 6 KW tracą następną akcję.
+Upiorny śmiech: Podmiot traci akcje na 1 rundę/poziom.
+OdrzucMistyczny zamek M: Magicznie zamyka skrzynię, drzwi czy podwoje.
+Ochrona przed strzałami: Podmiot staje się niepodatny na większość ataków dystansowych.
+Odporność na energię: Pozwala zignorować 10 (lub więcej) obrażeń/atak spowodowanych przez energię konkretnego rodzaju.
+Schowanie przedmiotu: Maskuje przedmiot przed szpiegowaniem.
+PozWykrycie myśli: Pozwala “wsłuchiwać się” w powierzchowne myśli.
+Zlokalizowanie przedmiotu: Wskazuje kierunek, w jakim znajduje się przedmiot (konkretny lub pewnego typu).
+Zobaczenie niewidzialnego: Ujawnia niewidzialne stworzenia i przedmioty.
+PrzemGracja kota: Podmiot zyskuje +4 do Zr na 1 min./poziom.
+Kołatka: Otwiera zamknięte lub magicznie zapieczętowane drzwi.
+Lewitacja: Podmiot porusza się w górę i w dół zgodnie z twoimi zamysłami.
+Mądrość sowy: Podmiot zyskuje +4 do Rzt na 1 min./poziom.
+Pajęcza wspinaczka: Umożliwia chodzenie po ścianach i sufitach.
+Pirotechnika: Przemienia ogień w oślepiające światło lub duszący dym.
+Przekształcenie siebie: Pozwala przybrać postać podobnej istoty.
+Siła byka: Podmiot zyskuje +4 do S na 1 min./poziom.
+Splendor orła: Podmiot zyskuje +4 do Cha na 1 min./poziom.
+Spryt lisa: Podmiot zyskuje +4 Int na 1 min./poziom.
+Szepczący wiatr: Wysyła krótką wiadomość na odległość 1,5 km/poziom.
+Sztuczka z liną: Pozwala ukryć się maksymalnie ośmiu istotom w pozawymiarowej przestrzeni.
+Widzenie w ciemnościach: Umożliwia widzenie w całkowitych ciemnościach na zasięg 18 m.
+Wytrzymałość niedźwiedzia: Podmiot zyskuje +4 do Bd na 1 min./poziom.
+PrzywChmura mgły: Mgła ogranicza pole widzenia.
+Kwasowa strzała: Atak dotykowy dystansowy; 2k4 obrażeń na rundę +1 runda/trzy poziomy.
+Pajęczyna: Lepka pajęczyna wypełnia obszar w fali o promieniu 6 m.
+Przyzwanie potwora II: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Przyzwanie roju: Przyzywa rój nietoperzy, szczurów lub pająków.
+Skrzący pył: Oślepia stworzenia; obrysowuje niewidzialne istoty.
+WywołCiemność: Nienaturalne cienie zalegają na obszarze o promieniu 6 m.
+Nieustający płomień M: Tworzy permanentną, niewydzielającą ciepła pochodnię.
+Płomienny promień: Atak dotykowy dystansowy zadaje 4k6 obrażeń od ognia, +1 promień/cztery poziomy (maks. 3).
+Płonąca sfera: Tworzy toczącą się kulę ognia; 2k6 obrażeń; istnieje rundę/poziom
+Podmuch wiatru: Odpycha lub przewraca małe istoty.
+Roztrzaskanie: Dźwiękowe wibracje powodują uszkodzenia przedmiotów lub kryształowych istot.
+3-poziomowe zaklęcia czarodzieja/zaklinacza
+IluzIluzoryczne pismo M: Tworzy zapiski, które może odcyfrować tylko wybrana osoba.
+Przemieszczanie: 50% ataków wymierzonych w podmiot chybia.
+Sfera niewidzialności: Wszyscy w promieniu 3 m stają się niewidzialni.
+Zaawansowany obraz: Jak milczący obraz plus dźwięki, zapachy i efekty cieplne.
+NekroDotyk wampira: Dotyk zadaje 1k6/dwa poziomy obrażeń; rzucający czar zyskuje tyle pw, ile zadał ran.
+Promień wyczerpania: Promień sprawia, że ofiara jest wyczerpana.
+Spowolniony rozkład: Chroni przed rozkładem jedne zwłoki.
+Zatrzymanie nieumarłego: Unieruchamia nieumarłego na 1 runda/poziom.
+OczarGłęboka drzemka: Usypia istoty mające w sumie 10 KW.
+Heroizm: Zapewnia +2 do testów ataków, rzutów obronnych i testów umiejętności
+Sugestia: Zmusza podmiot do wykonania wskazanego działania.
+Szał: Zapewnia +2 do S i Bd oraz +1 do rzutów obronnych na Wolę i powoduje –2 do KP
+Unieruchomienie osoby: Paraliżuje jednego humanoida na 1 rundę/poziom.
+OdrzucMagiczny krąg przeciw chaosowi/dobru/prawu/złu: Jak czar ochrony, ale promień 3 m i 10 min./poziom.
+Niewykrywalność M: Ukrywa podmiot przed poznaniem i szpiegowaniem.
+Ochrona przed energią: Absorbuje 12 obrażeń/poziom spowodowanych przez energię konkretnego rodzaju.
+Rozproszenie magii: Neguje efekty magiczne i zaklęcia.
+Wybuchające runy: Przeczytane powodują 6k6 obrażeń.
+PozJasnosłyszenie/jasnowidzenie: Pozwala przez 1 min./poziom słyszeć lub widzieć na odległość.
+Języki: Umożliwia mówienie w jednym języku.
+Mistyczny wzrok: Zaczynasz widzieć magiczne aury.
+PrzemMagiczna broń, potężniejsza: +1/cztery poziomy (maks. +5).
+Migotanie: Przez 1 rundę/poziom to znikasz, to się pojawiasz.
+Latanie: Podmiot lata z szybkością 18 m.
+Postać gazowa: Podmiot staje się niematerialny i może powoli latać.
+Przyspieszenie: Jedna istota/poziom porusza się szybciej, zyskując +1 do testów ataków, KP oraz rzutów obronnych na Refleks.
+Oddychanie wodą: Podmiot może oddychać pod wodą.
+Ognista strzała: Strzały zadają +1k6 obrażeń od ognia.
+Ostra krawędź: Podwaja normalny przypisany broni zasięg zagrożenia krytkiem.
+Sekretna strona: Zmienia jedną stronę tak, by ukryć jej prawdziwą zawartość.
+Skurczenie przedmiotu: Przedmiot zmniejsza się do 1/16 swego rozmiaru.
+Spowolnienie: Jeden podmiot/poziom może wykonywać w rundzie tylko jedną akcję oraz podlega karze –2 do KP i testów ataków.
+PrzywDeszcz ze śniegiem: Utrudnia poruszanie się i ogranicza pole widzenia.
+Przyzwanie potwora III: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Śmierdząca chmura: Opary wywołujące mdłości, 1 runda/poziom.
+Widmowy rumak: Na 1 godzinę/poziom pojawia się magiczny koń.
+Zygzak atramentowego węża M: Tworzy symbol, który unieruchamia czytającego tekst.
+WywołBłyskawica: Elektryczność powoduje 1k6/poziom obrażeń.
+Chatka: Tworzy schronienie dla 10 istot.
+Kula ognista: 1k6 obrażeń na poziom, promień 6 m.
+Ściana wiatru: Zatrzymuje strzały, mniejsze istoty oraz gazy.
+Światło dnia: Powołuje do istnienia jasne światło w promieniu 18 m.
+4-poziomowe zaklęcia czarodzieja/zaklinacza
+IluzIluzoryczna ściana: Ściana, podłoga lub sufit wyglądają na rzeczywiste, ale wszystko przez nie przechodzi.
+Krajobrazowa halucynacja: Sprawia, że obszar pewnego rodzaju wygląda zupełnie inaczej (pole staje się lasem i tym podobne).
+Niewidzialność, potężniejsza: Jak niewidzialność, ale podmiot może atakować, pozostając niewidzialnym.
+Przywoływanie poprzez cienie: Naśladuje przywoływanie poniżej 4. poziomu, realne tylko w 20%.
+Tęczowy wzór: Światło wywołuje fascynację u 24 KW istot.
+Widmowy zabójca: Straszna iluzja zabija ofiarę lub powoduje 3k6 obrażeń.
+NekroNałożenie klątwy: –6 do wartości atrybutów; –4 do testów ataków, rzutów obronnych oraz testów umiejętności i atrybutów; lub 50% ryzyka utraty następnej akcji.
+Ożywienie umarłego M: Tworzy nieumarłych – szkielety i zombich.
+Pozbawienie sił: Podmiot otrzymuje 1k4 negatywne poziomy.
+Strach: Ofiary w stożku uciekają przez 1 rundę/poziom.
+Zakażenie: Zaraża ofiarę wybraną chorobą.
+OczarDezorientacja: Ofiara przez 1 rundę/poziom dziwnie się zachowuje.
+Przejmująca rozpacz: Podmiot podlega karze –2 do testów ataków i obrażeń, rzutów obronnych oraz testów umiejętności i atrybutów.
+Zadanie, słabsze: Pozwala wydać rozkaz podmiotowi o maksymalnie 7 KW.
+Zauroczenie potwora: Sprawia, że potwór wierzy, iż jest twym sprzymierzeńcem.
+OdrzucKamienna skóra M: Pozwala ignorować 10 obrażeń na atak.
+Klosz niewrażliwości, słabszy: Zatrzymuje efekty czarów poziomu od 1. do 3.
+Ognista pułapka M: Po otwarciu przedmiot zadaje 1k4 +1/poziom obrażeń.
+Przełamanie klątwy: Uwalnia przedmiot lub osobę spod działania klątwy.
+Zakotwiczenie w wymiarze: Uniemożliwia międzywymiarowe wędrówki.
+PozMistyczne oko: Niewidzialne oko unosi się i porusza z szybkością 9 m/rundę.
+Szpiegowanie K: Szpieguje podmiot na odległość.
+Wykrycie szpiegowania: Informuje cię o magicznym podsłuchiwaniu.
+Zlokalizowanie stworzenia: Wskazuje kierunek, w jakim znajduje się znajoma istota.
+PrzemKształtowanie kamienia: Nadaje kamieniowi dowolny kształt.
+Polimorfia: Nadaje chętnemu podmiotowi nowy kształt.
+Pomniejszenie osoby, zbiorowe: Zmniejsza kilka istot.
+Powiększenie osoby, zbiorowe: Powiększa kilka istot.
+Rozszerzenie pamięci K:Tylko czarodziej. Pozwala przygotować dodatkowe czary lub zachować już rzucone.
+PrzywBezpieczne schronienie: Tworzy wytrzymałą chatkę.
+Czarne macki: Macki chwytają wszystkich na obszarze 4,5-metrowej fali.
+Drzwi poprzez wymiary: Teleportuje cię na niewielką odległość.
+Gęsta mgła: Uniemożliwia widzenie i spowalnia ruch.
+Pomniejsze tworzenie: Tworzy jeden przedmiot z drewna lub materiału.
+Przyzwanie potwora IV: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+WywołKrzyk: Ogłusza wszystkich w stożku i zadaje 5k6 obrażeń od dźwięku.
+Lodowa nawałnica: Grad zadaje 5k6 obrażeń na obszarze walca o średnicy 12 m.
+Nienaruszalna sfera: Kula mocy chroni podmiot, więżąc go jednocześnie.
+Ognista tarcza: Atakujące cię istoty otrzymują obrażenia od ognia; jesteś chroniony przed gorącem i zimnem.
+Ściana lodu:Lodowa płaszczyzna tworzy ścianę o 15 pw +1/poziom, a półsfera więzi istotę w swym środku.
+Ściana ognia: Zadaje 2k4 obrażenia od ognia na dystans do 3 m i 1k4 w odległości do 6 m; przejście przez ścianę powoduje 2k6 obrażeń +1/poziom.
+5-poziomowe zaklęcia czarodzieja/zaklinacza
+IluzDługotrwały obraz: Jak zaawansowany obraz, ale koncentracja nie jest wymagana.
+Fałszywy obraz M: Za pomocą iluzji oszukuje szpiegowanie.
+Koszmar: Nasyła wizje powodujące 1k10 obrażeń i zmęczenie.
+Magiczna charakteryzacja: Zmienia wygląd jednej osoby na dwa poziomy.
+Miraż: Jak krajobrazowa halucynacja plus budowle.
+Sen: Wysyła wiadomość do śpiącej osoby.
+Wywoływanie poprzez cienie: Naśladuje wywoływania poniżej 5. poziomu, realne tylko w 20%.
+NekroFale zmęczenia: Kilka ofiar staję się zmęczona.
+Magiczny słój K: Pozwala opętać istotę.
+Symbol bólu M: Uruchomiona runa wywołuje ból w pobliskich istotach.
+Więdnięcie: Powoduje uwiąd jednej rośliny lub zadaje roślinnej istocie 1k6/poziom obrażeń.
+OczarOgłupienie: Int i Cha ofiary spadają do 1.
+Symbol uśpienia M: Uruchomiona runa wprowadza istoty w katatoniczną drzemkę.
+Unieruchomienie potwora: Jak unieruchomienie osoby, ale wpływa na istoty dowolnego rodzaju.
+Zamglenie umysłu: Podmioty podlegają –10 do Rzt i rzutów obronnych na Wolę.
+Zdominowanie osoby: Pozwala telepatycznie kontrolować humanoidów.
+OdrzucOdesłanie: Zmusza istotę do powrotu na rodzimy plan.
+Zaciszna kryjówka maga: Uniemożliwia przez 24 godziny wszelką obserwację lub szpiegowanie obszaru.
+Złamanie zaklęcia: Uwalnia podmiot od oczarowań, klątw, petryfikacji i przemian.
+PozKontakt z innym planem: Pozwala zadać pytanie pozaplanarnemu bytowi.
+Telepatyczna więź: Połączenie umożliwiające porozumiewanie się sprzymierzeńcom.
+Wścibskie oczy: 1k4 +1/poziom dryfujących oczu przeprowadza dla ciebie zwiad.
+PrzemDługotrwały lot: Możesz latać z szybkością 12 m i stosować pośpiech na długich dystansach.
+Przejście w ścianie: Tworzy przejście w drewnianej lub kamiennej ścianie.
+Przemiana błota w skałę: Przemienia dwa sześciany o krawędzi 3 m na poziom.
+Przemiana skały w błoto: Przemienia dwa sześciany o krawędzi 3 m na poziom.
+Powiększenie zwierzęcia: Podwaja rozmiar jednego zwierzęcia/dwa poziomy.
+Szkodliwa polimorfia: Przemienia podmiot w nieszkodliwe zwierzę.
+Telekineza: Porusza przedmiot, atakuje istotę, bądź też rzuca rzeczą lub stworzeniem.
+Wytwarzanie: Przemienia surowce w gotowe przedmioty.
+UniwUtrwalenie D: Sprawia, że pewne czary stają się permanentne.
+PrzywPlanarne spętanie, słabsze: Więzi pozaplanarną istotę o 6 KW lub mniej, dopóki nie wypełni zadania.
+Przyzwanie potwora V: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Sekretny kufer K: Pozwala ukryć cenny kufer na Planie Eterycznym; możesz go odzyskać na życzenie.
+Ściana kamieni: Tworzy kamienną ścianę, którą można ukształtować.
+Teleportacja: Natychmiast transportuje cię na odległość do 150 km/poziom.
+Wierny pies maga: Widmowy pies, który strzeże i atakuje.
+Zaawansowane tworzenie: Jak pomniejsze tworzenie, plus kamień i metal.
+Zabójcza chmura: Zabija istoty o 3 KW lub mniej; te o 4-6 KW giną po nieudanym rzucie obronnym; te o 6+ KW tracą Bd.
+WywołPowstrzymująca dłoń: Dłoń zapewnia osłonę względem jednego przeciwnika.
+Przesłanie wieści: Natychmiast dostarcza krótką wiadomość do dowolnego miejsca.
+Stożek zimna: 1k6/poziom obrażeń od zimna.
+Ściana mocy: Ściana niepodatna na uszkodzenia.
+6-poziomowe zaklęcia czarodzieja/zaklinacza
+IluzPrzejście światem cieni: Pozwala wkroczyć w cień i podróżować z dużą szybkością.
+Trwały obraz: Obejmuje obrazy, dźwięki i zapachy.
+Zaprogramowany obraz M: Jak zaawansowany obraz plus uaktywnia go wydarzenie.
+Zasłona: Zmienia wygląd grupy istot.
+Zmylenie kierunku: Czyni cię niewidzialnym i tworzy twoją iluzoryczną kopię.
+NekroKąśliwy wzrok: Ofiara wpada w panikę, ulega osłabieniu i zapada w śpiączkę.
+Krąg śmierci M: Zabija 1k4/poziom KW istot.
+Stworzenie nieumarłych M: Tworzy ghoule, ghasty, mumie lub mohrgów.
+Symbol strachu M: Uruchomiona runa wywołuje panikę w pobliskich istotach.
+Zabicie nieumarłego M: Niszczy 1k4 KW/poziom nieumarłych (maks. 20k4).
+OczarHeroizm, potężniejszy: Zapewnia +4 do testów ataków, rzutów obronnych i testów umiejętności; niepodatność na strach; tymczasowe pw.
+Sugestia, zbiorowa: Jak sugestia, plus jeden podmiot/poziom.
+Symbol perswazji M: Uruchomiona runa wywołuje zauroczenie u znajdujących się w pobliżu istot.
+Zadanie/misja: Jak słabsze zadanie, plus wpływa na istotę dowolnego rodzaju.
+OdrzucKlosz niewrażliwości: Jak słabszy klosz niewrażliwości plus efekty 4-poziomowych czarów
+Ochrony i zabezpieczenia: Obszar chronią i zabezpieczają różnorodne efekty magiczne.
+Odrzucenie: Istoty nie mogą się do ciebie zbliżyć.
+Pole antymagii: Neguje magię w promieniu 3 m.
+Rozproszenie magii, potężniejsze: Jak rozproszenie magii, ale +20 do testu.
+PozAnaliza dweomeru K: Wyjawia magiczne aspekty podmiotu.
+Widzenie prawdy M: Pozwala ci widzieć wszystkie rzeczy takimi, jakimi są naprawdę.
+Znajomość legend MK: Pozwala ci poznać opowieści o osobie, miejscu lub rzeczy.
+PrzemCiało w kamień: Przemienia podmiot w posąg.
+Dezintegracja: Sprawia, że znika jedna istota lub przedmiot.
+Elaborat maga:Tylko czarodziej. Przypomina czar 5. lub niższego poziomu.
+Gracja kota, zbiorowa: Jak gracja kota, ale wpływa na jeden podmiot/poziom.
+Kamień w ciało: Odmienia spetryfikowaną istotę.
+Kontrolowanie wody: Unosi lub obniża poziom wody.
+Mądrość sowy, zbiorowa: Jak mądrość sowy, ale wpływa na jeden podmiot/poziom.
+Poruszenie ziemi: Tworzy okopy i wzniesienia.
+Siła byka, zbiorowa: Jak siła byka, ale wpływa na jeden podmiot/poziom.
+Splendor orła, zbiorowy: Jak splendor orła, ale wpływa na jeden podmiot/poziom.
+Spryt lisa, zbiorowy: Jak spryt lisa, ale wpływa na jeden podmiot/poziom.
+Transformacja M: Zyskujesz premie bojowe.
+Wytrzymałość niedźwiedzia, zbiorowa: Jak wytrzymałość niedźwiedzia, ale wpływa na jeden podmiot/poziom.
+PrzywChmura kwasu: Opar powodujący obrażenia od kwasu.
+Planarne spętanie: Jak słabsze planarne spętanie, ale do 12 KW.
+Przyzwanie potwora VI: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Ściana żelaza M: 30 pw/cztery poziomy; może się przewrócić na przeciwników.
+WywołMocarna dłoń: Dłoń odpycha istoty.
+Uwarunkowanie K: Ustala warunki zadziałania innego zaklęcia.
+Wyładowanie łańcuchowe: 1k6 obrażeń/poziom; jedna wtórna błyskawica/poziom powodująca połowę ran.
+Zamrażająca sfera: Powoduje obrażenia i zamarzanie wody.
+7-poziomowe zaklęcia czarodzieja/zaklinacza
+IluzMamidło MD: Tworzy po części realną kopię istoty.
+Niewidzialność, zbiorowa: Jak niewidzialność, ale wpływa na wszystko w zasięgu.
+Projekcja duplikatu: Iluzoryczny duplikat mówi i rzuca czary.
+Przywoływanie poprzez cienie, potężniejsze: Jak przywoływanie poprzez cienie, ale do 6. poziomu i w 60% prawdziwe.
+NekroFale wyczerpania: Kilka ofiar ulega wyczerpaniu.
+Kontrolowanie nieumarłych: Nieumarli nie zaatakują cię, dopóki są pod twymi rozkazami.
+Palec śmierci: Zabija jedną istotę.
+Symbol osłabienia M: Uruchomiona runa osłabia znajdujące się w pobliżu istoty.
+OczarObłęd: Ofiara cierpi na długotrwałą dezorientację.
+Słowo mocy: oślepienie: Oślepia jedną istotę o 200 lub mniej pw.
+Symbol oszołomienia M: Uruchomiona runa oszałamia znajdujące się w pobliżu istoty.
+Unieruchomienie osoby, zbiorowe: Jak unieruchomienie osoby, ale wpływa na wszystkie osoby w promieniu 9 m.
+OdrzucOdbicie czaru: Odbija 1k4+6 poziomów czarów na osobę, która rzuciła zaklęcie.
+Odosobnienie: Podmiot staje się niewidzialny dla wzroku i szpiegowania; zapada w śpiączkę.
+Wygnanie: Wygania 2 KW/poziom istot pozaplanarnych.
+PozMistyczny wzrok, potężniejszy: Jak mistyczny wzrok, ale ujawnia również efekty magiczne wpływające na istoty i przedmioty.
+Szpiegowanie, potężniejsze: Jak szpiegowanie, ale szybsze i na większy dystans.
+Wizja MD: Jak znajomość legend, ale szybsze i męczące.
+PrzemEteryczny spacer: Stajesz się eteryczny na 1 rundę/poziom.
+Kontrolowanie pogody: Zmienia pogodę w okolicy.
+Odwrócenie grawitacji: Przedmioty i istoty spadają “do góry”.
+Posąg: Podmiot może na życzenie stać się posągiem.
+UniwOgraniczone życzenie D: Zmienia rzeczywistość, ale tylko w granicach możliwości czaru.
+PrzywNatychmiastowe przyzwanie M: Przygotowany przedmiot natychmiast pojawia się w twojej ręce.
+Imponująca posiadłość maga K: Drzwi prowadzą do pozawymiarowej posiadłości.
+Fazowe drzwi: Tworzy niewidzialne przejście przez drewno lub kamień.
+Przyzwanie potwora VII: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Teleportacja, potężniejsza: Jak teleportacja, ale bez ograniczenia dystansu i bez ryzyka, że nie przybędzie się do celu.
+Teleportowanie przedmiotu: Jak teleportacja, ale wpływa na dotknięty przedmiot przybycia do celu.
+Zamiana planów K: Do ośmiu istot podróżuje na inny plan.
+WywołChwytająca dłoń: Duża ręka zapewnia osłonę, popycha lub toczy zwarcie.
+Klatka mocy M: Sześcian lub klatka mocy; więzi wszystko co jest w środku.
+Kula ognista z opóźnionym zapłonem: 1k6/poziom obrażeń od ognia; możesz opóźnić kulę ognistą o 5 rund.
+Miecz maga K: Przeciwników atakuje dryfujące ostrze magiczne.
+Pryzmatyczny deszcz: Trafiające ofiary promienie powodują różnorodne efekty.
+8-poziomowe zaklęcia czarodzieja/zaklinacza
+IluzBarwny wzór: Zmieniające się kolory dezorientują, oszałamiają lub powodują utratę przytomności.
+Ekran: Iluzja ukrywa obszar przed wzrokiem i szpiegowaniem.
+Wywoływanie poprzez cienie, potężniejsze: Jak wywoływanie poprzez cienie, ale do 7. poziom i w 60% prawdziwe.
+NekroKlon MK: Kiedy oryginał ginie, budzi się duplikat.
+Ohydne usychanie: Powoduje 1k6/poziom obrażeń w promieniu 9 m.
+Stworzenie potężniejszych nieumarłych M: Tworzy cienie, widma, widziadła lub pożeraczy.
+Symbol śmierci M: Uruchomiona runa zabija pobliskie istoty.
+OczarAntypatia: Przedmiot lub miejsce pod działaniem zaklęcia odpycha wskazane istoty.
+Porywający taniec: Zmusza ofiarę do tańczenia.
+Słowo mocy: oszołomienie: Oszałamia jedną istotę o 150 lub mniej pw.
+Spętanie M: Wykorzystuje różnorodne techniki, by uwięzić istotę.
+Symbol obłędu M: Uruchomiona runa wywołuje obłęd u znajdujących się w pobliżu istot.
+Sympatia K: Przedmiot lub miejsce przyciąga wskazane istoty.
+Zauroczenie potwora, zbiorowe: Jak zauroczenie potwora, ale wpływa na wszystkie w promieniu 9 m.
+Żądanie: Jak przesłanie wieści, plus ślesz sugestię.
+OdrzucOchrona przed czarami MK: Zapewnia premię z odporności +8.
+Pryzmatyczna ściana: Kolory ściany mają różnorodne efekty.
+Zabezpieczenie wymiaru: Teleportacja i międzyplanarna podróż zostają zablokowane na okres 1 dnia/poziom.
+Znieczulenie umysłu: Podmiot zyskuje niepodatność na magię mentalną/emocjonalną oraz szpiegowanie.
+PozChwilowe olśnienie: Zyskujesz premię z olśnienia do jednego testu ataku, rzutu obronnego, testu umiejętności lub atrybutu.
+Ujawnienie położenia: Ujawnia dokładne położenie istoty lub przedmiotu.
+Wścibskie oczy, potężniejsze: Jak wścibskie oczy, ale oczy znajdują się pod działaniem widzenia prawdy.
+PrzemPolimorfowanie dowolnego obiektu: Zmienia dowolny podmiot w dowolny inny.
+Tymczasowy zastój M: Podmiot popada w stan zatrzymania funkcji życiowych.
+Żelazne ciało: Twoje ciało staje się żyjącym żelazem.
+PrzywLabirynt: Ofiara wpada w pułapkę – pozawymiarowy labirynt.
+Planarne spętanie, potężniejsze: Jak słabsze planarne spętanie, ale do 18 KW.
+Przyzwanie potwora VIII: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Uwięzienie duszy MK: Więzi ofiarę w klejnocie.
+Zapalająca chmura: Chmura powoduje 4k6 obrażeń od ognia/rundę.
+WywołKrzyk, potężniejszy: Niszczący krzyk powoduje 10k6 obrażeń od dźwięku; oszałamia istoty; uszkadza przedmioty.
+Promień chłodu: Udany atak dotykowy dystansowy powoduje 1k6/poziom obrażeń od zimna.
+Słoneczny wybuch: Oślepia wszystkich w promieniu 3 m i zadaje 6k6 obrażeń.
+Telekinetyczna sfera: Jak nienaruszalna sfera, ale możesz nią poruszać telepatycznie.
+Zaciśnięta pięść: Duża ręka zapewnia osłonę, popycha lub atakuje twoich przeciwników.
+9-poziomowe zaklęcia czarodzieja/zaklinacza
+IluzCienie: Jak przywoływanie poprzez cienie, ale do 8. poziom i w 80% prawdziwe.
+Zjawisko: Jak widmowy zabójca, ale wpływa na wszystkie istoty w promieniu 9 m.
+NekroProjekcja astralna M: Przenosi ciebie oraz towarzyszy na Plan Astralny.
+Spętanie duszy K: Więzi dopiero co zmarłą duszę i zapobiega zmartwychwstaniu.
+Wycie banshee: Zabija jedno stworzenie/poziom.
+Wysączenie energii: Ofiara otrzymuje 2k4 negatywne poziomy.
+OczarSłowo mocy: zabicie: Zabija jedną istotę o 100 lub mniej pw.
+Unieruchomienie potwora, zbiorowe: Jak unieruchomienie potwora, ale wpływa na wszystkie istoty w promieniu 9 m.
+Zdominowanie potwora: Jak zdominowanie osoby, ale wpływa na istoty dowolnego rodzaju.
+OdrzucPryzmatyczna sfera: Jak pryzmatyczna ściana, ale otacza dookoła.
+Rozłączenie maga: Rozprasza magię i odczarowuje magiczne przedmioty.
+Uwięzienie: Zamyka podmiot pod ziemią.
+Wolność: Uwalnia istotę z uwięzienia.
+PozPrzezorność: “Szósty zmysł” ostrzega przed nadchodzącym niebezpieczeństwem.
+PrzemEteryczność: Wraz z towarzyszami podróżujesz na Plan Eteryczny.
+Zatrzymanie czasu: Swobodnie działasz przez 1k4+1 rund.
+Zmiana kształtów K: Przemienia cię w dowolną istotę, a ponadto możesz raz w rundzie zmieniać kształty.
+PrzywAzyl M: Zmienia przedmiot tak, by przetransportować do ciebie jego posiadacza.
+Krąg teleportacji M: Krąg teleportuje do wskazanego miejsca każdą istotę, która znajdzie się w jego środku,
+Przyzwanie potwora IX: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Wrota D: Łączy dwa plany na potrzeby podróży lub przyzywania.
+UniwŻyczenie D: Jak ograniczone życzenie, ale ma mniejsze ograniczenia.
+WywołMiażdżąca dłoń: Duża ręka zapewnia osłonę, popycha lub miażdży twoich przeciwników.
+Rój meteorów: Cztery wybuchające kule, każda powoduje 6k6 obrażeń od ognia.
+
+DRUID
+0-poziomowe zaklęcia druida (litanie)
+Cnota: Podmiot otrzymuje 1 tymczasowy pw.
+Leczenie drobnych ran: Leczy 1 punkt obrażeń.
+Naprawa: Dokonuje drobnych napraw przedmiotu.
+Oczyszczenie jedzenia i wody: Oczyszcza 0,027 m3/poziom pożywienia lub wody.
+Odczytanie magii: Pozwala odczytywać zwoje i księgi zaklęć.
+Odporność: Podmiot otrzymuje premię +1 do rzutów obronnych.
+Poznanie kierunku: Ustalasz, w jakim kierunku leży północ.
+Przewodnictwo: +1 do jednego testu ataku, rzutu obronnego lub testu umiejętności.
+Raca: Olśniewa jedną istotę (kara –1 do testów ataków).
+Stworzenie wody: Tworzy 7,5 litra/poziom czystej wody.
+Światło: Przedmiot rozświetla się niczym pochodnia.
+Wykrycie magii: Wykrywa czary i przedmioty magiczne w zasięgu 18 m.
+Wykrycie trucizny: Wykrywa truciznę w jednej istocie lub przedmiocie.
+1-poziomowe zaklęcia druida
+Błogosławione jagody: Każda z 2k4 jagód leczy 1 pw (maks. 8 pw/24 godziny).
+Długi krok: Zwiększa twą szybkość o 3 m.
+Leczenie lekkich ran: Leczy 1k8 obrażeń +1/poziom (maks. +5).
+Magiczny kamień: Trzy kamienie stają się pociskami +1 i zadają 1k6 +1 obrażeń.
+Magiczny kieł: Jedna naturalna broń podmiotu otrzymuje premię +1 do testów ataków i obrażeń.
+Magiczny kostur: Pałka lub drąg staje się na 1 min./poziom bronią +1 (1k10 obrażeń).
+Nieprzenikniona mgła: Otacza cię mgła.
+Odporność na żywioły: Umożliwia przebywanie w gorącym lub mroźnym środowisku.
+Oplątanie: Rośliny oplątują wszystkich w promieniu 12 m.
+Płomienna otoczka: Otacza podmiot światłem, negując rozmycie, ukrycie i podobne efekty.
+Przejście bez śladu: Jeden podmiot/poziom nie pozostawia śladów.
+Przyzwanie sojusznika natury I: Sprowadza istotę, by za ciebie walczyła.
+Rozmawianie ze zwierzętami: Potrafisz się komunikować ze zwierzętami.
+Rozpalenie płomieni: 1k6 obrażeń +1/poziom – po dotknięciu lub rzuceniu.
+Skok: Podmiot otrzymuje premię do testów Skakania.
+Ukrycie przed zwierzętami: Zwierzęta nie są w stanie wyczuć jednego podmiotu/poziom.
+Uspokojenie zwierzęcia: Uspokaja (2k4 + poziom) KW zwierząt.
+Wykrycie wnyków i jam: Ujawnia naturalne lub prymitywne pułapki.
+Wykrycie zwierząt lub roślin: Wykrywa zwierzęta lub rośliny danego gatunku.
+Zauroczenie zwierzęcia: Jedno zwierzę staje się twoim przyjacielem.
+2-poziomowe zaklęcia druida
+Chmura mgły: Mgła ogranicza pole widzenia.
+Drzewny kształt: Przez godzinę/poziom wyglądasz jak drzewo.
+Gracja kota: Podmiot zyskuje +4 do Zr na 1 min./poziom.
+Korowa skóra: Zapewnia usprawnienie +2 (lub więcej) do naturalnego pancerza.
+Kształtowanie drewna: Przekształca drewniane przedmioty wedle twego życzenia.
+Mądrość sowy: Podmiot zyskuje +4 do Rzt na 1 min./poziom.
+Odporność na energię: Pozwala zignorować 10 (lub więcej) obrażeń/atak spowodowanych przez energię konkretnego rodzaju.
+Ognista pułapka M: Po otwarciu przedmiot zadaje 1k4 +1/poziom obrażeń.
+Ogniste ostrze: Atak dotykowy powoduje obrażenia w wysokości 1k8 +1/dwa poziomy.
+Opóźnienie działania trucizny: Powstrzymuje działanie trucizny, która nie krzywdzi podmiotu przez 1 godzinę/poziom.
+Oziębienie metalu: Sprawia, że metal staje się tak chłodny, że rani każdego, kto go dotknie.
+Pajęcza wspinaczka: Umożliwia chodzenie po ścianach i sufitach.
+Płonąca sfera: Tworzy toczącą się kulę ognia; 2k6 obrażeń; istnieje rundę/poziom.
+Podmuch wiatru: Odpycha lub przewraca małe istoty.
+Pomniejszenie zwierzęcia: Zmniejsza jedno chętne zwierzę.
+Przywrócenie energii życiowej, słabsze: Rozprasza magiczne kary do atrybutów oraz pozwala odzyskać 1k4 punkty obniżonej wartości atrybutu.
+Przyzwanie roju: Przyzywa rój nietoperzy, szczurów lub pająków.
+Przyzwanie sojusznika natury II: Sprowadza istotę, by walczyła.
+Rozgrzanie metalu: Sprawia, że metal staje się tak gorący, że rani każdego, kto go dotknie.
+Siła byka: Podmiot zyskuje +4 do S na 1 min./poziom.
+Unieruchomienie zwierzęcia: Paraliżuje jedno zwierzę na rundę/poziom.
+Wypaczenie drewna: Wygina drewno (drzewce, rękojeści, drzwi, deski).
+Wytrzymałość niedźwiedzia: Podmiot zyskuje +4 do Bd na 1 min./poziom.
+Zmiękczenie ziemi i kamienia: Przemienia kamień w glinę, pył, piasek lub błoto.
+Zwierzęcy posłaniec: Posyła malutkie zwierzę do konkretnego miejsca.
+Zwierzęcy trans: Wywołuje fascynację u sumie 2k6 KW zwierząt.
+3-poziomowe zaklęcia druida
+Deszcz ze śniegiem: Utrudnia poruszanie się i ogranicza pole widzenia.
+Gąszcz cierni: Istoty na obszarze działania otrzymują 1k4 obrażenia i mogą zostać spowolnione.
+Kształtowanie kamienia: Nadaje kamieniowi dowolny kształt.
+Leczenie średnich ran: Leczy 2k8 obrażeń +1/poziom (maks. +10).
+Magiczny kieł, potężniejszy: Jedna naturalna broń podmiotu otrzymuje +1/trzy poziomy do testów ataków i obrażeń (maks. +5).
+Neutralizacja trucizny: Wywołuje w podmiocie niepodatność na truciznę; detoksykuje jad na lub w podmiocie.
+Ochrona przed energią: Absorbuje 12 obrażeń/poziom spowodowanych przez energię konkretnego rodzaju.
+Oddychanie wodą: Podmiot może oddychać pod wodą.
+Przełamanie choroby: Leczy wszystkie choroby, na które cierpi podmiot.
+Przyzwanie sojusznika natury III: Sprowadza istotę, by walczyła.
+Rozmawianie z roślinami: Możesz rozmawiać z normalnymi roślinami i stworzeniami roślinnymi.
+Stopienie z kamieniem: Wraz z wyposażeniem łączysz się z kamieniem.
+Ściana wiatru: Zatrzymuje strzały, mniejsze istoty oraz gazy.
+Światło dnia: Powołuje do istnienia jasne światło w promieniu 18 m.
+Trucizna: Dotyk powoduje obniżenie Bd o 1k10, powtarzające się po 1 min.
+Ugaszenie płomieni: Gasi płomienie niemagiczne lub jeden przedmiot magiczny.
+Wezwanie błyskawic: Sprowadza z nieba błyskawice (3k6 obrażeń każda).
+Wnyki: Tworzy pułapkę.
+Wzrastanie roślin: Powiększa rośliny i zwiększa zbiory.
+Zakażenie: Zaraża ofiarę wybraną chorobą.
+Zdominowanie zwierzęcia: Zwierzę będące ofiarą zaklęcia wykonuje bezgłośne mentalne rozkazy.
+Zmniejszanie roślin: Zmniejsza rozmiar lub powstrzymuje rozwój normalnych roślin.
+4-poziomowe zaklęcia druida
+Cierniste kamienie: Istoty w obszarze działania otrzymują 1k8 obrażeń i mogą ulec spowolnieniu.
+Kontrolowanie wody: Unosi lub obniża poziom wody.
+Leczenie poważnych ran: Leczy 3k8 obrażeń +1/poziom (maks. +15).
+Lodowa nawałnica: Grad zadaje 5k6 obrażeń na obszarze walca o średnicy 12 m.
+Odpychanie robactwa: Owady, pająki i inne robactwo trzymają się na dystans 3 m.
+Ogniste uderzenie: Boski ogień rani wrogów (1k6 obrażeń/poziom).
+Ogromne robactwo: Przemienia stonogi, skorpiony lub pająki w ogromne robactwo.
+Powłoka ochrony przed roślinami: Trzyma rośliny na odległość.
+Przyzwanie sojusznika natury IV: Sprowadza istotę, by walczyła.
+Rdzewienie: Twój dotyk powoduje korozję żelaza i stopów.
+Reinkarnacja: Przywraca zmarły podmiot do życia, obdarzając go losowo wybranym ciałem.
+Rozkazywanie roślinom: Narzuca działania jednej lub większej liczbie istot roślinnych.
+Rozproszenie magii: Neguje działanie czarów i efektów magicznych.
+Stąpanie w powietrzu: Podmiot maszeruje w powietrzu jak po stałym gruncie (wspina się pod kątem 45 stopni).
+Swoboda działania: Podmiot porusza się normalnie pomimo ograniczeń.
+Szpiegowanie K: Szpieguje podmiot na odległość.
+Więdnięcie: Powoduje uwiąd jednej rośliny lub zadaje istocie roślinnej 1k6/poziom obrażeń.
+5-poziomowe zaklęcia druida
+Drzewny krok: Przechodzenie pomiędzy drzewami rosnącymi w dużej odległości.
+Kamienna skóra M: Pozwala ignorować 10 obrażeń na atak.
+Kontrolowanie wiatrów: Zmienia kierunek i siłę wiatru.
+Leczenie krytycznych ran: Leczy 4k8 obrażeń +1/poziom (maks. +20).
+Obcowanie z naturą: Poznanie terenu w promieniu 1,5 km/poziom.
+Ochrona przed śmiercią: Zapewnia niepodatność na czary śmierci oraz efekty oparte na energii negatywnej.
+Plaga insektów: Rój atakuje istoty.
+Pokuta: Zdejmuje z podmiotu brzemię złych uczynków.
+Powiększenie zwierzęcia: Podwaja rozmiar jednego zwierzęcia/dwa poziomy.
+Przebudzenie D: Zwierzę lub drzewo zyskuje ludzką inteligencję.
+Przeklęcie M: Wskazane miejsce staje się przeklętym.
+Przemiana błota w skałę: Przemienia dwa sześciany o krawędzi 3 m na poziom.
+Przemiana skały w błoto: Przemienia dwa sześciany o krawędzi 3 m na poziom.
+Przyzwanie sojusznika natury V: Sprowadza istotę, by walczyła.
+Szkodliwa polimorfia: Przemienia podmiot w nieszkodliwe zwierzę.
+Ściana cierni: Ciernie ranią każdego, kto próbuje przez nie przejść.
+Ściana ognia: Zadaje 2k4 obrażenia od ognia na dystans do 3 m i 1k4 w odległości do 6 m; przejście przez ścianę powoduje 2k6 obrażeń +1/poziom.
+Uświęcenie M: Wskazane miejsce staje się świętym.
+Wezwanie burzy z piorunami: Jak wezwanie błyskawic, ale każda zadaje 5k6 obrażeń.
+6-poziomowe zaklęcia druida
+Gracja kota, zbiorowa: Jak gracja kota, ale wpływa na jeden podmiot/poziom.
+Laska czaru: Umieszcza jedno zaklęcie w drewnianym drągu.
+Leczenie lekkich ran, zbiorowe: Leczy wielu istotom 1k8 obrażeń +1/poziom.
+Mądrość sowy, zbiorowa: Jak mądrość sowy, ale wpływa na jeden podmiot/poziom.
+Odpychanie drewna: Odpycha drewniane przedmioty.
+Ogniste nasiona: Żołędzie i jagody stają się granatami i bombami.
+Pogawędka z kamieniem: Pozwala rozmawiać z naturalnym lub obrobionym kamieniem.
+Poruszenie ziemi: Tworzy okopy i wzniesienia.
+Powłoka ochrony przed życiem: 3-metrowe pole trzyma na odległość żyjące istoty.
+Przyzwanie sojusznika natury VI: Sprowadza istotę, by walczyła.
+Roślinna podróż: Natychmiastowe przemieszczenie pomiędzy dwoma roślinami tego samego gatunku.
+Rozproszenie magii, potężniejsze: Jak rozproszenie magii, ale +20 do testu.
+Siła byka, zbiorowa: Jak siła byka, ale wpływa na jeden podmiot/poziom.
+Ściana kamieni: Tworzy kamienną ścianę, którą można ukształtować.
+Wytrzymałość niedźwiedzia, zbiorowa: Jak wytrzymałość niedźwiedzia, ale wpływa na jeden podmiot/poziom.
+Znalezienie ścieżki: Pokazuje najkrótszą drogę do jakiegoś miejsca.
+Żelazne drewno: Magiczne drewno – wytrzymałe niczym stal.
+Żywodąb: Dąb staje się drzewcem-stażnikiem.
+7-poziomowe zaklęcia druida
+Kontrolowanie pogody: Zmienia pogodę w okolicy.
+Leczenie średnich ran, zbiorowe: Leczy wielu istotom 2k8 obrażeń +1/poziom.
+Ognista burza: Zadaje 1k6/poziom obrażeń od ognia.
+Ożywienie roślin: Ożywia jedną lub więcej roślin, które walczą dla ciebie.
+Pełzająca zagłada: Rój stonóg atakuje na twój rozkaz.
+Przemiana metalu w drewno: Metal w promieniu 12 m staje się drewnem.
+Przeobrażenie drąga: Na rozkaz twój drąg staje się drzewcem.
+Przyzwanie sojusznika natury VII: Sprowadza istotę, by walczyła.
+Słoneczny promień: Promień oślepia i powoduje 4k6 obrażeń.
+Spacer w chmurach: Ty i twoi sprzymierzeńcy przemieniacie się w opary i szybko podróżujecie.
+Szpiegowanie, potężniejsze: Jak szpiegowanie, ale szybsze i na większy dystans.
+Uzdrowienie: Leczy 10 obrażeń/poziom oraz wszystkie choroby i ułomności umysłowe.
+Widzenie prawdy M: Pozwala ci widzieć wszystkie rzeczy takimi, jakie są naprawdę.
+8-poziomowe zaklęcia druida
+Kontrolowanie roślin: Kontroluje działanie jednej lub większej liczby istot roślinnych.
+Leczenie poważnych ran, zbiorowe: Leczy wielu istotom 3k8 obrażeń +1/poziom.
+Odpychanie metalu i kamienia: Odpycha metal i kamień.
+Odwrócenie grawitacji: Przedmioty i istoty spadają “do góry”.
+Palec śmierci: Zabija jedną istotę.
+Przyzwanie sojusznika natury VIII: Sprowadza istotę, by walczyła.
+Słoneczny wybuch: Oślepia wszystkich w promieniu 3 m i zadaje 6k6 obrażeń.
+Słowo powrotu: Teleportuje cię z powrotem we wskazane miejsce.
+Trąba powietrzna: Cyklon, który powoduje obrażenia i może porwać istoty.
+Trzęsienie ziemi: Intensywne wstrząsy w promieniu 1,5 m/poziom.
+Zwierzęce kształty: Jeden sprzymierzeniec/poziom poliformuje się w wybrane zwierzę.
+9-poziomowe zaklęcia druida
+Antypatia: Przedmiot lub miejsce pod działaniem zaklęcia odpycha wskazane istoty.
+Burza zemsty: Burza, deszcz kwasu, błyskawice i grad.
+Gnilnik: Przyzywa 1k4+2 gnilniki, które dla ciebie walczą.
+Leczenie krytycznych ran, zbiorowe: Leczy wielu istotom 4k8 obrażeń +1/poziom.
+Przezorność: “Szósty zmysł” ostrzega przed nadchodzącym niebezpieczeństwem.
+Przyzwanie sojusznika natury IX: Sprowadza istotę, by walczyła.
+Regeneracja: Odcięte kończyny podmiotu odrastają, leczy 4k8 obrażeń +1/poziom (maks. +35).
+Rój żywiołaków: Przyzywa kilka żywiołaków.
+Sympatia M: Przedmiot lub miejsce przyciąga wskazane istoty.
+Zmiana kształtów K: Przemienia cię w dowolną istotę, a ponadto możesz raz w rundzie zmieniać kształty.
+
+KAPŁAN
+0-poziomowe zaklęcia kapłana (litanie)
+Cnota: Podmiot otrzymuje 1 tymczasowy pw.
+Leczenie drobnych ran: Leczy 1 punkt obrażeń.
+Naprawa: Dokonuje drobnych napraw przedmiotu.
+Oczyszczenie jedzenia i wody: Oczyszcza 0,027 m3/poziom pożywienia lub wody.
+Odczytanie magii: Pozwala odczytywać zwoje i księgi zaklęć.
+Odporność: Podmiot otrzymuje +1 do rzutów obronnych.
+Przewodnictwo: +1 do jednego testu ataku, rzutu obronnego lub testu umiejętności.
+Stworzenie wody: Tworzy 7,5 litra/poziom czystej wody.
+Światło: Przedmiot rozświetla się niczym pochodnia.
+Wykrycie magii: Wykrywa czary i przedmioty magiczne w zasięgu 18 m.
+Wykrycie trucizny: Wykrywa truciznę w jednej istocie lub przedmiocie.
+Zadawanie drobnych ran: Atak dotykowy, 1 obrażenie.
+1-poziomowe zaklęcia kapłana
+Błogosławieństwo: Sprzymierzeńcy otrzymują +1 do testów ataków i rzutów obronnych na strach.
+Boska łaska: Zyskujesz +1 na trzy poziomy do testów ataków i obrażeń.
+Leczenie lekkich ran: Leczy 1k8 obrażeń +1/poziom (maks. +5).
+Magiczna broń: Broń zyskuje premię +1.
+Magiczny kamień: Trzy kamienie stają się pociskami +1 i zadają 1k6 +1 obrażeń.
+Nieprzenikniona mgła: Otacza cię mgła.
+Obawa: Wrogowie podlegają karze –1 do testów ataków i rzutów obronnych na strach.
+Obserwacja śmierci: Wyjawia, jak blisko śmierci są podmioty w promieniu 9 m.
+Ochrona przed chaosem/dobrem/prawem/złem: +2 do KP i rzutów obronnych; zapobiega umysłowej kontroli; trzyma z dala żywiołaki i przybyszów.
+Odporność na żywioły: Umożliwia przebywanie w gorącym lub mroźnym środowisku.
+Pobłogosławienie wody M: Tworzy wodę święconą.
+Przeklęcie wody M: Tworzy wodę przeklętą.
+Przełamanie strachu: Tłumi strach lub zapewnia +4 do rzutów obronnych na strach jednemu podmiotowi i jednemu dodatkowemu podmiotowi na cztery poziomy.
+Przyzwanie potwora I: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozkaz: Jedna ofiara przez rundę wykonuje wydany rozkaz.
+Rozumienie języków: Rozumiesz wszystkie języki i odczytujesz ich alfabet.
+Sanktuarium: Przeciwnicy nie mogą cię atakować, a ty nie możesz atakować ich.
+Tarcza entropii: Wymierzone w ciebie ataki dystansowe chybiają – szansa, że ich unikniesz, wynosi 20%.
+Tarcza wiary: Aura zapewnia premię z odbicia +2 lub więcej.
+Ukrycie przed nieumarłymi: Nieumarły nie jest w stanie percypować jednego podmiotu/poziom.
+Wykrycie chaosu/dobra/prawa/zła: Ujawnia istoty, zaklęcia i przedmioty o danym charakterze.
+Wykrycie nieumarłych: Ujawnia nieumarłych w zasięgu 18 m.
+Wywołanie strachu: Jedna istota o maksymalnie 5 KW ucieka przez 1k4 rundy
+Zadawanie lekkich ran: Atak dotykowy, 1k8 obrażeń +1/poziom (maks. +5).
+Zagłada: Jedna ofiara podlega karze –2 do testów ataków i obrażeń, rzutów obronnych oraz testów umiejętności i atrybutów.
+2-poziomowe zaklęcia kapłana
+Charakter oręża: Broń staje się orężem chaotycznym, dobrym, praworządnym lub złym.
+Ciemność: Nienaturalne cienie zalegają na obszarze o promieniu 6 m.
+Cisza: Neguje dźwięki w promieniu 4,5 m.
+Duchowa broń: Magiczna broń atakuje sama z siebie.
+Eksplozja dźwięków: Zadaje ofiarom 1k8 obrażeń od dźwięku; może je oszołomić.
+Konsekracja M: Wypełnia obszar energię pozytywną, osłabiając nieumarłych.
+Leczenie średnich ran: Leczy 2k8 obrażeń +1/poziom (maks. +10).
+Mądrość sowy: Podmiot zyskuje +4 do Rzt na 1 min./poziom.
+Niewykrywalny charakter: Ukrywa charakter na 24 godziny.
+Odporność na energię: Pozwala zignorować 10 (lub więcej) obrażeń/atak spowodowanych przez energię konkretnego rodzaju.
+Opóźnienie działania trucizny: Powstrzymuje działanie trucizny, która nie krzywdzi podmiotu przez 1 godzinę/poziom.
+Ostatnie tchnienie: Zabija istotę umierającą; zyskujesz 1k8 tymczasowych pw, +2 do S i +1 do poziomu.
+Profanacja M: Wypełnia obszar energią negatywną, wzmacniając nieumarłych.
+Przełamanie paraliżu: Uwalnia jedną lub więcej istot spod działania paraliżu i efektów spowolnienia.
+Przepowiednia MK: Informuje, czy akcja będzie miała dobry, czy zły rezultat.
+Przywrócenie energii życiowej, słabsze: Rozprasza magiczne kary do atrybutów oraz pozwala odzyskać 1k4 punkty obniżonej wartości atrybutu.
+Przyzwanie potwora II: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Roztrzaskanie: Dźwiękowe wibracje powodują uszkodzenia przedmiotów lub kryształowych istot.
+Siła byka: Podmiot zyskuje +4 do S na 1 min./poziom.
+Scalanie: Naprawia przedmiot.
+Splendor orła: Podmiot zyskuje +4 do Cha na 1 min./poziom.
+Spowolniony rozkład: Chroni przed rozkładem jedne zwłoki.
+Status: Monitorowanie stanu i miejsca pobytu sprzymierzeńców.
+Strefa prawdy: Podmioty w zasięgu działania nie mogą kłamać.
+Szukanie pułapek: Pozwala znajdować pułapki jak łotrzyk.
+Tarcza dla przyjaciela K: Otrzymujesz połowę obrażeń podmiotu.
+Unieruchomienie osoby: Paraliżuje jednego humanoida na 1 rundę/poziom.
+Uspokojenie emocji: Uspokaja istoty, negując efekty związane z emocjami.
+Wspomożenie: +1 do testów ataków i rzutów obronnych na strach; 1k8 tymczasowych pw +1/poziom (maks. +10).
+Wytrzymałość niedźwiedzia: Podmiot zyskuje +4 do Bd na 1 min./poziom.
+Zachwyt: Ujmuje wszystkich w promieniu 30 m + 3 m/poziom.
+Zadawanie średnich ran: Atak dotykowy, 2k8 obrażeń +1/poziom (maks. +10).
+3-poziomowe zaklęcia kapłana
+Chodzenie po wodzie: Podmiot maszeruje po wodzie jak po stałym gruncie.
+Glif strażniczy M: Inskrypcja krzywdząca istoty, które po niej przejdą.
+Głębsza ciemności: Przedmiot rzuca nadnaturalny cień w promieniu 18 m.
+Kształtowanie kamienia: Nadaje kamieniowi dowolny kształt.
+Leczenie poważnych ran: Leczy 3k8 obrażeń +1/poziom (maks. +15).
+Magiczna szata: Zbroja lub tarcza otrzymuje +1 z usprawnienia na cztery poziomy.
+Magiczny krąg przeciw chaosowi/dobru/prawu/złu: Jak czar ochrony, ale promień 3 m i 10 min./poziom.
+Modlitwa: Sprzymierzeńcy otrzymują premię +1 do większości rzutów, a wrogowie podlegają karze –1.
+Nałożenie klątwy: –6 do wartości atrybutów; –4 do testów ataków, rzutów obronnych oraz testów umiejętności i atrybutów; lub 50% ryzyka utraty następnej akcji.
+Nieustający płomień M: Tworzy permanentną, niewydzielającą ciepła pochodnię.
+Ochrona przed energią: Absorbuje 12 obrażeń/poziom spowodowanych przez energię konkretnego rodzaju.
+Oddychanie wodą: Podmiot może oddychać pod wodą.
+Ożywienie umarłego M: Tworzy nieumarłych – szkielety i zombich.
+Piekące światło: Promień zadaje 1k8 obrażeń/dwa poziomy, a nieumarłym więcej.
+Pomocna dłoń: Widmowa dłoń prowadzi do ciebie podmiot.
+Przełamanie choroby: Leczy wszystkie choroby, na które cierpi podmiot.
+Przełamanie klątwy: Uwalnia przedmiot lub osobę spod działania klątwy.
+Przełamanie ślepoty/głuchoty: Leczy normalne i magiczne dolegliwości tego rodzaju.
+Przyzwanie potwora III: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozmawianie ze zmarłymi: Zwłoki odpowiadają na jedno pytanie/dwa poziomy.
+Rozproszenie magii: Neguje działanie czarów i efektów magicznych.
+Schowanie przedmiotu: Maskuje przedmiot przed szpiegowaniem.
+Stopienie z kamieniem: Wraz z wyposażeniem łączysz się z kamieniem.
+Stworzenie jedzenia i wody: Wykarmia trzech ludzi (lub jednego konia)/poziom.
+Ściana wiatru: Zatrzymuje strzały, mniejsze istoty oraz gazy.
+Ślepota/głuchota: Sprawia, że ofiara staje się ślepa lub głucha.
+Światło dnia: Powołuje do istnienia jasne światło w promieniu 18 m.
+Wyczyszczenie niewidzialności: Rozprasza niewidzialność w promieniu 1,5 m/poziom.
+Zadawanie poważnych ran: Atak dotykowy, 3k8 obrażeń +1/poziom (maks. +15).
+Zakażenie: Zaraża ofiarę wybraną chorobą.
+Zlokalizowanie przedmiotu: Wskazuje kierunek, w jakim znajduje się przedmiot (konkretny lub pewnego typu).
+4-poziomowe zaklęcia kapłana
+Boska moc: Zyskujesz premię do ataku, +6 do S, i 1 pw/poziom.
+Języki: Umożliwia mówienie w jednym języku.
+Kontrolowanie wody: Unosi lub obniża poziom wody.
+Leczenie krytycznych ran: Leczy 4k8 obrażeń +1/poziom (maks. +20).
+Magiczna broń, potężniejsza: Premia +1/cztery poziomy (maks. +5).
+Nadanie zdolności czarowania: Przenosi czary na podmiot.
+Neutralizacja trucizny: Wywołuje w podmiocie niepodatność na truciznę; detoksykuje jad
+na lub w podmiocie.
+Niepodatność na czar: Podmiot staje się niepodatny na jeden czar na cztery poziomy.
+Ochrona przed śmiercią: Zapewnia niepodatność na czary śmierci oraz efekty oparte na energii negatywnej.
+Odesłanie: Zmusza istotę do powrotu na rodzimy plan.
+Odpychanie robactwa: Owady, pająki i inne robactwo trzyma się na dystans 3 m.
+Ogromne robactwo: Przemienia stonogi, skorpiony lub pająki w ogromne robactwo.
+Planarny sojusznik, słabszy D: Wymiana przysług z pozaplanarną istotą o 6 KW.
+Proroctwo M: Daje przydatną radę dotyczącą planowanych działań.
+Przesłanie wieści: Natychmiast dostarcza krótką wiadomość do dowolnego miejsca.
+Przywrócenie energii życiowej M: Przywraca poziom oraz wysączoną wartość atrybutu.
+Przyzwanie potwora IV: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Stąpanie w powietrzu: Podmiot maszeruje w powietrzu jak po stałym gruncie (wspina się pod kątem 45 stopni).
+Swoboda działania: Podmiot porusza się normalnie pomimo ograniczeń.
+Trucizna: Dotyk powoduje obniżenie Bd o 1k10, powtarzające się po 1 min.
+Ujawnienie kłamstw: Ujawnia zamierzone oszustwa.
+Zadawanie krytycznych ran: Atak dotykowy, 4k8 obrażeń +1/poziom (maks. +20).
+Zakotwiczenie w wymiarze: Uniemożliwia międzywymiarowe wędrówki.
+5-poziomowe zaklęcia kapłana
+Leczenie lekkich ran, zbiorowe: Leczy wielu istotom 1k8 obrażeń +1/poziom.
+Obcowanie D: Bóstwo odpowiada tak lub nie na jedno pytanie/poziom.
+Odporność na czary: Podmiot otrzymuje OC 12 + poziom.
+Ogniste uderzenie: Boski ogień rani wrogów (1k6 obrażeń/poziom).
+Oręż na nieumarłych: Broń do walki wręcz niszczy nieumarłych.
+Plaga insektów: Rój atakuje istoty.
+Pokuta KD: Zdejmuje z podmiotu brzemię złych uczynków.
+Przeklęcie M: Wskazane miejsce staje się przeklętym.
+Przyzwanie potwora V: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozkaz, potężniejszy: Jak rozkaz, ale wpływa na jeden podmiot/poziom.
+Rozproszenie chaosu/dobra/prawa/zła: Premia +4 względem ataków.
+Słuszna potęga: Zwiększa twój rozmiar oraz obdarza premiami bojowymi.
+Symbol bólu M: Uruchomiona runa wywołuje ból w pobliskich istotach.
+Symbol uśpienia M: Uruchomiona runa wprowadza istoty w katatoniczną drzemkę.
+Szpiegowanie K: Szpieguje podmiot na odległość.
+Ściana kamieni: Tworzy kamienną ścianę, którą można ukształtować.
+Uświęcenie M: Wskazane miejsce staje się świętym.
+Widzenie prawdy M: Pozwala ci widzieć wszystkie rzeczy takimi, jakimi są naprawdę.
+Wskrzeszenie M: Przywraca życie podmiotowi, który umarł najdalej przed dniem/poziom.
+Zabicie żywego: Atak dotykowy zabija ofiarę.
+Zadawanie lekkich ran, zbiorowe: Zadaje wielu istotom 1k8 obrażeń +1/poziom.
+Zamiana planów K: Do ośmiu istot podróżuje na inny plan.
+Złamanie zaklęcia: Uwalnia podmiot od oczarowań, klątw, petryfikacji i przemian.
+Znak sprawiedliwości: Wskazana czynność spowoduje zadziałanie klątwy, która wpłynie na podmiot.
+6-poziomowe zaklęcia kapłana
+Bariera z ostrzy: Ściana ostrzy zadaje 1k6 obrażeń/poziom.
+Glif strażniczy, potężniejszy: Jak glif strażniczy, ale do 10k8 obrażeń lub czar 6. poziomu.
+Krzywda: Zadaje ofierze 10 obrażeń/poziom.
+Leczenie średnich ran, zbiorowe: Leczy wielu istotom 2k8 obrażeń +1/poziom.
+Mądrość sowy, zbiorowa: Jak mądrość sowy, ale wpływa na jeden podmiot/poziom.
+Ożywienie przedmiotów: Przedmioty atakują twoich przeciwników.
+Planarny sojusznik D: Jak słabszy planarny sojusznik, ale do 12 KW.
+Powłoka ochrony przed życiem: 3-metrowe pole trzyma na odległość żyjące istoty.
+Przyzwanie potwora VI: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozproszenie magii, potężniejsze: Jak rozproszenie magii, lecz do +20 do testu.
+Siła byka, zbiorowa: Jak siła byka, ale wpływa na jeden podmiot/poziom.
+Słowo powrotu: Teleportuje cię z powrotem we wskazane miejsce.
+Spacer w chmurach: Ty i twoi sprzymierzeńcy przemieniacie się w opary i szybko podróżujecie.
+Splendor orła, zbiorowy: Jak splendor orła, ale wpływa na jeden podmiot/poziom.
+Stworzenie nieumarłych: Tworzy ghoule, ghasty, mumie lub mohrgów.
+Symbol strachu M: Uruchomiona runa wywołuje panikę w znajdujących się w pobliżu istotach.
+Symbol perswazji M: Uruchomiona runa wywołuje zauroczenie w znajdujących się w pobliżu istotach.
+Uczta bohaterów: Jedzenie dla jednej istoty/na poziom, które leczy i zapewnia premie do walki.
+Uzdrowienie: Leczy 10 obrażeń/poziom oraz wszystkie choroby i ułomności umysłowe.
+Wygnanie: Wygania 2 KW/poziom istot pozaplanarnych.
+Wytrzymałość niedźwiedzia, zbiorowa: Jak wytrzymałość niedźwiedzia, ale wpływa na jeden podmiot/poziom.
+Zabicie nieumarłego M: Niszczy 1k4 KW/poziom nieumarłych (maks. 20k4).
+Zadanie/misja: Jak słabsze zadanie plus wpływa na istotę dowolnego rodzaju.
+Zadawanie średnich ran, zbiorowe: Zadaje wielu istotom 2k8 obrażeń +1/poziom.
+Zamknięcie obszaru M: Blokuje podróże planarne oraz rani istoty o odmiennym charakterze.
+Znalezienie ścieżki: Pokazuje najkrótszą drogę do jakiegoś miejsca.
+7-poziomowe zaklęcia kapłana
+Azyl M: Zmienia przedmiot tak, by przetransportować do ciebie jego posiadacza.
+Bluźnierstwo: Zabija, paraliżuje, osłabia lub otumania ofiary, które nie są złe.
+Eteryczny spacer: Stajesz się eteryczny na 1 rundę/poziom.
+Kontrolowanie pogody: Zmienia pogodę w okolicy.
+Leczenie poważnych ran, zbiorowe: Leczy wielu istotom 3k8 obrażeń +1/poziom.
+Odrzucenie: Istoty nie mogą się do ciebie zbliżyć.
+Przywrócenie energii życiowej, potężniejsze D: Jak przywrócenie energii życiowej plus przywraca wszystkie poziomy i wartości wszystkich atrybutów.
+Przyzwanie potwora VII: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Regeneracja: Odcięte kończyny podmiotu odrastają, leczy 4k8 obrażeń +1/poziom (maks. +35).
+Sentencja: Zabija, paraliżuje, spowalnia lub ogłasza ofiary, które nie są praworządne.
+Słowo chaosu: Zabija, dezorientuje, oszałamia lub ogłasza ofiary, które nie są chaotyczne.
+Symbol osłabienia M: Uruchomiona runa osłabia znajdujące się w pobliżu istoty.
+Symbol oszołomienia M: Uruchomiona runa oszałamia znajdujące się w pobliżu istoty.
+Szpiegowanie, potężniejsze: Jak szpiegowanie, ale szybsze i na większy dystans.
+Święte słowo: Zabija, paraliżuje, oślepia lub ogłasza ofiary, które nie są dobre.
+Zadawanie poważnych ran, zbiorowe: Zadaje wielu istotom 3k8 obrażeń +1/poziom.
+Zmartwychwstanie M: Przywraca umarłego do pełni życia.
+Zniszczenie K: Zabija ofiarę i niszczy jej zwłoki.
+8-poziomowe zaklęcia kapłana
+Leczenie krytycznych ran, zbiorowe: Leczy wielu istotom 4k8 obrażeń +1/poziom.
+Niepodatność na czar, potężniejsza: Jak niepodatność na czar, ale do zaklęć 8. poziomu.
+Ognista burza: Zadaje 1k6/poziom obrażeń od ognia.
+Planarny sojusznik, potężniejszy D: Jak słabszy planarny sojusznik, ale do 18 KW.
+Płaszcz chaosu K: +4 do KP, +4 odporności i OC 25 względem czarów prawa.
+Pole antymagii: Neguje magię w promieniu 3 m.
+Przeklęta aura K: +4 do KP, +4 odporności i OC 25 względem czarów dobra.
+Przyzwanie potwora VIII: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Stworzenie potężniejszych nieumarłych M: Tworzy cienie, widma, widziadła lub pożeraczy.
+Symbol obłędu M: Uruchomiona runa wywołuje obłęd u znajdujących się w pobliżu istot.
+Symbol śmierci M: Uruchomiona runa zabija znajdujące się w pobliżu istoty.
+Święta aura K: +4 do KP, +4 odporności i OC 25 względem czarów zła.
+Tarcza prawa K: +4 do KP, +4 odporności i OC 25 względem czarów chaosu.
+Trzęsienie ziemi: Intensywne wstrząsy w promieniu 1,5 m/poziom.
+Ujawnienie położenia: Ujawnia dokładne położenie istoty lub przedmiotu.
+Zabezpieczenie wymiaru: Teleportacja i międzyplanarna podróż zostają zablokowane na okres 1 dnia/poziom.
+Zadawanie krytycznych ran, zbiorowe: Zadaje wielu istotom 4k8 obrażeń +1/poziom.
+9-poziomowe zaklęcia kapłana
+Burza zemsty: Burza, deszcz kwasu, błyskawice i grad.
+Cud D: Prośba o boską interwencję.
+Eteryczność: Wraz z towarzyszami podróżujesz na Plan Eteryczny.
+Implozja: Zabija jedną istotę/rundę.
+Prawdziwe zmartwychwstanie M: Jak zmartwychwstanie, plus nie potrzebne są szczątki zmarłego.
+Projekcja astralna M: Przenosi ciebie oraz towarzyszy na Plan Astralny.
+Przyzwanie potwora IX: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Spętanie duszy K: Więzi dopiero co zmarłą duszę i zapobiega zmartwychwstaniu.
+Uzdrowienie, zbiorowe: Jak uzdrowienie, ale wpływa na kilka podmiotów.
+Wrota D: Łączy dwa plany na potrzeby podróży lub przyzywania.
+Wysączenie energii: Ofiara otrzymuje 2k4 negatywne poziomy.
+
+PALADYN
+1-poziomowe zaklęcia paladyna
+Błogosławieństwo: Sprzymierzeńcy otrzymują +1 do testów ataków i rzutów obronnych na strach.
+Boska łaska: Zyskujesz +1 na trzy poziomy do testów ataków i obrażeń.
+Cnota: Podmiot otrzymuje 1 tymczasowy pw.
+Leczenie lekkich ran: Leczy 1k8 obrażeń +1/poziom (maks. +5).
+Magiczna broń: Broń zyskuje premię +1.
+Ochrona przed chaosem/złem: +2 do KP i rzutów obronnych; zapobiega kontroli umysłowej; trzyma z dala żywiołaki i przybyszów.
+Odczytanie magii: Pozwala odczytywać zwoje i księgi zaklęć.
+Odporność: Podmiot otrzymuje +1 do rzutów obronnych.
+Odporność na żywioły: Umożliwia przebywanie w gorącym lub mroźnym środowisku.
+Pobłogosławienie broni: Broń staje się skuteczniejsza w walce ze złymi wrogami.
+Pobłogosławienie wody: Tworzy wodę święconą.
+Przywrócenie energii życiowej, słabsze: Rozprasza magiczne kary do atrybutów oraz pozwala odzyskać 1k4 punkty obniżonej wartości atrybutu.
+Stworzenie wody: Tworzy 7,5 litra/poziom czystej wody.
+Wykrycie nieumarłych: Ujawnia nieumarłych w zasięgu 18 m.
+Wykrycie trucizny: Wykrywa truciznę w jednej istocie lub przedmiocie.
+2-poziomowe zaklęcia paladyna
+Mądrość sowy: Podmiot zyskuje +4 do Rzt na 1 min./poziom.
+Niewykrywalny charakter: Ukrywa charakter na 24 godziny.
+Odporność na energię: Pozwala zignorować 10 (lub więcej) obrażeń/atak spowodowanych przez energię konkretnego rodzaju.
+Opóźnienie działania trucizny: Powstrzymuje działanie trucizny, która nie krzywdzi podmiotu przez 1 godzinę/poziom.
+Przełamanie paraliżu: Uwalnia jedną lub więcej istot spod działania paraliżu i efektów spowolnienia.
+Siła byka: Podmiot zyskuje +4 do S na 1 min./poziom.
+Splendor orła: Podmiot zyskuje +4 do Cha na 1 min./poziom.
+Strefa prawdy: Podmioty w zasięgu działania nie mogą kłamać.
+Tarcza dla przyjaciela K: Otrzymujesz połowę obrażeń podmiotu.
+3-poziomowe zaklęcia paladyna
+Leczenie średnich ran: Leczy 2k8 obrażeń +1/poziom (maks. +10).
+Magiczna broń, potężniejsza: Premia +1/cztery poziomy (maks. +5).
+Magiczny krąg przeciw chaosowi: Jak ochrona przed chaosem, ale promień 3 m i 10 min./poziom.
+Magiczny krąg przeciw złu: Jak ochrona przed złem, ale promień 3 m i 10 min./poziom.
+Modlitwa: Sprzymierzeńcy otrzymują premię +1 do większości rzutów, a wrogowie podlegają karze –1.
+Przełamanie klątwy: Uwalnia przedmiot lub osobę spod działania klątwy.
+Przełamanie ślepoty/głuchoty: Leczy normalne i magiczne dolegliwości tego rodzaju.
+Rozproszenie magii: Neguje działanie czarów i efektów magicznych.
+Światło dnia: Powołuje do istnienia jasne światło w promieniu 18 m.
+Ujawnienie kłamstw: Ujawnia zamierzone oszustwa.
+Uzdrowienie wierzchowca: Jak uzdrowienie, lecz dotyczy konia bojowego lub innego specjalnego wierzchowca.
+4-poziomowe zaklęcia paladyna
+Leczenie poważnych ran: Leczy 3k8 obrażeń +1/poziom (maks. +15).
+Neutralizacja trucizny: Wywołuje w podmiocie niepodatność na truciznę; detoksykuje jad na lub w podmiocie.
+Ochrona przed śmiercią: Zapewnia niepodatność na czary śmierci oraz efekty oparte na energii negatywnej.
+Przywrócenie energii życiowej M: Przywraca poziom oraz wysączoną wartość atrybutu.
+Rozproszenie chaosu: Premia +4 względem ataków istot chaotycznych.
+Rozproszenie zła: Premia +4 względem ataków złych istot.
+Święty miecz: Broń staje się orężem +5 i zadaje +2k6 obrażeń złym przeciwnikom.
+Złamanie zaklęcia: Uwalnia podmiot od oczarowań, klątw, petryfikacji i przemian.
+Znak sprawiedliwości: Wskazana czynność spowoduje zadziałanie klątwy, która wpłynie na podmiot.
+
+TROPICIEL
+1-poziomowe zaklęcia tropiciela
+Alarm: Strzeże obszaru przez 2 godziny/poziom.
+Długi krok: Zwiększa twoją szybkość o 3 m.
+Magiczny kieł: Jedna naturalna broń podmiotu otrzymuje premię +1 do testów ataków i obrażeń.
+Odczytanie magii: Pozwala odczytywać zwoje i księgi zaklęć.
+Odporność na energię: Pozwala zignorować 10 (lub więcej) obrażeń/atak spowodowanych przez energię konkretnego rodzaju.
+Odporność na żywioły: Umożliwia przebywanie w gorącym lub mroźnym środowisku.
+Oplątanie: Rośliny oplątują wszystkich w promieniu 12 m.
+Opóźnienie działania trucizny: Powstrzymuje działanie trucizny, która nie krzywdzi podmiotu przez 1 godzinę/poziom.
+Przejście bez śladu: Jeden podmiot/poziom nie pozostawia śladów.
+Przyzwanie sojusznika natury I: Sprowadza istotę, by walczyła.
+Rozmawianie ze zwierzętami: Potrafisz się komunikować ze zwierzętami.
+Skok: Podmiot otrzymuje premię do testów Skakania.
+Ukrycie przed zwierzętami: Zwierzęta nie są w stanie wyczuć jednego podmiotu/poziom.
+Uspokojenie zwierzęcia: Uspokaja (2k4 + poziom) KW zwierząt.
+Wykrycie zwierząt lub roślin: Wykrywa zwierzęta lub rośliny danego gatunku.
+Wykrycie trucizny: Wykrywa truciznę w jednej istocie lub przedmiocie.
+Wykrycie wnyków i jam: Ujawnia naturalne lub prymitywne pułapki.
+Zauroczenie zwierzęcia: Jedno zwierzę staje się twoim przyjacielem.
+Zwierzęcy posłaniec: Posyła malutkie zwierzę do konkretnego miejsca.
+2-poziomowe zaklęcia tropiciela
+Gąszcz cierni: Istoty na obszarze działania otrzymują 1k4 obrażenia i mogą zostać spowolnione.
+Gracja kota: Podmiot zyskuje +4 do Zr na 1 min./poziom.
+Korowa skóra: Zapewnia usprawnienie +2 (lub więcej) do naturalnego pancerza.
+Leczenie lekkich ran: Leczy 1k8 obrażeń +1/poziom (maks. +5).
+Mądrość sowy: Podmiot zyskuje +4 do Rzt na 1 min./poziom.
+Ochrona przed energią: Absorbuje 12 obrażeń/poziom spowodowanych przez energię konkretnego rodzaju.
+Przyzwanie sojusznika natury II: Sprowadza istotę, by walczyła.
+Rozmawianie z roślinami: Możesz rozmawiać z normalnymi roślinami i stworzeniami roślinnymi.
+Ściana wiatru: Zatrzymuje strzały, mniejsze istoty oraz gazy.
+Unieruchomienie zwierzęcia: Paraliżuje jedno zwierzę na rundę/poziom.
+Wnyki: Tworzy pułapkę.
+Wytrzymałość niedźwiedzia: Podmiot zyskuje +4 do Bd na 1 min./poziom.
+3-poziomowe zaklęcia tropiciela
+Chodzenie po wodzie: Podmiot maszeruje po wodzie jak po stałym gruncie.
+Drzewny kształt: Przez godzinę/poziom wyglądasz dokładnie niczym drzewo.
+Leczenie średnich ran: Leczy 2k8 obrażeń +1/poziom (maks. +10).
+Magiczny kieł, potężniejszy: Jedna naturalna broń podmiotu otrzymuje +1/trzy poziomy do testów ataków i obrażeń (maks. +5).
+Neutralizacja trucizny: Wywołuje w podmiocie niepodatność na truciznę; detoksykuje jad na lub w podmiocie.
+Odpychanie robactwa: Owady, pająki i inne robactwo trzymają się na dystans 3 m.
+Pomniejszenie zwierzęcia: Zmniejsza jedno chętne zwierzę.
+Przełamanie choroby: Leczy wszystkie choroby, na które cierpi podmiot.
+Przyzwanie sojusznika natury III: Sprowadza istotę, by walczyła.
+Rozkazywanie roślinom: Narzuca działania jednej lub większej liczbie istot roślinnych.
+Widzenie w ciemnościach: Umożliwia widzenie w całkowitych ciemnościach na zasięg 18 m.
+Wzrastanie roślin: Powiększa rośliny i zwiększa zbiory.
+Zmniejszanie roślin: Zmniejsza rozmiar lub powstrzymuje rozwój normalnych roślin.
+4-poziomowe zaklęcia tropiciela
+Powiększenie zwierzęcia: Podwaja rozmiar jednego zwierzęcia/dwa poziomy.
+Obcowanie z naturą: Poznanie terenu w promieniu 1,5 km/poziom.
+Leczenie poważnych ran: Leczy 3k8 obrażeń +1/poziom (maks. +15).
+Swoboda działania: Podmiot porusza się normalnie pomimo ograniczeń.
+Niewykrywalność M: Ukrywa podmiot przed poznaniem i szpiegowaniem.
+Przyzwanie sojusznika natury IV: Sprowadza istotę, by walczyła.
+Drzewny krok: Przechodzenie pomiędzy drzewami rosnącymi w dużej odległości.

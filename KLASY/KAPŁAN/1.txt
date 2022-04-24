@@ -1,0 +1,25 @@
+Błogosławieństwo: Sprzymierzeńcy otrzymują +1 do testów ataków i rzutów obronnych na strach.
+Boska łaska: Zyskujesz +1 na trzy poziomy do testów ataków i obrażeń.
+Leczenie lekkich ran: Leczy 1k8 obrażeń +1/poziom (maks. +5).
+Magiczna broń: Broń zyskuje premię +1.
+Magiczny kamień: Trzy kamienie stają się pociskami +1 i zadają 1k6 +1 obrażeń.
+Nieprzenikniona mgła: Otacza cię mgła.
+Obawa: Wrogowie podlegają karze –1 do testów ataków i rzutów obronnych na strach.
+Obserwacja śmierci: Wyjawia, jak blisko śmierci są podmioty w promieniu 9 m.
+Ochrona przed chaosem/dobrem/prawem/złem: +2 do KP i rzutów obronnych; zapobiega umysłowej kontroli; trzyma z dala żywiołaki i przybyszów.
+Odporność na żywioły: Umożliwia przebywanie w gorącym lub mroźnym środowisku.
+Pobłogosławienie wody M: Tworzy wodę święconą.
+Przeklęcie wody M: Tworzy wodę przeklętą.
+Przełamanie strachu: Tłumi strach lub zapewnia +4 do rzutów obronnych na strach jednemu podmiotowi i jednemu dodatkowemu podmiotowi na cztery poziomy.
+Przyzwanie potwora I: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozkaz: Jedna ofiara przez rundę wykonuje wydany rozkaz.
+Rozumienie języków: Rozumiesz wszystkie języki i odczytujesz ich alfabet.
+Sanktuarium: Przeciwnicy nie mogą cię atakować, a ty nie możesz atakować ich.
+Tarcza entropii: Wymierzone w ciebie ataki dystansowe chybiają – szansa, że ich unikniesz, wynosi 20%.
+Tarcza wiary: Aura zapewnia premię z odbicia +2 lub więcej.
+Ukrycie przed nieumarłymi: Nieumarły nie jest w stanie percypować jednego podmiotu/poziom.
+Wykrycie chaosu/dobra/prawa/zła: Ujawnia istoty, zaklęcia i przedmioty o danym charakterze.
+Wykrycie nieumarłych: Ujawnia nieumarłych w zasięgu 18 m.
+Wywołanie strachu: Jedna istota o maksymalnie 5 KW ucieka przez 1k4 rundy
+Zadawanie lekkich ran: Atak dotykowy, 1k8 obrażeń +1/poziom (maks. +5).
+Zagłada: Jedna ofiara podlega karze –2 do testów ataków i obrażeń, rzutów obronnych oraz testów umiejętności i atrybutów.

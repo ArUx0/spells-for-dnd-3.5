@@ -1,0 +1,13 @@
+Chodzenie po wodzie: Podmiot maszeruje po wodzie jak po stałym gruncie.
+Drzewny kształt: Przez godzinę/poziom wyglądasz dokładnie niczym drzewo.
+Leczenie średnich ran: Leczy 2k8 obrażeń +1/poziom (maks. +10).
+Magiczny kieł, potężniejszy: Jedna naturalna broń podmiotu otrzymuje +1/trzy poziomy do testów ataków i obrażeń (maks. +5).
+Neutralizacja trucizny: Wywołuje w podmiocie niepodatność na truciznę; detoksykuje jad na lub w podmiocie.
+Odpychanie robactwa: Owady, pająki i inne robactwo trzymają się na dystans 3 m.
+Pomniejszenie zwierzęcia: Zmniejsza jedno chętne zwierzę.
+Przełamanie choroby: Leczy wszystkie choroby, na które cierpi podmiot.
+Przyzwanie sojusznika natury III: Sprowadza istotę, by walczyła.
+Rozkazywanie roślinom: Narzuca działania jednej lub większej liczbie istot roślinnych.
+Widzenie w ciemnościach: Umożliwia widzenie w całkowitych ciemnościach na zasięg 18 m.
+Wzrastanie roślin: Powiększa rośliny i zwiększa zbiory.
+Zmniejszanie roślin: Zmniejsza rozmiar lub powstrzymuje rozwój normalnych roślin.

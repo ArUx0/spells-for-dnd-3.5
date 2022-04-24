@@ -1,0 +1,18 @@
+Gracja kota, zbiorowa: Jak gracja kota, ale wpływa na jeden podmiot/poziom.
+Laska czaru: Umieszcza jedno zaklęcie w drewnianym drągu.
+Leczenie lekkich ran, zbiorowe: Leczy wielu istotom 1k8 obrażeń +1/poziom.
+Mądrość sowy, zbiorowa: Jak mądrość sowy, ale wpływa na jeden podmiot/poziom.
+Odpychanie drewna: Odpycha drewniane przedmioty.
+Ogniste nasiona: Żołędzie i jagody stają się granatami i bombami.
+Pogawędka z kamieniem: Pozwala rozmawiać z naturalnym lub obrobionym kamieniem.
+Poruszenie ziemi: Tworzy okopy i wzniesienia.
+Powłoka ochrony przed życiem: 3-metrowe pole trzyma na odległość żyjące istoty.
+Przyzwanie sojusznika natury VI: Sprowadza istotę, by walczyła.
+Roślinna podróż: Natychmiastowe przemieszczenie pomiędzy dwoma roślinami tego samego gatunku.
+Rozproszenie magii, potężniejsze: Jak rozproszenie magii, ale +20 do testu.
+Siła byka, zbiorowa: Jak siła byka, ale wpływa na jeden podmiot/poziom.
+Ściana kamieni: Tworzy kamienną ścianę, którą można ukształtować.
+Wytrzymałość niedźwiedzia, zbiorowa: Jak wytrzymałość niedźwiedzia, ale wpływa na jeden podmiot/poziom.
+Znalezienie ścieżki: Pokazuje najkrótszą drogę do jakiegoś miejsca.
+Żelazne drewno: Magiczne drewno – wytrzymałe niczym stal.
+Żywodąb: Dąb staje się drzewcem-stażnikiem.

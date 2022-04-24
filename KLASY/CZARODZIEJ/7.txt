@@ -1,0 +1,35 @@
+IluzMamidło MD: Tworzy po części realną kopię istoty.
+Niewidzialność, zbiorowa: Jak niewidzialność, ale wpływa na wszystko w zasięgu.
+Projekcja duplikatu: Iluzoryczny duplikat mówi i rzuca czary.
+Przywoływanie poprzez cienie, potężniejsze: Jak przywoływanie poprzez cienie, ale do 6. poziomu i w 60% prawdziwe.
+NekroFale wyczerpania: Kilka ofiar ulega wyczerpaniu.
+Kontrolowanie nieumarłych: Nieumarli nie zaatakują cię, dopóki są pod twymi rozkazami.
+Palec śmierci: Zabija jedną istotę.
+Symbol osłabienia M: Uruchomiona runa osłabia znajdujące się w pobliżu istoty.
+OczarObłęd: Ofiara cierpi na długotrwałą dezorientację.
+Słowo mocy: oślepienie: Oślepia jedną istotę o 200 lub mniej pw.
+Symbol oszołomienia M: Uruchomiona runa oszałamia znajdujące się w pobliżu istoty.
+Unieruchomienie osoby, zbiorowe: Jak unieruchomienie osoby, ale wpływa na wszystkie osoby w promieniu 9 m.
+OdrzucOdbicie czaru: Odbija 1k4+6 poziomów czarów na osobę, która rzuciła zaklęcie.
+Odosobnienie: Podmiot staje się niewidzialny dla wzroku i szpiegowania; zapada w śpiączkę.
+Wygnanie: Wygania 2 KW/poziom istot pozaplanarnych.
+PozMistyczny wzrok, potężniejszy: Jak mistyczny wzrok, ale ujawnia również efekty magiczne wpływające na istoty i przedmioty.
+Szpiegowanie, potężniejsze: Jak szpiegowanie, ale szybsze i na większy dystans.
+Wizja MD: Jak znajomość legend, ale szybsze i męczące.
+PrzemEteryczny spacer: Stajesz się eteryczny na 1 rundę/poziom.
+Kontrolowanie pogody: Zmienia pogodę w okolicy.
+Odwrócenie grawitacji: Przedmioty i istoty spadają “do góry”.
+Posąg: Podmiot może na życzenie stać się posągiem.
+UniwOgraniczone życzenie D: Zmienia rzeczywistość, ale tylko w granicach możliwości czaru.
+PrzywNatychmiastowe przyzwanie M: Przygotowany przedmiot natychmiast pojawia się w twojej ręce.
+Imponująca posiadłość maga K: Drzwi prowadzą do pozawymiarowej posiadłości.
+Fazowe drzwi: Tworzy niewidzialne przejście przez drewno lub kamień.
+Przyzwanie potwora VII: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Teleportacja, potężniejsza: Jak teleportacja, ale bez ograniczenia dystansu i bez ryzyka, że nie przybędzie się do celu.
+Teleportowanie przedmiotu: Jak teleportacja, ale wpływa na dotknięty przedmiot przybycia do celu.
+Zamiana planów K: Do ośmiu istot podróżuje na inny plan.
+WywołChwytająca dłoń: Duża ręka zapewnia osłonę, popycha lub toczy zwarcie.
+Klatka mocy M: Sześcian lub klatka mocy; więzi wszystko co jest w środku.
+Kula ognista z opóźnionym zapłonem: 1k6/poziom obrażeń od ognia; możesz opóźnić kulę ognistą o 5 rund.
+Miecz maga K: Przeciwników atakuje dryfujące ostrze magiczne.
+Pryzmatyczny deszcz: Trafiające ofiary promienie powodują różnorodne efekty.

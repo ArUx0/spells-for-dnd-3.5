@@ -1,0 +1,24 @@
+IluzCienie: Jak przywoływanie poprzez cienie, ale do 8. poziom i w 80% prawdziwe.
+Zjawisko: Jak widmowy zabójca, ale wpływa na wszystkie istoty w promieniu 9 m.
+NekroProjekcja astralna M: Przenosi ciebie oraz towarzyszy na Plan Astralny.
+Spętanie duszy K: Więzi dopiero co zmarłą duszę i zapobiega zmartwychwstaniu.
+Wycie banshee: Zabija jedno stworzenie/poziom.
+Wysączenie energii: Ofiara otrzymuje 2k4 negatywne poziomy.
+OczarSłowo mocy: zabicie: Zabija jedną istotę o 100 lub mniej pw.
+Unieruchomienie potwora, zbiorowe: Jak unieruchomienie potwora, ale wpływa na wszystkie istoty w promieniu 9 m.
+Zdominowanie potwora: Jak zdominowanie osoby, ale wpływa na istoty dowolnego rodzaju.
+OdrzucPryzmatyczna sfera: Jak pryzmatyczna ściana, ale otacza dookoła.
+Rozłączenie maga: Rozprasza magię i odczarowuje magiczne przedmioty.
+Uwięzienie: Zamyka podmiot pod ziemią.
+Wolność: Uwalnia istotę z uwięzienia.
+PozPrzezorność: “Szósty zmysł” ostrzega przed nadchodzącym niebezpieczeństwem.
+PrzemEteryczność: Wraz z towarzyszami podróżujesz na Plan Eteryczny.
+Zatrzymanie czasu: Swobodnie działasz przez 1k4+1 rund.
+Zmiana kształtów K: Przemienia cię w dowolną istotę, a ponadto możesz raz w rundzie zmieniać kształty.
+PrzywAzyl M: Zmienia przedmiot tak, by przetransportować do ciebie jego posiadacza.
+Krąg teleportacji M: Krąg teleportuje do wskazanego miejsca każdą istotę, która znajdzie się w jego środku,
+Przyzwanie potwora IX: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Wrota D: Łączy dwa plany na potrzeby podróży lub przyzywania.
+UniwŻyczenie D: Jak ograniczone życzenie, ale ma mniejsze ograniczenia.
+WywołMiażdżąca dłoń: Duża ręka zapewnia osłonę, popycha lub miażdży twoich przeciwników.
+Rój meteorów: Cztery wybuchające kule, każda powoduje 6k6 obrażeń od ognia.

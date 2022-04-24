@@ -1,0 +1,22 @@
+Deszcz ze śniegiem: Utrudnia poruszanie się i ogranicza pole widzenia.
+Gąszcz cierni: Istoty na obszarze działania otrzymują 1k4 obrażenia i mogą zostać spowolnione.
+Kształtowanie kamienia: Nadaje kamieniowi dowolny kształt.
+Leczenie średnich ran: Leczy 2k8 obrażeń +1/poziom (maks. +10).
+Magiczny kieł, potężniejszy: Jedna naturalna broń podmiotu otrzymuje +1/trzy poziomy do testów ataków i obrażeń (maks. +5).
+Neutralizacja trucizny: Wywołuje w podmiocie niepodatność na truciznę; detoksykuje jad na lub w podmiocie.
+Ochrona przed energią: Absorbuje 12 obrażeń/poziom spowodowanych przez energię konkretnego rodzaju.
+Oddychanie wodą: Podmiot może oddychać pod wodą.
+Przełamanie choroby: Leczy wszystkie choroby, na które cierpi podmiot.
+Przyzwanie sojusznika natury III: Sprowadza istotę, by walczyła.
+Rozmawianie z roślinami: Możesz rozmawiać z normalnymi roślinami i stworzeniami roślinnymi.
+Stopienie z kamieniem: Wraz z wyposażeniem łączysz się z kamieniem.
+Ściana wiatru: Zatrzymuje strzały, mniejsze istoty oraz gazy.
+Światło dnia: Powołuje do istnienia jasne światło w promieniu 18 m.
+Trucizna: Dotyk powoduje obniżenie Bd o 1k10, powtarzające się po 1 min.
+Ugaszenie płomieni: Gasi płomienie niemagiczne lub jeden przedmiot magiczny.
+Wezwanie błyskawic: Sprowadza z nieba błyskawice (3k6 obrażeń każda).
+Wnyki: Tworzy pułapkę.
+Wzrastanie roślin: Powiększa rośliny i zwiększa zbiory.
+Zakażenie: Zaraża ofiarę wybraną chorobą.
+Zdominowanie zwierzęcia: Zwierzę będące ofiarą zaklęcia wykonuje bezgłośne mentalne rozkazy.
+Zmniejszanie roślin: Zmniejsza rozmiar lub powstrzymuje rozwój normalnych roślin.

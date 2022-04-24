@@ -1,0 +1,50 @@
+IluzHipnotyczny wzór: Wywołuje fascynację w sumie (2k4 + poziom) KW istot.
+Lustrzane odbicie: Tworzy fałszywe duplikaty twojej osoby w liczbie (1k4 +1 na trzy poziomy, maks. 8).
+Magiczne usta M: Wypowiadają się raz po uaktywnieniu.
+Niewidzialność: Podmiot staje się niewidzialny na 1 min./poziom lub dopóki nie zaatakuje.
+Pomniejszy obraz: Jak milczący obraz plus nieco dźwięków.
+Przeinaczenie magii: Wprowadza w błąd poznania dotyczące istoty lub przedmiotu.
+Rozmycie: 20% ataków wymierzonych w podmiot chybia.
+Widmowa Pułapka M: Sprawia, że przedmiot wydaje się zabezpieczony pułapką.
+NekroDotyk ghoula: Paraliżuje jedną ofiarę, która zaczyna tak śmierdzieć, iż istoty w pobliżu mogą zostać osłabione.
+Fałszywe życie: Obdarza 1k10 tymczasowymi pw +1/poziom (maks. +10).
+Rozkazywanie nieumarłym: Nieumarli wykonują twoje rozkazy.
+Ślepota/głuchota: Sprawia, że ofiara staje się ślepa lub głucha.
+Upiorna dłoń: Powołuje do istnienia odciętą od ciała dłoń, która może przekazywać ataki dotykowe.
+Wystraszenie: Wywołuje panikę w istotach mających mniej niż 6 KW.
+OczarDotyk głupoty: Podmiot traci 1k6 punktów Int, Rzt i Cha.
+Otumanienie potwora: Żywe istoty o maksymalnie 6 KW tracą następną akcję.
+Upiorny śmiech: Podmiot traci akcje na 1 rundę/poziom.
+OdrzucMistyczny zamek M: Magicznie zamyka skrzynię, drzwi czy podwoje.
+Ochrona przed strzałami: Podmiot staje się niepodatny na większość ataków dystansowych.
+Odporność na energię: Pozwala zignorować 10 (lub więcej) obrażeń/atak spowodowanych przez energię konkretnego rodzaju.
+Schowanie przedmiotu: Maskuje przedmiot przed szpiegowaniem.
+PozWykrycie myśli: Pozwala “wsłuchiwać się” w powierzchowne myśli.
+Zlokalizowanie przedmiotu: Wskazuje kierunek, w jakim znajduje się przedmiot (konkretny lub pewnego typu).
+Zobaczenie niewidzialnego: Ujawnia niewidzialne stworzenia i przedmioty.
+PrzemGracja kota: Podmiot zyskuje +4 do Zr na 1 min./poziom.
+Kołatka: Otwiera zamknięte lub magicznie zapieczętowane drzwi.
+Lewitacja: Podmiot porusza się w górę i w dół zgodnie z twoimi zamysłami.
+Mądrość sowy: Podmiot zyskuje +4 do Rzt na 1 min./poziom.
+Pajęcza wspinaczka: Umożliwia chodzenie po ścianach i sufitach.
+Pirotechnika: Przemienia ogień w oślepiające światło lub duszący dym.
+Przekształcenie siebie: Pozwala przybrać postać podobnej istoty.
+Siła byka: Podmiot zyskuje +4 do S na 1 min./poziom.
+Splendor orła: Podmiot zyskuje +4 do Cha na 1 min./poziom.
+Spryt lisa: Podmiot zyskuje +4 Int na 1 min./poziom.
+Szepczący wiatr: Wysyła krótką wiadomość na odległość 1,5 km/poziom.
+Sztuczka z liną: Pozwala ukryć się maksymalnie ośmiu istotom w pozawymiarowej przestrzeni.
+Widzenie w ciemnościach: Umożliwia widzenie w całkowitych ciemnościach na zasięg 18 m.
+Wytrzymałość niedźwiedzia: Podmiot zyskuje +4 do Bd na 1 min./poziom.
+PrzywChmura mgły: Mgła ogranicza pole widzenia.
+Kwasowa strzała: Atak dotykowy dystansowy; 2k4 obrażeń na rundę +1 runda/trzy poziomy.
+Pajęczyna: Lepka pajęczyna wypełnia obszar w fali o promieniu 6 m.
+Przyzwanie potwora II: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Przyzwanie roju: Przyzywa rój nietoperzy, szczurów lub pająków.
+Skrzący pył: Oślepia stworzenia; obrysowuje niewidzialne istoty.
+WywołCiemność: Nienaturalne cienie zalegają na obszarze o promieniu 6 m.
+Nieustający płomień M: Tworzy permanentną, niewydzielającą ciepła pochodnię.
+Płomienny promień: Atak dotykowy dystansowy zadaje 4k6 obrażeń od ognia, +1 promień/cztery poziomy (maks. 3).
+Płonąca sfera: Tworzy toczącą się kulę ognia; 2k6 obrażeń; istnieje rundę/poziom
+Podmuch wiatru: Odpycha lub przewraca małe istoty.
+Roztrzaskanie: Dźwiękowe wibracje powodują uszkodzenia przedmiotów lub kryształowych istot.

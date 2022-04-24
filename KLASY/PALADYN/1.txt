@@ -1,0 +1,15 @@
+Błogosławieństwo: Sprzymierzeńcy otrzymują +1 do testów ataków i rzutów obronnych na strach.
+Boska łaska: Zyskujesz +1 na trzy poziomy do testów ataków i obrażeń.
+Cnota: Podmiot otrzymuje 1 tymczasowy pw.
+Leczenie lekkich ran: Leczy 1k8 obrażeń +1/poziom (maks. +5).
+Magiczna broń: Broń zyskuje premię +1.
+Ochrona przed chaosem/złem: +2 do KP i rzutów obronnych; zapobiega kontroli umysłowej; trzyma z dala żywiołaki i przybyszów.
+Odczytanie magii: Pozwala odczytywać zwoje i księgi zaklęć.
+Odporność: Podmiot otrzymuje +1 do rzutów obronnych.
+Odporność na żywioły: Umożliwia przebywanie w gorącym lub mroźnym środowisku.
+Pobłogosławienie broni: Broń staje się skuteczniejsza w walce ze złymi wrogami.
+Pobłogosławienie wody: Tworzy wodę święconą.
+Przywrócenie energii życiowej, słabsze: Rozprasza magiczne kary do atrybutów oraz pozwala odzyskać 1k4 punkty obniżonej wartości atrybutu.
+Stworzenie wody: Tworzy 7,5 litra/poziom czystej wody.
+Wykrycie nieumarłych: Ujawnia nieumarłych w zasięgu 18 m.
+Wykrycie trucizny: Wykrywa truciznę w jednej istocie lub przedmiocie.

@@ -1,0 +1,13 @@
+Cnota: Podmiot otrzymuje 1 tymczasowy pw.
+Leczenie drobnych ran: Leczy 1 punkt obrażeń.
+Naprawa: Dokonuje drobnych napraw przedmiotu.
+Oczyszczenie jedzenia i wody: Oczyszcza 0,027 m3/poziom pożywienia lub wody.
+Odczytanie magii: Pozwala odczytywać zwoje i księgi zaklęć.
+Odporność: Podmiot otrzymuje premię +1 do rzutów obronnych.
+Poznanie kierunku: Ustalasz, w jakim kierunku leży północ.
+Przewodnictwo: +1 do jednego testu ataku, rzutu obronnego lub testu umiejętności.
+Raca: Olśniewa jedną istotę (kara –1 do testów ataków).
+Stworzenie wody: Tworzy 7,5 litra/poziom czystej wody.
+Światło: Przedmiot rozświetla się niczym pochodnia.
+Wykrycie magii: Wykrywa czary i przedmioty magiczne w zasięgu 18 m.
+Wykrycie trucizny: Wykrywa truciznę w jednej istocie lub przedmiocie.

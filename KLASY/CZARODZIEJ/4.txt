@@ -1,0 +1,41 @@
+IluzIluzoryczna ściana: Ściana, podłoga lub sufit wyglądają na rzeczywiste, ale wszystko przez nie przechodzi.
+Krajobrazowa halucynacja: Sprawia, że obszar pewnego rodzaju wygląda zupełnie inaczej (pole staje się lasem i tym podobne).
+Niewidzialność, potężniejsza: Jak niewidzialność, ale podmiot może atakować, pozostając niewidzialnym.
+Przywoływanie poprzez cienie: Naśladuje przywoływanie poniżej 4. poziomu, realne tylko w 20%.
+Tęczowy wzór: Światło wywołuje fascynację u 24 KW istot.
+Widmowy zabójca: Straszna iluzja zabija ofiarę lub powoduje 3k6 obrażeń.
+NekroNałożenie klątwy: –6 do wartości atrybutów; –4 do testów ataków, rzutów obronnych oraz testów umiejętności i atrybutów; lub 50% ryzyka utraty następnej akcji.
+Ożywienie umarłego M: Tworzy nieumarłych – szkielety i zombich.
+Pozbawienie sił: Podmiot otrzymuje 1k4 negatywne poziomy.
+Strach: Ofiary w stożku uciekają przez 1 rundę/poziom.
+Zakażenie: Zaraża ofiarę wybraną chorobą.
+OczarDezorientacja: Ofiara przez 1 rundę/poziom dziwnie się zachowuje.
+Przejmująca rozpacz: Podmiot podlega karze –2 do testów ataków i obrażeń, rzutów obronnych oraz testów umiejętności i atrybutów.
+Zadanie, słabsze: Pozwala wydać rozkaz podmiotowi o maksymalnie 7 KW.
+Zauroczenie potwora: Sprawia, że potwór wierzy, iż jest twym sprzymierzeńcem.
+OdrzucKamienna skóra M: Pozwala ignorować 10 obrażeń na atak.
+Klosz niewrażliwości, słabszy: Zatrzymuje efekty czarów poziomu od 1. do 3.
+Ognista pułapka M: Po otwarciu przedmiot zadaje 1k4 +1/poziom obrażeń.
+Przełamanie klątwy: Uwalnia przedmiot lub osobę spod działania klątwy.
+Zakotwiczenie w wymiarze: Uniemożliwia międzywymiarowe wędrówki.
+PozMistyczne oko: Niewidzialne oko unosi się i porusza z szybkością 9 m/rundę.
+Szpiegowanie K: Szpieguje podmiot na odległość.
+Wykrycie szpiegowania: Informuje cię o magicznym podsłuchiwaniu.
+Zlokalizowanie stworzenia: Wskazuje kierunek, w jakim znajduje się znajoma istota.
+PrzemKształtowanie kamienia: Nadaje kamieniowi dowolny kształt.
+Polimorfia: Nadaje chętnemu podmiotowi nowy kształt.
+Pomniejszenie osoby, zbiorowe: Zmniejsza kilka istot.
+Powiększenie osoby, zbiorowe: Powiększa kilka istot.
+Rozszerzenie pamięci K:Tylko czarodziej. Pozwala przygotować dodatkowe czary lub zachować już rzucone.
+PrzywBezpieczne schronienie: Tworzy wytrzymałą chatkę.
+Czarne macki: Macki chwytają wszystkich na obszarze 4,5-metrowej fali.
+Drzwi poprzez wymiary: Teleportuje cię na niewielką odległość.
+Gęsta mgła: Uniemożliwia widzenie i spowalnia ruch.
+Pomniejsze tworzenie: Tworzy jeden przedmiot z drewna lub materiału.
+Przyzwanie potwora IV: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+WywołKrzyk: Ogłusza wszystkich w stożku i zadaje 5k6 obrażeń od dźwięku.
+Lodowa nawałnica: Grad zadaje 5k6 obrażeń na obszarze walca o średnicy 12 m.
+Nienaruszalna sfera: Kula mocy chroni podmiot, więżąc go jednocześnie.
+Ognista tarcza: Atakujące cię istoty otrzymują obrażenia od ognia; jesteś chroniony przed gorącem i zimnem.
+Ściana lodu:Lodowa płaszczyzna tworzy ścianę o 15 pw +1/poziom, a półsfera więzi istotę w swym środku.
+Ściana ognia: Zadaje 2k4 obrażenia od ognia na dystans do 3 m i 1k4 w odległości do 6 m; przejście przez ścianę powoduje 2k6 obrażeń +1/poziom.

@@ -1,0 +1,32 @@
+Charakter oręża: Broń staje się orężem chaotycznym, dobrym, praworządnym lub złym.
+Ciemność: Nienaturalne cienie zalegają na obszarze o promieniu 6 m.
+Cisza: Neguje dźwięki w promieniu 4,5 m.
+Duchowa broń: Magiczna broń atakuje sama z siebie.
+Eksplozja dźwięków: Zadaje ofiarom 1k8 obrażeń od dźwięku; może je oszołomić.
+Konsekracja M: Wypełnia obszar energię pozytywną, osłabiając nieumarłych.
+Leczenie średnich ran: Leczy 2k8 obrażeń +1/poziom (maks. +10).
+Mądrość sowy: Podmiot zyskuje +4 do Rzt na 1 min./poziom.
+Niewykrywalny charakter: Ukrywa charakter na 24 godziny.
+Odporność na energię: Pozwala zignorować 10 (lub więcej) obrażeń/atak spowodowanych przez energię konkretnego rodzaju.
+Opóźnienie działania trucizny: Powstrzymuje działanie trucizny, która nie krzywdzi podmiotu przez 1 godzinę/poziom.
+Ostatnie tchnienie: Zabija istotę umierającą; zyskujesz 1k8 tymczasowych pw, +2 do S i +1 do poziomu.
+Profanacja M: Wypełnia obszar energią negatywną, wzmacniając nieumarłych.
+Przełamanie paraliżu: Uwalnia jedną lub więcej istot spod działania paraliżu i efektów spowolnienia.
+Przepowiednia MK: Informuje, czy akcja będzie miała dobry, czy zły rezultat.
+Przywrócenie energii życiowej, słabsze: Rozprasza magiczne kary do atrybutów oraz pozwala odzyskać 1k4 punkty obniżonej wartości atrybutu.
+Przyzwanie potwora II: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Roztrzaskanie: Dźwiękowe wibracje powodują uszkodzenia przedmiotów lub kryształowych istot.
+Siła byka: Podmiot zyskuje +4 do S na 1 min./poziom.
+Scalanie: Naprawia przedmiot.
+Splendor orła: Podmiot zyskuje +4 do Cha na 1 min./poziom.
+Spowolniony rozkład: Chroni przed rozkładem jedne zwłoki.
+Status: Monitorowanie stanu i miejsca pobytu sprzymierzeńców.
+Strefa prawdy: Podmioty w zasięgu działania nie mogą kłamać.
+Szukanie pułapek: Pozwala znajdować pułapki jak łotrzyk.
+Tarcza dla przyjaciela K: Otrzymujesz połowę obrażeń podmiotu.
+Unieruchomienie osoby: Paraliżuje jednego humanoida na 1 rundę/poziom.
+Uspokojenie emocji: Uspokaja istoty, negując efekty związane z emocjami.
+Wspomożenie: +1 do testów ataków i rzutów obronnych na strach; 1k8 tymczasowych pw +1/poziom (maks. +10).
+Wytrzymałość niedźwiedzia: Podmiot zyskuje +4 do Bd na 1 min./poziom.
+Zachwyt: Ujmuje wszystkich w promieniu 30 m + 3 m/poziom.
+Zadawanie średnich ran: Atak dotykowy, 2k8 obrażeń +1/poziom (maks. +10).

@@ -1,0 +1,21 @@
+Bezpieczne schronienie: Tworzy wytrzymałą chatkę.
+Drzwi poprzez wymiary: Teleportuje cię na niewielką odległość.
+Krajobrazowa halucynacja: Sprawia, że obszar pewnego rodzaju wygląda zupełnie inaczej (pole staje się lasem i tym podobne).
+Krzyk: Ogłusza wszystkie stworzenia w stożku i zadaje 5k6 obrażeń od dźwięku.
+Leczenie krytycznych ran: Leczy 4k8 obrażeń +1/poziom (maks. +20).
+Modyfikacja pamięci: Zmienia pamięć podmiotu dotyczącą 5 minut.
+Neutralizacja trucizny: Wywołuje w podmiocie niepodatność na truciznę; detoksykuje jad na lub w podmiocie.
+Niewidzialność, potężniejsza: Jak niewidzialność, ale podmiot może atakować, pozostając niewidzialnym.
+Odpychanie robactwa: Owady, pająki i inne robactwo trzyma się na dystans 3 m.
+Przywoływanie poprzez cienie: Naśladuje przywoływanie poniżej 4. poziomu, realne tylko w 20%.
+Przyzwanie potwora IV: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozmawianie z roślinami: Możesz rozmawiać z normalnymi roślinami i stworzeniami roślinnymi.
+Strefa ciszy: Uniemożliwia podsłuchiwanie rozmów.
+Swoboda działania: Podmiot porusza się normalnie pomimo ograniczeń.
+Tęczowy wzór: Światło wywołuje fascynację u 24 KW istot.
+Unieruchomienie potwora: Jak unieruchomienie osoby, ale wpływa na istoty dowolnego rodzaju.
+Wykrycie szpiegowania: Informuje cię o tym, że ktoś podsłuchuje cię magicznie.
+Zdominowanie osoby: Pozwala telepatycznie kontrolować humanoidy.
+Zlokalizowanie stworzenia: Wskazuje kierunek, w jakim znajduje się znajoma istota.
+Złamanie zaklęcia: Uwalnia podmiot od oczarowań, klątw, petryfikacji i przemian.
+Znajomość legend MK: Pozwala ci poznać opowieści o osobie, miejscu lub rzeczy.

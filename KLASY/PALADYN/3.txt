@@ -1,0 +1,11 @@
+Leczenie średnich ran: Leczy 2k8 obrażeń +1/poziom (maks. +10).
+Magiczna broń, potężniejsza: Premia +1/cztery poziomy (maks. +5).
+Magiczny krąg przeciw chaosowi: Jak ochrona przed chaosem, ale promień 3 m i 10 min./poziom.
+Magiczny krąg przeciw złu: Jak ochrona przed złem, ale promień 3 m i 10 min./poziom.
+Modlitwa: Sprzymierzeńcy otrzymują premię +1 do większości rzutów, a wrogowie podlegają karze –1.
+Przełamanie klątwy: Uwalnia przedmiot lub osobę spod działania klątwy.
+Przełamanie ślepoty/głuchoty: Leczy normalne i magiczne dolegliwości tego rodzaju.
+Rozproszenie magii: Neguje działanie czarów i efektów magicznych.
+Światło dnia: Powołuje do istnienia jasne światło w promieniu 18 m.
+Ujawnienie kłamstw: Ujawnia zamierzone oszustwa.
+Uzdrowienie wierzchowca: Jak uzdrowienie, lecz dotyczy konia bojowego lub innego specjalnego wierzchowca.

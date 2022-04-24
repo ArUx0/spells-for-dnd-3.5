@@ -1,0 +1,19 @@
+Alarm: Strzeże obszaru przez 2 godziny/poziom.
+Długi krok: Zwiększa twoją szybkość o 3 m.
+Magiczny kieł: Jedna naturalna broń podmiotu otrzymuje premię +1 do testów ataków i obrażeń.
+Odczytanie magii: Pozwala odczytywać zwoje i księgi zaklęć.
+Odporność na energię: Pozwala zignorować 10 (lub więcej) obrażeń/atak spowodowanych przez energię konkretnego rodzaju.
+Odporność na żywioły: Umożliwia przebywanie w gorącym lub mroźnym środowisku.
+Oplątanie: Rośliny oplątują wszystkich w promieniu 12 m.
+Opóźnienie działania trucizny: Powstrzymuje działanie trucizny, która nie krzywdzi podmiotu przez 1 godzinę/poziom.
+Przejście bez śladu: Jeden podmiot/poziom nie pozostawia śladów.
+Przyzwanie sojusznika natury I: Sprowadza istotę, by walczyła.
+Rozmawianie ze zwierzętami: Potrafisz się komunikować ze zwierzętami.
+Skok: Podmiot otrzymuje premię do testów Skakania.
+Ukrycie przed zwierzętami: Zwierzęta nie są w stanie wyczuć jednego podmiotu/poziom.
+Uspokojenie zwierzęcia: Uspokaja (2k4 + poziom) KW zwierząt.
+Wykrycie zwierząt lub roślin: Wykrywa zwierzęta lub rośliny danego gatunku.
+Wykrycie trucizny: Wykrywa truciznę w jednej istocie lub przedmiocie.
+Wykrycie wnyków i jam: Ujawnia naturalne lub prymitywne pułapki.
+Zauroczenie zwierzęcia: Jedno zwierzę staje się twoim przyjacielem.
+Zwierzęcy posłaniec: Posyła malutkie zwierzę do konkretnego miejsca.

@@ -1,0 +1,30 @@
+Chatka: Tworzy schronienie dla 10 istot.
+Dezorientacja: Ofiara przez 1 rundę/poziom dziwnie się zachowuje.
+Głęboka drzemka: Usypia istoty mające w sumie 10 KW.
+Iluzoryczne pismo M: Tworzy zapiski, które może odcyfrować tylko wybrana osoba.
+Jasnosłyszenie/jasnowidzenie: Pozwala przez 1 min./poziom słyszeć lub widzieć na odległość.
+Krasomówstwo: Zyskujesz premię +30 do testów blefowania, a twoje kłamstwa mogą umknąć nawet magicznemu badaniu.
+Leczenie poważnych ran: Leczy 3k8 obrażeń +1/poziom (maks. +15).
+Migotanie: Przez 1 rundę/poziom to znikasz, to się pojawiasz.
+Postać gazowa: Podmiot staje się niematerialny i może powoli latać.
+Promyk nadziei: Podmiot zyskuje +2 do testów ataków i obrażeń, rzutów obronnych oraz testów umiejętności i atrybutów.
+Przejmująca rozpacz: Podmiot podlega karze –2 do testów ataków i obrażeń, rzutów obronnych oraz testów umiejętności i atrybutów.
+Przełamanie klątwy: Uwalnia przedmiot lub osobę spod działania klątwy.
+Przemieszczanie: 50% ataków wymierzonych w podmiot chybia.
+Przyspieszenie: Jedna istota/poziom porusza się szybciej, zyskując +1 do testów ataków, KP oraz rzutów obronnych na Refleks.
+Przyzwanie potwora III: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Rozmawianie ze zwierzętami: Potrafisz się komunikować ze zwierzętami.
+Rozproszenie magii: Neguje magiczne efekty i zaklęcia.
+Rzeźbienie dźwięku: Tworzy nowe dźwięki lub zmienia istniejące.
+Sekretna strona: Zmienia jedną stronę księgi tak, by ukryć jej prawdziwą zawartość.
+Sfera niewidzialności: Wszyscy w promieniu 3 m stają się niewidzialni.
+Spowolnienie: Jeden podmiot/poziom może wykonywać w rundzie tylko jedną akcję oraz podlega karze –2 do KP i testów ataków.
+Strach: Ofiary w stożku uciekają przez 1 rundę/poziom.
+Szpiegowanie K: Szpieguje podmiot na odległość.
+Światło dnia: Powołuje do istnienia jasne światło w promieniu 18 m.
+Widmowy rumak: Na 1 godzinę/poziom pojawia się magiczny koń.
+Zaawansowany obraz: Jak milczący obraz plus dźwięki, zapachy i efekty cieplne.
+Zadanie, słabsze: Pozwala wydać rozkaz podmiotowi o maksymalnie 7 KW.
+Zauroczenie potwora: Sprawia, że potwór wierzy, iż jest twoim sprzymierzeńcem.
+Zobaczenie niewidzialnego: Ujawnia niewidzialne stworzenia i przedmioty.
+Zygzak atramentowego węża M: Tworzy symbol, który unieruchamia czytającego tekst.

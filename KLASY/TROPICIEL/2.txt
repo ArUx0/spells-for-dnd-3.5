@@ -1,0 +1,12 @@
+Gąszcz cierni: Istoty na obszarze działania otrzymują 1k4 obrażenia i mogą zostać spowolnione.
+Gracja kota: Podmiot zyskuje +4 do Zr na 1 min./poziom.
+Korowa skóra: Zapewnia usprawnienie +2 (lub więcej) do naturalnego pancerza.
+Leczenie lekkich ran: Leczy 1k8 obrażeń +1/poziom (maks. +5).
+Mądrość sowy: Podmiot zyskuje +4 do Rzt na 1 min./poziom.
+Ochrona przed energią: Absorbuje 12 obrażeń/poziom spowodowanych przez energię konkretnego rodzaju.
+Przyzwanie sojusznika natury II: Sprowadza istotę, by walczyła.
+Rozmawianie z roślinami: Możesz rozmawiać z normalnymi roślinami i stworzeniami roślinnymi.
+Ściana wiatru: Zatrzymuje strzały, mniejsze istoty oraz gazy.
+Unieruchomienie zwierzęcia: Paraliżuje jedno zwierzę na rundę/poziom.
+Wnyki: Tworzy pułapkę.
+Wytrzymałość niedźwiedzia: Podmiot zyskuje +4 do Bd na 1 min./poziom.

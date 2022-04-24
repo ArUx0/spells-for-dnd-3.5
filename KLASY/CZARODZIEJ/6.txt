@@ -1,0 +1,43 @@
+IluzPrzejście światem cieni: Pozwala wkroczyć w cień i podróżować z dużą szybkością.
+Trwały obraz: Obejmuje obrazy, dźwięki i zapachy.
+Zaprogramowany obraz M: Jak zaawansowany obraz plus uaktywnia go wydarzenie.
+Zasłona: Zmienia wygląd grupy istot.
+Zmylenie kierunku: Czyni cię niewidzialnym i tworzy twoją iluzoryczną kopię.
+NekroKąśliwy wzrok: Ofiara wpada w panikę, ulega osłabieniu i zapada w śpiączkę.
+Krąg śmierci M: Zabija 1k4/poziom KW istot.
+Stworzenie nieumarłych M: Tworzy ghoule, ghasty, mumie lub mohrgów.
+Symbol strachu M: Uruchomiona runa wywołuje panikę w pobliskich istotach.
+Zabicie nieumarłego M: Niszczy 1k4 KW/poziom nieumarłych (maks. 20k4).
+OczarHeroizm, potężniejszy: Zapewnia +4 do testów ataków, rzutów obronnych i testów umiejętności; niepodatność na strach; tymczasowe pw.
+Sugestia, zbiorowa: Jak sugestia, plus jeden podmiot/poziom.
+Symbol perswazji M: Uruchomiona runa wywołuje zauroczenie u znajdujących się w pobliżu istot.
+Zadanie/misja: Jak słabsze zadanie, plus wpływa na istotę dowolnego rodzaju.
+OdrzucKlosz niewrażliwości: Jak słabszy klosz niewrażliwości plus efekty 4-poziomowych czarów
+Ochrony i zabezpieczenia: Obszar chronią i zabezpieczają różnorodne efekty magiczne.
+Odrzucenie: Istoty nie mogą się do ciebie zbliżyć.
+Pole antymagii: Neguje magię w promieniu 3 m.
+Rozproszenie magii, potężniejsze: Jak rozproszenie magii, ale +20 do testu.
+PozAnaliza dweomeru K: Wyjawia magiczne aspekty podmiotu.
+Widzenie prawdy M: Pozwala ci widzieć wszystkie rzeczy takimi, jakimi są naprawdę.
+Znajomość legend MK: Pozwala ci poznać opowieści o osobie, miejscu lub rzeczy.
+PrzemCiało w kamień: Przemienia podmiot w posąg.
+Dezintegracja: Sprawia, że znika jedna istota lub przedmiot.
+Elaborat maga:Tylko czarodziej. Przypomina czar 5. lub niższego poziomu.
+Gracja kota, zbiorowa: Jak gracja kota, ale wpływa na jeden podmiot/poziom.
+Kamień w ciało: Odmienia spetryfikowaną istotę.
+Kontrolowanie wody: Unosi lub obniża poziom wody.
+Mądrość sowy, zbiorowa: Jak mądrość sowy, ale wpływa na jeden podmiot/poziom.
+Poruszenie ziemi: Tworzy okopy i wzniesienia.
+Siła byka, zbiorowa: Jak siła byka, ale wpływa na jeden podmiot/poziom.
+Splendor orła, zbiorowy: Jak splendor orła, ale wpływa na jeden podmiot/poziom.
+Spryt lisa, zbiorowy: Jak spryt lisa, ale wpływa na jeden podmiot/poziom.
+Transformacja M: Zyskujesz premie bojowe.
+Wytrzymałość niedźwiedzia, zbiorowa: Jak wytrzymałość niedźwiedzia, ale wpływa na jeden podmiot/poziom.
+PrzywChmura kwasu: Opar powodujący obrażenia od kwasu.
+Planarne spętanie: Jak słabsze planarne spętanie, ale do 12 KW.
+Przyzwanie potwora VI: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Ściana żelaza M: 30 pw/cztery poziomy; może się przewrócić na przeciwników.
+WywołMocarna dłoń: Dłoń odpycha istoty.
+Uwarunkowanie K: Ustala warunki zadziałania innego zaklęcia.
+Wyładowanie łańcuchowe: 1k6 obrażeń/poziom; jedna wtórna błyskawica/poziom powodująca połowę ran.
+Zamrażająca sfera: Powoduje obrażenia i zamarzanie wody.

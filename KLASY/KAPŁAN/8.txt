@@ -1,0 +1,17 @@
+Leczenie krytycznych ran, zbiorowe: Leczy wielu istotom 4k8 obrażeń +1/poziom.
+Niepodatność na czar, potężniejsza: Jak niepodatność na czar, ale do zaklęć 8. poziomu.
+Ognista burza: Zadaje 1k6/poziom obrażeń od ognia.
+Planarny sojusznik, potężniejszy D: Jak słabszy planarny sojusznik, ale do 18 KW.
+Płaszcz chaosu K: +4 do KP, +4 odporności i OC 25 względem czarów prawa.
+Pole antymagii: Neguje magię w promieniu 3 m.
+Przeklęta aura K: +4 do KP, +4 odporności i OC 25 względem czarów dobra.
+Przyzwanie potwora VIII: Sprowadza pozaplanarne stworzenie, które walczy po twojej stronie.
+Stworzenie potężniejszych nieumarłych M: Tworzy cienie, widma, widziadła lub pożeraczy.
+Symbol obłędu M: Uruchomiona runa wywołuje obłęd u znajdujących się w pobliżu istot.
+Symbol śmierci M: Uruchomiona runa zabija znajdujące się w pobliżu istoty.
+Święta aura K: +4 do KP, +4 odporności i OC 25 względem czarów zła.
+Tarcza prawa K: +4 do KP, +4 odporności i OC 25 względem czarów chaosu.
+Trzęsienie ziemi: Intensywne wstrząsy w promieniu 1,5 m/poziom.
+Ujawnienie położenia: Ujawnia dokładne położenie istoty lub przedmiotu.
+Zabezpieczenie wymiaru: Teleportacja i międzyplanarna podróż zostają zablokowane na okres 1 dnia/poziom.
+Zadawanie krytycznych ran, zbiorowe: Zadaje wielu istotom 4k8 obrażeń +1/poziom.

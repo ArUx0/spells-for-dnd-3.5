@@ -1,0 +1,7 @@
+Powiększenie zwierzęcia: Podwaja rozmiar jednego zwierzęcia/dwa poziomy.
+Obcowanie z naturą: Poznanie terenu w promieniu 1,5 km/poziom.
+Leczenie poważnych ran: Leczy 3k8 obrażeń +1/poziom (maks. +15).
+Swoboda działania: Podmiot porusza się normalnie pomimo ograniczeń.
+Niewykrywalność M: Ukrywa podmiot przed poznaniem i szpiegowaniem.
+Przyzwanie sojusznika natury IV: Sprowadza istotę, by walczyła.
+Drzewny krok: Przechodzenie pomiędzy drzewami rosnącymi w dużej odległości.

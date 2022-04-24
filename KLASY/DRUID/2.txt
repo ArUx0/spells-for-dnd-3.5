@@ -1,0 +1,26 @@
+Chmura mgły: Mgła ogranicza pole widzenia.
+Drzewny kształt: Przez godzinę/poziom wyglądasz jak drzewo.
+Gracja kota: Podmiot zyskuje +4 do Zr na 1 min./poziom.
+Korowa skóra: Zapewnia usprawnienie +2 (lub więcej) do naturalnego pancerza.
+Kształtowanie drewna: Przekształca drewniane przedmioty wedle twego życzenia.
+Mądrość sowy: Podmiot zyskuje +4 do Rzt na 1 min./poziom.
+Odporność na energię: Pozwala zignorować 10 (lub więcej) obrażeń/atak spowodowanych przez energię konkretnego rodzaju.
+Ognista pułapka M: Po otwarciu przedmiot zadaje 1k4 +1/poziom obrażeń.
+Ogniste ostrze: Atak dotykowy powoduje obrażenia w wysokości 1k8 +1/dwa poziomy.
+Opóźnienie działania trucizny: Powstrzymuje działanie trucizny, która nie krzywdzi podmiotu przez 1 godzinę/poziom.
+Oziębienie metalu: Sprawia, że metal staje się tak chłodny, że rani każdego, kto go dotknie.
+Pajęcza wspinaczka: Umożliwia chodzenie po ścianach i sufitach.
+Płonąca sfera: Tworzy toczącą się kulę ognia; 2k6 obrażeń; istnieje rundę/poziom.
+Podmuch wiatru: Odpycha lub przewraca małe istoty.
+Pomniejszenie zwierzęcia: Zmniejsza jedno chętne zwierzę.
+Przywrócenie energii życiowej, słabsze: Rozprasza magiczne kary do atrybutów oraz pozwala odzyskać 1k4 punkty obniżonej wartości atrybutu.
+Przyzwanie roju: Przyzywa rój nietoperzy, szczurów lub pająków.
+Przyzwanie sojusznika natury II: Sprowadza istotę, by walczyła.
+Rozgrzanie metalu: Sprawia, że metal staje się tak gorący, że rani każdego, kto go dotknie.
+Siła byka: Podmiot zyskuje +4 do S na 1 min./poziom.
+Unieruchomienie zwierzęcia: Paraliżuje jedno zwierzę na rundę/poziom.
+Wypaczenie drewna: Wygina drewno (drzewce, rękojeści, drzwi, deski).
+Wytrzymałość niedźwiedzia: Podmiot zyskuje +4 do Bd na 1 min./poziom.
+Zmiękczenie ziemi i kamienia: Przemienia kamień w glinę, pył, piasek lub błoto.
+Zwierzęcy posłaniec: Posyła malutkie zwierzę do konkretnego miejsca.
+Zwierzęcy trans: Wywołuje fascynację u sumie 2k6 KW zwierząt.

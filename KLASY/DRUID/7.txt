@@ -1,0 +1,13 @@
+Kontrolowanie pogody: Zmienia pogodę w okolicy.
+Leczenie średnich ran, zbiorowe: Leczy wielu istotom 2k8 obrażeń +1/poziom.
+Ognista burza: Zadaje 1k6/poziom obrażeń od ognia.
+Ożywienie roślin: Ożywia jedną lub więcej roślin, które walczą dla ciebie.
+Pełzająca zagłada: Rój stonóg atakuje na twój rozkaz.
+Przemiana metalu w drewno: Metal w promieniu 12 m staje się drewnem.
+Przeobrażenie drąga: Na rozkaz twój drąg staje się drzewcem.
+Przyzwanie sojusznika natury VII: Sprowadza istotę, by walczyła.
+Słoneczny promień: Promień oślepia i powoduje 4k6 obrażeń.
+Spacer w chmurach: Ty i twoi sprzymierzeńcy przemieniacie się w opary i szybko podróżujecie.
+Szpiegowanie, potężniejsze: Jak szpiegowanie, ale szybsze i na większy dystans.
+Uzdrowienie: Leczy 10 obrażeń/poziom oraz wszystkie choroby i ułomności umysłowe.
+Widzenie prawdy M: Pozwala ci widzieć wszystkie rzeczy takimi, jakie są naprawdę.
