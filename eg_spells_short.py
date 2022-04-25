@@ -13,12 +13,12 @@ for clas in classes:
     levels = os.listdir(path_2)
     for lvl in levels:
         path_3 = path_2+lvl
-        CLASS = clas
-        SPELL_LEVEL = lvl.rsplit(".", 1)[0]
+        CLASS = clas.strip()
+        SPELL_LEVEL = lvl.rsplit(".", 1)[0].strip()
         tmp_file = open(path_3, "r", encoding="utf-8")
         for line in tmp_file:
             line_tmp = line.split(":", 1)
-            SPELL_NAME = line_tmp[0]
+            SPELL_NAME = line_tmp[0].strip()
             SPELL_SHORT_DESCRIPTION = line_tmp[1].strip()
             tmp_array = {
                 "CLASS":CLASS,

@@ -2,23 +2,30 @@
 <html>
 <head>
     <title>DM Dashboard</title>
+
+    <meta charset="UTF-8">
+
     <link rel="stylesheet" href="style.css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <script src="spells_short.js"></script>
     <script src="script.js" ></script>
 </head>
-<body>
+<body class = "body">
 
-    <div class = "main_container spells">
-        <div class = "main_label spells">
-            Czary
+    <div class = "main_container spells_short bold_corner_container">
+        <div class = "main_label spells_short">
+            CZARY
         </div>
-        <div class = "main_content spells">
-            XXX
+        <div class = "main_content spells_short">
         </div>
     </div>
+
+    <script>
+        ini_spells_short(spells_short);
+    </script>
 
 </body>
 </html>
