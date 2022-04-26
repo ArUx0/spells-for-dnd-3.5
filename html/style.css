@@ -11,6 +11,13 @@
   padding: 0;
   color: #dadada;
   font-family: Autobus;
+  vertical-align: top;
+}
+
+html, body{
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
 }
 
 .body{
@@ -19,6 +26,7 @@
   width: calc(100% - 40px);
   height: calc(100% - 40px);
   padding: 20px;
+  overflow: auto;
 }
 
 /* bold corner container */
@@ -46,9 +54,11 @@
 
 /* content template */
 
-.main_container{
+.main_container, .main_container_2{
+  display: inline-block;
+  width: calc(50% - 20px - 22px);
 }
-.main_label{
+.main_label, .main_label_2{
   border-bottom: 1px solid #414a4c;
   height: 30px;
   padding-left: 10px;
@@ -57,15 +67,22 @@
   font-weight: bold;
   font-size: 25px;
 }
-.main_content{
+.main_content, .main_content_2{
+  position: relative;
   margin-top: 10px;
   height: calc(100% - 30px - 1px - 10px);
+}
+
+.main_container_2{
+  position: sticky;
+  top: 0px;
 }
 
 /* class_container */
 
 .class_container{
   width: 100%;
+  height: 100%;
 }
 
 .class_label{
@@ -79,7 +96,14 @@
 }
 
 .class_content{
+  overflow: auto;
+  width: 100%;
+  height: 100%;
+}
 
+/* spell_level*/
+
+.level_content{
 }
 
 
@@ -87,11 +111,22 @@
 
 .spell_container{
   margin-top: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
+}
+.spell_container.active{
+  border: 1px solid #414a4c;
 }
 .spell_container:hover{
   cursor: pointer;
   border: 1px solid #414a4c;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+.spell_container:hover .spell_label{
+  padding-left: 24px;
+}
+.spell_container:hover .spell_content{
+  padding-left: 39px;
 }
 .spell_label{
   display: inline-block;
@@ -106,4 +141,13 @@
   display: inline-block;
   padding-left: 40px;
   width: calc(100% - 40px);
+}
+
+
+/* long description */
+.spell_long_description{
+  display: none;
+}
+.spell_long_description.active{
+  display: block;
 }
