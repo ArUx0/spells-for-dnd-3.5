@@ -17,3 +17,5 @@ Raca: Istota pada ofiarą olśnienia (–1 do testów ataków).
 Światło: Przedmiot rozświetla się niczym pochodnia.
 Tańczące światła: Tworzy pochodnie i innego typu światła.
 Widmowy odgłos: Tworzy złudne dźwięki.
+
+gcgvihvih
