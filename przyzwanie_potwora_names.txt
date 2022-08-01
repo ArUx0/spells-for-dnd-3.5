@@ -1,0 +1,138 @@
+1. poziom
+Niebiański piesPD
+Niebiańska sowaPD
+Niebiański morświn1ND
+Niebiański ogromny żuk świetlikND
+Niebiańska małpkaCD
+Niebiański borsukCD
+Czarci krukPZ
+Czarci złowieszczy szczurPZ
+Czarci potworny skorpion, małyNZ
+Czarcia potworna stonoga, średniaNZ
+Czarci jastrząbCZ
+Czarci potworny pająk, małyCZ
+Czarci wąż, mała żmijaCZ
+Czarcia ośmiornica1CZ
+
+2. poziom
+Niebiańska ogromna pszczołaPD
+Niebiański ogromny żuk bombardierND
+Niebiański pies wierzchowyND
+Niebiański orzełCD
+Czarci wilkPZ
+Czarcia kałamarnica1PZ
+Lemure (diabeł)PZ
+Czarci potworny skorpion, średniNZ
+Czarci rekin, średni1NZ
+Czarcia potworna stonoga, dużaNZ
+Czarci potworny pająk, średniCZ
+Czarci wąż, średnia żmijaCZ
+
+3. poziom
+Niebiański niedźwiedź czarnyPD
+Niebiański żubrND
+Niebiański hipogryfCD
+Niebiański złowieszczy borsukCD
+Żywiołak, mały (dowolny)N
+Czarci wąż, dusicielPZ
+Czarcia małpaPZ
+Czarcia złowieszcza łasicaPZ
+Piekielny ogarPZ
+Czarci dzikNZ
+Czarci złowieszczy nietoperzNZ
+Czarcia potworna stonoga, wielkaNZ
+Czarci krokodylCZ
+Czarci rosomakCZ
+Czarci wąż, duża żmijaCZ
+Dretch (demon)CZ
+
+4. poziom
+Archon-lampionPD
+Niebiańska ogromna sowaPD
+Niebiański lewCD
+Niebiański ogromny orzełCD
+Mefit (dowolny)N
+Czarci złowieszczy wilkPZ
+Czarcia ogromna osaPZ
+Czarci rekin, duży1NZ
+Czarcia ogromna modliszkaNZ
+Ogar yethNZ
+Czarci potworny pająk, dużyCZ
+Czarci wąż, wielka żmijaCZ
+WyjecCZ
+
+5. poziom
+Archon-ogarPD
+Niebiański niedźwiedź brunatnyPD
+Niebiański kot morski1ND
+Niebiański ogromny żuk jelonek rogaczND
+Niebiański gryfCD
+Żywiołak, średni (dowolny)N
+AchajerusPZ
+Czarci deinonychusPZ
+Czarcia złowieszcza małpaPZ
+Diabeł, brodatyPZ
+Cienisty mastiffNZ
+Czarci potworny skorpion, dużyNZ
+Czarci rekin, wielki1NZ
+Czarci złowieszczy dzikNZ
+Czarci ogromny krokodylCZ
+Czarci tygrysCZ
+Czarci złowieszczy rosomakCZ
+
+6. poziom
+Niebiański niedźwiedź polarnyPD
+Niebiański wieloryb, orka1ND
+Bralani (eladrin)CD
+Niebiański złowieszczy lewCD
+Dżanny (dżinni)N
+Żywiołak, duży (dowolny)N
+Bestia chaosuCN
+Diabeł, łańcuchowyPZ
+XillPZ
+Czarci nosorożecNZ
+Czarcia potworna stonoga, olbrzymiaNZ
+Czarci elazmozaur1CZ
+Czarci potworny pająk, wielkiCZ
+Czarci wąż, ogromny dusicielCZ
+
+7. poziom
+Niebiański słońPD
+Avoral (guardinal)ND
+Niebiański wieloryb, fałdowiec1ND
+Dżin (dżinni)CD
+Niewidzialny łowcaN
+Żywiołak, wielki (dowolny)N
+Czarci megaraptorPZ
+Diabeł, kościanyPZ
+Czarci potworny skorpion, wielkiNZ
+Babau (demon)CZ
+Czarci girallonCZ
+Czarcia ogromna ośmiornica1CZ
+
+8. poziom
+Niebiański złowieszczy niedźwiedźPD
+Niebiański triceratopsND
+Niebiański wieloryb, kaszalot1ND
+LillendCD
+Żywiołak, większy (dowolny)N
+Czarcia ogromna kałamarnica1PZ
+Piekielny kotPZ
+Czarcia potworna stonoga, kolosalnaNZ
+Czarci potworny pająk, olbrzymiCZ
+Czarci tyranozaurCZ
+Czarci złowieszczy tygrysCZ
+Vrock (demon)CZ
+
+9. poziom
+CouatlPD
+Leonal (guardinal)ND
+Niebiański rokCD
+Żywiołak, starszy (dowolny)N
+Diabeł, kolczastyPZ
+Czarci potworny skorpion, olbrzymiNZ
+Czarci złowieszczy rekin1NZ
+Wiedźma nocyNZ
+Bebilith (demon)CZ
+Czarci potworny pająk, kolosalnyCZ
+Hezrou (demon)CZ

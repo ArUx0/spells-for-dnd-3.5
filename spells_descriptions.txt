@@ -15,7 +15,6 @@ Alarm słyszalny: W tej postaci czar tworzy dźwięk dzwoneczka, który dobrze s
 Stworzenia eteryczne i astralne nie uruchamiają alarmu.
 Można sprawić, by alarm miał charakterpermanentny, wykorzystując do tego celu zaklęcie utrwalenie.
 Koncentrator wtajemniczeń: Dzwoneczek i kawałek bardzo cienkiego srebrnego drutu.
-
 Analiza dweomeru
 Poznanie
 Poziom: Brd 6, Cza/Zak 6
@@ -120,13 +119,11 @@ Rzut obronny: Brak lub Wola neguje; patrz opis
 Odporność na czary: Tak
 
 Każda istota, która ma charakter inny niż zły, a która znajdzie się na obszarze działania bluźnierstwa, ponosi następujące efekty.
-
 Liczba KWEfekt
 Równa poziomowi czarującegoOtumanienie
 Maksymalnie poziom czarującego –1Wycieńczenie, otumanienie
 Maksymalnie poziom czarującego –5Sparaliżowanie, wycieńczenie, otumanienie
 Maksymalnie poziom czarującego –10Zabicie, sparaliżowanie, wycieńczenie, otumanienie
-
 Efekty zachodzą jednocześnie i się kumulują. Ofiary nie mają prawa do rzutu obronnego, pozwalającego ich uniknąć.
 Otumanienie: Istota przez 1 rundę nie może wykonywać żadnych działań, choć normalnie się broni.
 Wycieńczenie: Na 2k4 rundy wartość Siły istoty spada o 2k6 punktów.
@@ -414,13 +411,11 @@ Za sprawą niniejszego czaru możesz uzyskać następujące efekty.
 •Skopiować dowolne zaklęcie poziomu 7. lub niższego.
 •Cofnąć szkodliwe efekty wielu czarów, takich jak ogłupienie czy obłęd.
 •Powołać do istnienia dowolny inny efekt, którego poziom potęgi nie przekracza podanych wcześniej ograniczeń.
-
 Jeżeli cud będzie miał jeden z opisanych wcześniej efektów, jego rzucenie nie wymaga poświęcenia punktów doświadczenia.
 Zamiast tego kapłan może wyrazić znacznie istotniejszą prośbę. Takie rzucenie cudu kosztuje 5000 PD, ponieważ w zaklęcie angażujesz niezwykle potężne boskie energie. Oto przykład działania takich imponujących cudów.
 •Odwrócenie przebiegu bitwy poprzez wskrzeszenie poległych sojuszników, by dalej toczyli walkę.
 •Przeniesienie ciebie i twoich sojuszników wraz z całym waszym wyposażeniem poprzez planarną barierę do innego wymiaru w konkretne, wybrane miejsce, i to bez najmniejszego ryzyka błędu.
 •Uratowanie miasta przed trzęsieniem ziemi, wybuchem wulkanu, powodzią lub inną wielką katastrofą naturalną.
-
 Należy pamiętać, że każda prośba niezgodna z naturą bóstwa (lub sprzeczna z jego charakterem) zostanie odrzucona.
 Skopiowane zaklęcie umożliwia normalne rzuty obronne i pozwala na zwykłe użycie odporności na czary (tyle że ST rzutu obronnego odpowiada zaklęciu 9. poziomu). W przypadku gdy za pomocą cudu duplikujesz czar wymagający poświęcenia PD, musisz ponieść ten koszt. Jeśli kopiujesz zaklęcie wymagające komponentu materialnego wartości przynajmniej 100 sz, musisz go posiadać.
 Koszt PD: 5000 PD (w przypadku niektórych zastosowań cudu; patrz wcześniej).
@@ -499,14 +494,12 @@ Rzut obronny: Wola neguje
 Odporność na czary: Tak
 
 Zaklęcie to sprawia, że jego ofiary są zdezorientowane, przez co nie mogą samodzielnie podejmować decyzji i wykonywać działań. Na początku każdej tury podmiotu, w każdej rundzie działania czaru, wykonaj rzut k%, a wynik sprawdź w pobliskiej tabeli.
-
 k%Zachowanie
 01-10Zaatakowanie istoty, która rzuciła ten czar, za pomocą broni do walki wręcz lub dystansowej (lub zbliżenie się do niej, jeśli atak jest niemożliwy).
 11-20Normalne.
 21-50Bełkotanie bez sensu i niemożność podjęcia innych działań.
 51-70Ucieczka od istoty, która rzuciła ten czar, z możliwie największą szybkością.
 71-100Zaatakowanie najbliższej istoty (w tym przypadku chowańca traktuje się jako część ofiary).
-
 Zdezorientowana istota, która nie może wykonać wylosowanej czynności, tylko bełkocze bez sensu. Przeciwnicy atakujący ofiary tego czaru nie zyskują specjalnych korzyści. Każda zdezorientowana osoba, która zostanie zaatakowana, automatycznie w swojej następnej turze atakuje takiego przeciwnika (pod warunkiem, że wciąż jeszcze znajduje się pod wpływem zaklęcia). Trzeba zaznaczyć, że zdezorientowana istota nie wykonuje ataków okazyjnych w żadnego adwersarza, którego atakowaniu się nie poświęca (albo z racji swej ostatniej akcji, albo ponieważ została przez niego zaatakowana).
 Materialny komponent wtajemniczeń: Zestaw trzech łupin orzecha.
 Dezorientacja, słabsza
@@ -650,7 +643,6 @@ Cel: Ty
 Czas działania: 1 godzina/poziom lub do wykorzystania; patrz opis
 
 Zyskujesz zdolność wchodzenia w drzewa i poruszania się od jednego z nich do następnego – wszystkie muszą być żywe, należeć do tego samego gatunku oraz mieć obwód dostatecznie duży, byś się zmieścił w środku. Wchodząc, na przykład, do dębu, natychmiast poznajesz położenie wszystkich innych dębów w zasięgu transportu (patrz dalej); możesz teraz zdecydować, czy chcesz się przenieść do któregoś z nich, czy wolisz wyjść z drzewa, do którego wszedłeś. Masz prawo przejść do dowolnego drzewa danego gatunku, które znajduje się w zasięgu transportu – patrz tabela.
-
 Gatunek drzewaZasięg transportu
 Dąb, jesion, cis900 metrów
 Wiąz, lipa600 metrów
@@ -1129,12 +1121,10 @@ Rzut obronny: Wytrwałość neguje
 Odporność na czary: Tak
 
 W każdej rundzie możesz obrać za cel jedną żywą istotę, którą atakujesz falą złej potęgi. W zależności od KW ofiary możesz uzyskać do trzech efektów.
-
 KWEfekt
 10 lub więcejOsłabienie
 5-9Panika, osłabienie
 4 lub mniejŚpiączka, panika, osłabienie
-
 Efekty mają miejsce jednocześnie i się kumulują.
 Osłabienie: Ciało ofiary przeszywa nagły ból i gorączka. Osłabiona, podlega karze –2 do testów ataków, obrażeń zadawanych przez broń, rzutów obronnych oraz testów umiejętności i atrybutów. Pozostaje osłabiona przez 10 minut na poziom czarującego. Niniejszego efektu nie można zanegować za pomocą czarów przełamanie choroby lub uzdrowienie, ale przełamanie klątwy skutkuje.
 Panika: Ofiara jest przez 1k4 rundy ogarnięta paniką, a kiedy ta dobiega końca, jest przez 10 minut na poziom czarującego wstrząśnięta. Ponadto jeśli w tym czasie znajdziesz się w jej polu widzenia, automatycznie znów ogarnie ją panika. Jest to efekt strachu.
@@ -1258,7 +1248,6 @@ Plan Zewnętrzny, półbóstwoST 10/2 tygodnie01-4950-7071-9192-100
 Plan Zewnętrzny, pomniejsze bóstwoST 12/3 tygodnie01-6061-7576-9596-100
 Plan Zewnętrzny, pośrednie bóstwoST 14/4 tygodnie01-7374-8182-9899-100
 Plan Zewnętrzny, większe bóstwoST 16/5 tygodni01-8889-9091-99100
-
 Uniknięcie zmniejszenia Int/Cha: Wykonujesz test Intelektu o podanej ST – nieudany oznacza, że zmniejszeniu ulega twój Intelekt i Charyzma, w obu wypadkach do 8 na czas działania czaru; w efekcie nie możesz rzucać czarów wtajemniczeń. Intelekt i Charyzma ulegają zmniejszeniu w chwili, gdy zadajesz pierwsze pytanie i nie otrzymujesz odpowiedzi (informacje w nawiasach dotyczą pytań odnoszących się do odpowiedniego Planu Żywiołu).
 Rezultat udanego kontaktu: Ustalenie rezultatów podanych w tabeli zależy od wyniku rzutu k%.
 Dobra odpowiedź: Otrzymujesz dobrą, poprawną, jednowyrazową odpowiedź. Jeśli na pytanie nie da się odpowiedzieć w ten sposób, otrzymujesz losową odpowiedź.
@@ -1290,14 +1279,12 @@ Rzut obronny: Brak
 Odporność na czary: Nie
 
 Zmieniasz pogodę w okolicy. Rzucenie czaru zajmuje 10 minut, a przez kolejne 10 minut efekty wchodzą w życie. Masz prawo zmieniać aurę stosownie do panującego klimatu i bieżącej pory roku.
-
-Pora rokuMożliwa pogoda
+Pora roku,Możliwa pogoda
 WiosnaTornado, burza z piorunami, deszcz ze śniegiem, gorąco
 LatoUlewny deszcz, upał, gradobicie
 JesieńZimna lub ciepła pogoda, mgła, mżawka
 ZimaMróz, zamiecie, odwilż
 Późna zimaWiatry o sile huraganu lub wczesna wiosna (na wybrzeżu)
-
 Kontrolujesz ogólne cechy pogodowe, takie jak siła i kierunek wiatru. Nie jesteś w stanie wpływać na poszczególne elementy aury – na przykład na to, gdzie uderzy piorun czy jaka będzie dokładna droga tornada. Kiedy ustalisz, jakie warunki atmosferyczne mają zajść, pogoda będzie się zmieniać powoli, a nie szybko, i cały proces zajmie 10 minut. Aura pozostanie bez zmian przez czas działania czaru lub do momentu, gdy poświęcisz akcję standardową na ustalenie nowych warunków (które wejdą w pełni w życie znów po 10 minutach). W tym samym czasie nie mają prawa zdarzyć się sprzeczne warunki pogodowe.
 Kontrolowanie pogody umożliwia przegnanie zjawisk atmosferycznych (naturalnych i nie tylko) oraz tworzenie ich.
 Kiedy niniejszy czar rzuci druid, czas działania zaklęcia ulega podwojeniu, a wpływa ono na obszar koła o promieniu 4,5 kilometra.
@@ -1331,7 +1318,6 @@ Kierunek wiatru: Możesz wybrać jeden z czterech podstawowych wzorców, które 
 •Podmuchy z góry, od granic zewnętrznych ku środkowi, o równej sile we wszystkich kierunkach, skręcający gwałtownie ku górze przed dotarciem do centralnego “oka”.
 •Rotacja, za sprawą której wiatry wieją w kręgu wokół środka w kierunku zgodnym lub przeciwnym do ruchu wskazówek zegara.
 •Podmuchy wiejące w jednym kierunku przez cały obszar, od jednej granicy do przeciwnej.
-
 Siła wiatru: Na każde trzy poziomy czarującego możesz zwiększyć lub zmniejszyć siłę wiatru o jeden stopień. W każdej rundzie, w swojej turze, istota znajdująca się na obszarze działania wiatru musi wykonać rzut obronny na Wytrwałość – nieudany oznacza, że ponosi efekty przebywania na wietrznym terenie.
 Silny wiatr (31,5+ km/h) utrudnia żeglowanie.
 Potężny wiatr (46,5+ km/h) powoduje uszkodzenia mniejszych budynków i statków.
@@ -1380,19 +1366,16 @@ Odporność na czary: Tak
 
 Na wybraną istotę zsyłasz okropne i niepokojące złudzenia. Musisz podać imię ofiary lub w inny sposób dokładnie ją wskazać. Koszmar uniemożliwia odpoczynek podczas snu i powoduje 1k10 obrażeń. Ofiara niniejszego czaru jest zmęczona i nie może przez najbliższe 24 godziny odzyskiwać zaklęć wtajemniczeń.
 Trudność rzutu obronnego zależy od tego, jak dobrze znasz ofiarę i jaka fizyczna więź cię z nią łączy (jeśli w ogóle jakaś istnieje).
-
 ZnajomośćModyfikator rzutu obronnego na Wolę
 Żadna1+10
 Z drugiej ręki (słyszałeś o ofierze)+5
 Z pierwszej ręki (spotkałeś ofiarę)+0
 Dobra (znasz dobrze ofiarę)–5
 1 Jeśli nie znasz ofiary, musisz mieć z nią jakiś kontakt.
-
 KontaktModyfikator rzutu obronnego na Wolę
 Podobizna lub obrazek–2
 Należący do ofiary przedmiot lub część garderoby–4
 Część ciała, kłębek włosów, kawałek paznokcia itp.–10
-
 Jeśli w czasie, gdy rzucasz na ofiarę koszmar, ktoś rzuci nań rozproszenie zła, twój czar ulegnie rozproszeniu, ty zaś będziesz oszołomiony przez 10 minut na poziom czarującego używającego rozproszenia zła.
 Jeżeli ofiara koszmaru nie śpi w chwili, gdy niniejszy czar zaczyna działać, możesz albo przerwać rzucanie zaklęcia (co je kończy), albo wprowadzić się w trans, dopóki ofiara nie uśnie – a wówczas zostajesz wyrwany z letargu i możesz dokończyć czarowanie. W przypadku gdy coś przerwie trans, musisz wykonać test Koncentracji, tak jakbyś rzucał zaklęcie – nieudany oznacza, że koszmar dobiegł końca.
 W transie pozostajesz nieświadomy otoczenia i tego, co się wokół ciebie dzieje. Jesteś bezbronny zarówno fizycznie, jak i mentalnie (na przykład, twoje rzuty obronne zawsze kończą się niepowodzeniem).
@@ -2113,12 +2096,10 @@ Rzut obronny: Wola neguje
 Odporność na czary: Tak
 
 Sięgasz do umysłu podmiotu i modyfikujesz maksymalnie 5 minut jego wspomnień na jeden z następujących sposobów.
-
 •Usuwasz wspomnienia o wydarzeniu, którego podmiot właśnie doświadcza. W ten sposób niniejsze zaklęcie neguje zauroczenia, zadania/misje, sugestie oraz podobne czary.
 •Pozwalasz podmiotowi niezwykle dokładnie przypomnieć sobie wydarzenie, którego doświadczył.
 •Zmieniasz szczegóły wydarzenia, którego podmiot doświadczył.
 •Tworzysz wspomnienie wydarzenia, którego podmiot nigdy nie doświadczył.
-
 Rzucenie niniejszego zaklęcia zajmuje 1 rundę. Jeżeli podmiotowi nie uda się rzut obronny, spędzasz maksymalnie 5 minut (okres równy czasowi trwania wspomnień, jakie pragniesz zmodyfikować) na wizualizacji reminiscencji, które chcesz zmienić. W przypadku gdy coś przerwie ci koncentrację, zanim skończysz ową czynność, lub jeśli podmiot zdoła oddalić się poza zasięg, zaklęcie zostaje stracone.
 Zmodyfikowana pamięć nie musi wpłynąć na działania podmiotu, szczególnie jeżeli wspomnienia stoją w sprzeczności z jego naturalnymi skłonnościami. Nielogiczne modyfikacje istota odsuwa od siebie, uznając je za sen lub wspomnienie zamglone przez zbyt dużą ilość wypitego wina.
 Nadanie zdolności czarowania
@@ -2133,12 +2114,10 @@ Rzut obronny: Wola neguje (nieszkodliwy)
 Odporność na czary: Tak (nieszkodliwy)
 
 Przenosisz na inną istotę część przygotowanych czarów oraz zdolność do ich rzucania. Zaklęciami możesz w ten sposób obdarzyć tylko stworzenie o Intelekcie wartości przynajmniej 5 i o Roztropności wartości co najmniej 9, masz jednak prawo przenieść na nie tylko czary kapłana ze szkół odrzucanie, poznanie i przywoływanie (leczenie). Liczba i poziom zaklęć, które podmiot może otrzymać, zależy od jego Kostek Wytrzymałości – nawet kilkakrotne użycie nadania zdolności czarowania nie zmieni tego limitu.
-
 KW podmiotuLiczba nadawanych czarów
 2 i mniejJeden czar 1. poziomu
 3-4Jeden lub dwa czary 1. poziomu
 5 i więcejJeden lub dwa czary 1. poziomu i jeden czar 2. poziomu
-
 Zmienne właściwości zaklęcia (zasięg, czas działania, obszar i tak dalej) zależą od twojego poziomu, a nie od poziomu podmiotu nadania zdolności czarowania.
 Kiedy rzucisz niniejsze zaklęcie, nie możesz przygotować nowego 4-poziomowego, dopóki podmiot nie wykorzysta czaru, jakim go obdarzyłeś, nie zginie lub nie zakończysz nadania zdolności czarowania. W tym czasie odpowiadasz przed swym bóstwem czy zasadami za to, w jaki sposób zaklęcie, którym kogoś obdarzyłeś, zostało wykorzystane.
 Jeżeli liczba dostępnych ci zaklęć 4. poziomu spadnie poniżej aktualnej liczby aktywnych nadań zdolności czarowania, rozproszeniu ulega ostatnie z nich.
@@ -2158,7 +2137,6 @@ Nakładasz na ofiarę klątwę. Wybierz jeden z trzech następujących efektów.
 •–6 do wartości atrybutu (minimum 1).
 •Kara –4 do testów ataków, rzutów obronnych oraz testów umiejętności i atrybutów.
 •W każdej turze ofiara ma szansę 50%, że działa normalnie; w przeciwnym razie nie robi nic.
-
 Masz również prawo wymyślić własną klątwę, nie może ona jednakże być potężniejsza od tych opisanych wcześniej.
 Klątwy nałożonej mocą tego zaklęcia nie da się rozproszyć, a zdjąć ją można za pomocą cudu, ograniczonego życzenia, przełamania klątwy, złamania zaklęcia lub życzenia.
 Nałożenie klątwy kontruje przełamanie klątwy.
@@ -2523,13 +2501,11 @@ Wycelowane w ciebie zaklęcia i efekty czaropodobne czar odbija w stronę tego, 
 Odbiciu ulega od 7 do 10 (1k4+6) poziomów czarów. Dokładna ich liczba nie jest ci znana. Kiedy zaklęcie zostaje odbite, jego poziom zmniejsza aktualną liczbę poziomów, które zostaną odbite.
 Jeśli staniesz się celem zaklęcia wyższego poziomu niż pozostała ci liczba poziomów odbijanych czarów, zostanie ono tylko częściowo odbite. Należy odjąć pozostałe ci poziomy od poziomu zaklęcia, którego ofiarą padasz, a następnie uzyskany wynik podzielić przez poziom tego ostatniego – w ten sposób ustala się, jaka część efektu przebiła się przez odbicie. W przypadku zaklęć raniących, ty i osoba, która rzuciła na ciebie czar, otrzymujecie stosowną część obrażeń. W przypadku zaklęć, które nie powodują ran, każdy z was ponosi proporcjonalne ryzyko tego, iż padnie ofiarą danego czaru.
 Jeśli i ty, i rzucający na ciebie zaklęcia przeciwnik znajdujecie się pod wpływem odbicia czaru, powstaje pole rezonansowe – wówczas wynik starcia określa się za pomocą rzutu i przy użyciu pobliskiej tabeli.
-
 k%Efekt
 01-70Czar rozwiewa się bez efektu.
 71-80Czar wpływa na was obu z pełnym efektem.
 81-97Oba odbicia przestają działać na 1k4 minuty.
 98-100Obaj zostajecie wypchnięci przez szczelinę na inny plan.
-
 Materialny komponent wtajemniczeń: Srebrne lusterko.
 Odczytanie magii
 Poznanie
@@ -2835,7 +2811,6 @@ Ograniczone życzenie umożliwia ci wywołanie efektu niemal dowolnego rodzaju. 
 •Skopiować dowolne inne zaklęcie poziomu 4. lub niższego, nawet jeżeli jest ono z twojej zakazanej szkoły.
 •Cofnąć szkodliwe efekty wielu czarów, takich jak zadanie/misja czy obłęd.
 •Powołać do istnienia dowolny inny efekt, którego poziom potęgi nie przekracza podanych wcześniej ograniczeń, jak choćby automatyczne trafienie jednej istoty w następnym ataku lub kara –7 do następnego rzutu obronnego.
-
 Skopiowane zaklęcie umożliwia normalne rzuty obronne i pozwala na zwykłe użycie odporności na czary (tyle że ST rzutu obronnego odpowiada zaklęciu 7. poziomu). W przypadku gdy za pomocą ograniczonego życzenia duplikujesz czar wymagający poświęcenia PD, płacisz albo stosowny koszt, albo 300 PD – pod uwagę należy brać wyższą wartość. Jeśli kopiujesz zaklęcie wymagające komponentu materialnego wartości przynajmniej 1000 sz, musisz go posiadać.
 Koszt PD: 300 PD lub więcej (patrz wcześniej).
 Ogromne robactwo
@@ -2979,14 +2954,12 @@ Odporność na czary: Tak (przedmiot)
 Czar ten sprawia, że metal staje się niezwykle chłodny. Nietrzymany przez nikogo, niemagiczny metal nie ma prawa do rzutu obronnego. Magiczny natomiast może wykonać rzut obronny na to zaklęcie. Przedmiot znajdujący się w posiadaniu jakiejś istoty wykorzystuje albo jej premię do rzutu obronnego, albo własną – pod uwagę należy brać większą wartość.
 Istota, której ekwipunek zostanie oziębiony, otrzymuje obrażenia od zimna – całkowite, jeśli zaklęcie wpływa na pancerz lub na trzymane, dotykane, założone bądź niesione przedmioty o ciężarze równym co najmniej 1/5 jej wagi; minimalne (1 lub 2 punkty; patrz tabela), jeżeli stworzenie nie nosi metalowej zbroi bądź nie posiada metalowych przedmiotów o ciężarze przekraczającym 1/5 jego wagi.
 W pierwszej rundzie działania zaklęcia metal staje się chłodny i nieprzyjemny w dotyku, ale jeszcze nie zadaje obrażeń. Ten sam efekt ma miejsce również w ostatniej rundzie czasu działania. W drugiej rundzie (oraz w przedostatniej), lodowate zimno powoduje ból i obrażenia. W trzeciej, czwartej i piątej rundzie metal jest przerażająco mroźny i zadaje rany, jak podano w pobliskiej tabeli.
-
 RundaTemperatura metaluObrażenia
 1ZimnyŻadne
 2Lodowaty1k4 punkty
 3-5Mroźny2k4 punkty
 6Lodowaty1k4 punkty
 7ZimnyŻadne
-
 Wszelkie ciepło na tyle intensywne, by zranić istotę, neguje spowodowane przez niniejszy czar obrażenia od zimna (i na odwrót) w stosunku “punkt za punkt”. Pod wodą oziębienie metalu nie powoduje ran, ale natychmiast wokół metalu, na które zaklęcie wpływa, formuje się lodowa pokrywa sprawiająca, że z łatwością utrzymuje się on na powierzchni wody.
 Oziębienie metalu kontruje i rozprasza rozgrzanie metalu.
 Ożywienie liny
@@ -3508,7 +3481,6 @@ Odporność na czary: Nie
 
 Tworzysz widmowy obraz dłoni, który wysyłasz na poszukiwanie istoty znajdującej się w promieniu 7,5 kilometra. Ręka kiwa na wybrane stworzenie i prowadzi je, jeśli zechce ono za nią podążyć.
 Kiedy kończysz rzucać niniejszy czar, dłoń pojawia się tuż przed tobą. Wówczas określasz, o jaką istotę ci chodzi, opisując jej wygląd, w tym rasę, płeć oraz aparycję, lecz nie masz prawa podać tak niejasny czynników jak poziom, klasa czy charakter. Gdy skończysz, dłoń wyrusza na poszukiwanie stworzenia, które odpowiada opisowi. To, ile czasu jej to zajmie, zależy od odległości, jaka dzieli ją od poszukiwanej istoty.
-
 OdległośćCzas lokalizacji
 30 m lub mniej1 runda
 300 m1 minuta
@@ -3517,7 +3489,6 @@ OdległośćCzas lokalizacji
 4,5 km2 godziny
 6 km3 godziny
 7,5 km4 godziny
-
 Kiedy dłoń zlokalizuje już stworzenie, zaczyna do niego machać, zachęcając, by podążało za nią. Jeśli istota odpowiada na wezwanie, ręka wskazuje w twoim kierunku i prowadzi ją do ciebie możliwie najkrótszą dostępną drogę. Dłoń dryfuje w odległości 3 metrów przed stworzeniem, a porusza się z szybkością do 72 metrów na rundę. Kiedy doprowadzi do ciebie pożądaną istotę, znika.
 Podmiot niniejszego czaru nie musi podążać za dłonią ani odnosić się do ciebie w jakiś szczególny sposób. Jeśli nie chce iść za ręką, ta będzie na niego machać przez czas działania zaklęcia, po czym zniknie. Jeżeli czar dobiegnie końca w czasie, gdy podmiot będzie do ciebie zmierzał, dłoń zniknie, a wówczas musi on samodzielnie znaleźć do ciebie drogę.
 Jeżeli w promieniu 7,5 kilometra znajduje się więcej niż jedna istota odpowiadająca opisowi, ręka zlokalizuje najbliższą. Jeśli znalezione stworzenie nie będzie chciało za nią podążyć, nie wyruszy na poszukiwanie kolejnego.
@@ -3897,7 +3868,6 @@ Rzut obronny: Patrz opis
 Odporność na czary: Tak
 
 Za sprawą tego czaru z twojej ręki wystrzeliwuje siedem migoczących, splecionych ze sobą, wielokolorowych snopów światła. Każdy z nich ma inną moc. Istoty znajdujące się na obszarze działania czaru automatycznie ulegają oślepieniu na 2k4 rundy, jeśli mają 8 KW lub mniej. Ponadto każda z nich zostaje losowo trafiona jednym lub większą liczbą snopów, które powodują dodatkowe efekty.
-
 1k8Kolor snopaEfekt
 1Czerwony20 obrażeń od ognia (Refleks redukuje o połowę)
 2Pomarańczowy40 obrażeń od kwasu (Refleks redukuje o połowę)
@@ -4234,7 +4204,6 @@ Bazowa szansa uzyskania sensownej odpowiedzi wynosi 70% + 1% na poziom czarując
 •“Nieszczęście” (złe następstwa).
 •“Dobrobyt i nieszczęście” (nastąpią oba efekty).
 •“Nic” (jeśli działanie nie będzie miało ani wyjątkowo korzystnych, ani niekorzystnych następstw).
-
 Jeżeli czar zakończy się niepowodzeniem, uzyskujesz efekt “Nic”. Kapłan, który otrzymał taką właśnie odpowiedź, nie jest w stanie stwierdzić, czy była to konsekwencja nieudanej, czy udanej przepowiedni.
 Przepowiednia “zagląda” w przyszłość na około pół godziny, a zatem wszystko, co wydarzy się później, nie ma na nią wpływu. Innymi słowy, nie zdoła przewidzieć długofalowych konsekwencji działania, którego dotyczy. Do wszystkich przepowiedni, które rzuca jedna osoba i które dotyczą tej samej kwestii, stosuje się wynik rzutu kostkami uzyskany podczas pierwszego użycia tego zaklęcia.
 Komponent materialny: Kadzidło warte co najmniej 25 sz.
@@ -4423,148 +4392,6 @@ Przywoływanie (Przyzywanie) [patrz opis przyzwania potwora I]
 Poziom: Chaos 9, Cza/Zak 9, Dobro 9, Kap 9, Prawo 9, Zło 9
 
 Czar ten działa jak przyzwanie potwora I, ale przyzywasz jedną istotę z listy dla 9. poziomu, 1k3 istoty tego samego rodzaju z listy dla 8. poziomu lub 1k4+1 istot tego samego rodzaju z którejś z list dla niższych poziomów.
-
-Przyzwanie potwora
-1. poziom
-Niebiański piesPD
-Niebiańska sowaPD
-Niebiański morświn1ND
-Niebiański ogromny żuk świetlikND
-Niebiańska małpkaCD
-Niebiański borsukCD
-Czarci krukPZ
-Czarci złowieszczy szczurPZ
-Czarci potworny skorpion, małyNZ
-Czarcia potworna stonoga, średniaNZ
-Czarci jastrząbCZ
-Czarci potworny pająk, małyCZ
-Czarci wąż, mała żmijaCZ
-Czarcia ośmiornica1CZ
-
-2. poziom
-Niebiańska ogromna pszczołaPD
-Niebiański ogromny żuk bombardierND
-Niebiański pies wierzchowyND
-Niebiański orzełCD
-Czarci wilkPZ
-Czarcia kałamarnica1PZ
-Lemure (diabeł)PZ
-Czarci potworny skorpion, średniNZ
-Czarci rekin, średni1NZ
-Czarcia potworna stonoga, dużaNZ
-Czarci potworny pająk, średniCZ
-Czarci wąż, średnia żmijaCZ
-
-3. poziom
-Niebiański niedźwiedź czarnyPD
-Niebiański żubrND
-Niebiański hipogryfCD
-Niebiański złowieszczy borsukCD
-Żywiołak, mały (dowolny)N
-Czarci wąż, dusicielPZ
-Czarcia małpaPZ
-Czarcia złowieszcza łasicaPZ
-Piekielny ogarPZ
-Czarci dzikNZ
-Czarci złowieszczy nietoperzNZ
-Czarcia potworna stonoga, wielkaNZ
-Czarci krokodylCZ
-Czarci rosomakCZ
-Czarci wąż, duża żmijaCZ
-Dretch (demon)CZ
-
-4. poziom
-Archon-lampionPD
-Niebiańska ogromna sowaPD
-Niebiański lewCD
-Niebiański ogromny orzełCD
-Mefit (dowolny)N
-Czarci złowieszczy wilkPZ
-Czarcia ogromna osaPZ
-Czarci rekin, duży1NZ
-Czarcia ogromna modliszkaNZ
-Ogar yethNZ
-Czarci potworny pająk, dużyCZ
-Czarci wąż, wielka żmijaCZ
-WyjecCZ
-
-5. poziom
-Archon-ogarPD
-Niebiański niedźwiedź brunatnyPD
-Niebiański kot morski1ND
-Niebiański ogromny żuk jelonek rogaczND
-Niebiański gryfCD
-Żywiołak, średni (dowolny)N
-AchajerusPZ
-Czarci deinonychusPZ
-Czarcia złowieszcza małpaPZ
-Diabeł, brodatyPZ
-Cienisty mastiffNZ
-Czarci potworny skorpion, dużyNZ
-Czarci rekin, wielki1NZ
-Czarci złowieszczy dzikNZ
-Czarci ogromny krokodylCZ
-Czarci tygrysCZ
-Czarci złowieszczy rosomakCZ
-
-6. poziom
-Niebiański niedźwiedź polarnyPD
-Niebiański wieloryb, orka1ND
-Bralani (eladrin)CD
-Niebiański złowieszczy lewCD
-Dżanny (dżinni)N
-Żywiołak, duży (dowolny)N
-Bestia chaosuCN
-Diabeł, łańcuchowyPZ
-XillPZ
-Czarci nosorożecNZ
-Czarcia potworna stonoga, olbrzymiaNZ
-Czarci elazmozaur1CZ
-Czarci potworny pająk, wielkiCZ
-Czarci wąż, ogromny dusicielCZ
-
-7. poziom
-Niebiański słońPD
-Avoral (guardinal)ND
-Niebiański wieloryb, fałdowiec1ND
-Dżin (dżinni)CD
-Niewidzialny łowcaN
-Żywiołak, wielki (dowolny)N
-Czarci megaraptorPZ
-Diabeł, kościanyPZ
-Czarci potworny skorpion, wielkiNZ
-Babau (demon)CZ
-Czarci girallonCZ
-Czarcia ogromna ośmiornica1CZ
-
-8. poziom
-Niebiański złowieszczy niedźwiedźPD
-Niebiański triceratopsND
-Niebiański wieloryb, kaszalot1ND
-LillendCD
-Żywiołak, większy (dowolny)N
-Czarcia ogromna kałamarnica1PZ
-Piekielny kotPZ
-Czarcia potworna stonoga, kolosalnaNZ
-Czarci potworny pająk, olbrzymiCZ
-Czarci tyranozaurCZ
-Czarci złowieszczy tygrysCZ
-Vrock (demon)CZ
-
-9. poziom
-CouatlPD
-Leonal (guardinal)ND
-Niebiański rokCD
-Żywiołak, starszy (dowolny)N
-Diabeł, kolczastyPZ
-Czarci potworny skorpion, olbrzymiNZ
-Czarci złowieszczy rekin1NZ
-Wiedźma nocyNZ
-Bebilith (demon)CZ
-Czarci potworny pająk, kolosalnyCZ
-Hezrou (demon)CZ
-
-1 Istotę tę można przyzwać tylko do środowiska wodnego.
 Przyzwanie roju
 Przywoływanie (Przyzywanie)
 Poziom: Brd 2, Cza/Zak 2, Drd 2
@@ -4647,115 +4474,6 @@ Efekt: Jedno lub więcej stworzeń, z których żadne dwa nie mogą się znajdow
 
 Czar ten działa jak przyzwanie sojusznika natury I, ale przyzywasz jedną istotę z listy dla 9. poziomu, 1k3 istoty tego samego rodzaju z listy dla 8. poziomu lub 1k4+1 istot tego samego rodzaju z którejś z list dla niższych poziomów.
 Jeśli za pomocą czaru przyzywania korzystasz z usług istoty chaosu, dobra, ognia, powietrza, praworządności, wody, ziemi lub zła, zaklęcie to staje się czarem odpowiedniego typu.
-
-Przyzwanie sojusznika natury
-1. poziom
-Małpka (zwierzę)
-Morświn1 (zwierzę)
-Orzeł (zwierzę)
-Ośmiornica1 (zwierzę)
-Sowa (zwierzę)
-Wąż, mała żmija (zwierzę)
-Wilk (zwierzę)
-Złowieszczy szczur
-
-2. poziom
-Hipogryf
-Kałamarnica1 (zwierzę)
-Krokodyl (zwierzę)
-Niedźwiedź czarny (zwierzę)
-Rekin, średni1 (zwierzę)
-Rosomak (zwierzę)
-Wąż, średnia żmija (zwierzę)
-Złowieszczy borsuk
-Złowieszczy nietoperz
-Żywiołak, mały (dowolny)
-
-3. poziom
-Lew
-Małpa (zwierzę)
-Orzeł, ogromny [ND]
-Rekin, duży1 (zwierzę)
-Satyr [CN; bez fletni]
-Sowa, ogromna [ND]
-Thoqqua
-Wąż, dusiciel (zwierzę)
-Wąż, duża żmija (zwierzę)
-Złowieszcza łasica
-Złowieszczy wilk
-
-4. poziom
-Deinonychus (dinozaur)
-Grotostrząb, dziecko
-Jednorożec [CD]
-Kot morski1
-Krokodyl, olbrzymi (zwierzę)
-Niedźwiedź brunatny (zwierzę)
-Rekin, wielki1 (zwierzę)
-Salamandra, płomienny krewniak [NZ]
-Tojanida, dziecko1
-Tygrys (zwierzę)
-Wąż, wielka żmija (zwierzę)
-Xorn, słabszy
-Złowieszcza małpa
-Złowieszczy dzik
-Złowieszczy rosomak
-Żywiołak, średni (dowolny)
-
-5. poziom
-Dżanny (dżinni)
-Elazmozur1 (dinozaur)
-Grotostrząb, dorosły
-Gryf
-Niedźwiedź, polarny (zwierzę)
-Nosorożec (zwierzę)
-Rusałka (chochlik)
-Satyr [CN; z fletnią]
-Tojanida, dorosły1
-Wąż, ogromny dusiciel (zwierzę)
-Wieloryb, orka1 (zwierzę)
-Złowieszczy lew
-Żywiołak, duży (dowolny)
-
-6. poziom
-Girallon
-Megaraptor (dinozaur)
-Ośmiornica, ogromna1 (zwierzę)
-Salamandra, zwykła [NZ]
-Skrzat* (chochlik) [ND; bez specjalnych strzał]
-Słoń (zwierzę)
-Wieloryb, fałdowiec1
-Xorn, przeciętny
-Złowieszczy niedźwiedź
-Żywiołak, wielki (dowolny)
-*Nie może rzucać porywającego tańca.
-
-7. poziom
-Dżin (dżinni) [ND]
-Grotostrząb, stary
-Kałamarnica, ogromna1 (zwierzę)
-Niewidzialny łowca
-Skrzat* (chochlik) [ND; z usypiającymi strzałami]
-Triceratops (dinozaur)
-Tyranozaur (dinozaur)
-Wieloryb, kaszalot1 (zwierzę)
-Xorn, starszy
-Złowieszczy tygrys
-Żywiołak, większy (dowolny)
-*Nie może rzucać porywającego tańca.
-
-8. poziom
-Rok
-Salamandra, szlachetna [NZ]
-Tojanida, stary
-Złowieszczy rekin1
-
-9. poziom
-Jednorożec, niebiański rycerz
-Skrzat* (chochlik) [ND; ze strzałami uśpienia i utraty pamięci]
-Świerszczyk (chochlik) [ND; ze skrzypkami]
-Żywiołak, starszy
-*Może rzucać porywający taniec.
 Raca
 Wywoływanie [Światło]
 Poziom: Brd 0, Cza/Zak 0, Drd 0
@@ -4846,7 +4564,6 @@ k%InkarnacjaSZrBd
 95-98Ork+4+0+0
 99Troglodyta+0–2+4
 100Inna???
-
 Istota poddana reinkarnacji zyskuje wszystkie zdolności związane z nową formą, wliczając w to sposoby poruszania się oraz szybkość, naturalny pancerz, naturalne ataki, zdolności nadzwyczajne i tak dalej. Jednakże nie mówi automatycznie językiem nowej postaci..
 Czar życzenie lub cud pozwalają przywrócić oryginalną formę bohaterowi, którego poddano reinkarnacji.
 Komponent materialny: Wyjątkowo rzadko spotykane olejki oraz maści warte co najmniej 1000 sz, którymi pokrywa się zwłoki.
@@ -4893,14 +4610,12 @@ Odporność na czary: Tak (przedmiot)
 Czar ten sprawia, że metal staje się niezwykle gorący. Niemagiczny metal, którego nikt nie trzyma, nie ma prawa do rzutu obronnego. Magiczny natomiast może wykonać rzut obronny na to zaklęcie. Przedmiot znajdujący się w posiadaniu jakiejś istoty wykorzystuje albo jej premię do rzutu obronnego, albo swoją – pod uwagę należy brać większą wartość.
 Istota, której ekwipunek zostanie rozgrzany, otrzymuje obrażenia od ognia – całkowite, jeśli zaklęcie wpływa na pancerz lub na trzymane, dotykane, założone bądź niesione przedmioty o ciężarze równym co najmniej 1/5 jej wagi; minimalne (1 lub 2 punkty; patrz tabela), jeżeli stworzenie nie nosi metalowej zbroi bądź nie posiada metalowych rzeczy o ciężarze przekraczającym 1/5 jego wagi.
 W pierwszej rundzie działania zaklęcia metal staje się ciepły i nieprzyjemny w dotyku, ale jeszcze nie zadaje obrażeń. Ten sam efekt ma miejsce również w ostatniej rundzie czasu działania zaklęcia. W drugiej rundzie (oraz w przedostatniej) niesamowite gorąco powoduje ból i obrażenia. W trzeciej, czwartej i piątej rundzie metal jest rozgrzany i zadaje rany, jak podano w pobliskiej tabeli.
-
 RundaTemperatura metaluObrażenia
 1CiepłyŻadne
 2Gorący1k4 punkty
 3-5Rozżarzony2k4 punkty
 6Gorący1k4 punkty
 7CiepłyŻadne
-
 Wszelkie zimno tak intensywne, by zranić istotę, neguje spowodowane przez niniejszy czar obrażenia od ognia (i na odwrót) w stosunku “punkt za punkt”. Pod wodą rozgrzanie metalu zadaje połowę ran i powoduje zagotowanie się pobliskiej wody.
 Rozgrzanie metalu kontruje i rozprasza oziębienie metalu.
 Rozkaz
@@ -5260,13 +4975,11 @@ Rzut obronny: Brak lub Wola neguje; patrz opis
 Odporność na czary: Tak
 
 Każda istota, która nie jest praworządna, a która znajdzie się w obszarze działania sentencji i ją usłyszy, padnie ofiarą następujących efektów, zależnych od liczby jej KW.
-
 Liczba KWEfekt
 Równa poziomowi czarującegoOgłuszenie
 Do poziom czarującego –1Spowolnienie, ogłuszenie
 Do poziom czarującego –5Sparaliżowanie, spowolnienie, ogłuszenie
 Do poziom czarującego –10Śmierć, sparaliżowanie, spowolnienie, ogłuszenie
-
 Efekty zachodzą jednocześnie i się kumulują. Ofiara nie ma prawa do rzutu obronnego.
 Ogłuszenie: Istota jest przez 1k4 rundy ogłuszona.
 Spowolnienie: Istota jest przez 2k4 rundy spowolniona, jakby znalazła się pod wpływem zaklęcia spowolnienie.
@@ -5387,13 +5100,11 @@ Rzut obronny: Brak lub Wola neguje; patrz opis
 Odporność na czary: Tak
 
 Każda istota, która nie jest chaotyczna, a która znajdzie się w obszarze działania słowa chaosu i je usłyszy, padnie ofiarą następujących efektów, zależnych od liczby jej KW.
-
 Liczba KWEfekt
 Równa poziomowi czarującegoOgłuszenie
 Do poziom czarującego –1Oszołomienie, ogłuszenie
 Do poziom czarującego –5Dezorientacja, oszołomienie, ogłuszenie
 Do poziom czarującego –10Śmierć, dezorientacja, oszołomienie, ogłuszenie
-
 Efekty zachodzą jednocześnie i się kumulują. Ofiara nie ma prawa do rzutu obronnego.
 Ogłuszenie: Istota jest przez 1k4 rundy ogłuszona.
 Oszołomienie: Istota jest przez 1 rundę oszołomiona.
@@ -5413,7 +5124,6 @@ Rzut obronny: Brak
 Odporność na czary: Tak
 
 Wypowiadasz słowo o ogromnej mocy, za którego sprawą jedna wybrana przez ciebie istota ulega oszołomieniu – i nie ma tu znaczenia, czy słyszy ów wyraz, czy nie. Czas działania zaklęcia zależy od liczby punktów wytrzymałości ofiary. Słowo mocy: oszołomienie nie wpłynie na istotę, która ma aktualnie co najmniej 151 punktów wytrzymałości.
-
 Punkty wytrzymałościCzas działania
 50 lub mniej4k4 rundy
 51-1002k4 rundy
@@ -5430,7 +5140,6 @@ Rzut obronny: Brak
 Odporność na czary: Tak
 
 Wypowiadasz słowo o ogromnej mocy, za którego sprawą jedna wybrana przez ciebie istota ulega oślepieniu – i nie ma tu znaczenia, czy słyszy ów wyraz, czy nie. Czas działania zaklęcia zależy od aktualnej liczby punktów wytrzymałości ofiary. Słowo mocy: oślepienie nie wpłynie na istotę, która ma co najmniej 201 punktów wytrzymałości.
-
 Punkty wytrzymałościCzas działania
 50 lub mniejPermanentny
 51-1001k4+1 minut
@@ -5676,7 +5385,6 @@ Odporność na czary: Tak
 
 Wszystkie żywe istoty, które znajdą się na obszarze tego niewidzialnego stożka terroru, muszą wykonać rzut obronny na Wolę – nieudany oznacza, że ogarnia je panika. Zapędzone do rogu, ogarnięte paniką stworzenie zaczyna się kulić. Jeżeli rzut obronny na Wolę się powiedzie, ofiara czaru jest tylko przez 1 rundę wstrząśnięta.
 Komponent materialny: Serce kury lub białe pióro.
-
 Strefa ciszy
 Iluzje (Zwid)
 Poziom: Brd 4
@@ -5722,13 +5430,11 @@ Rzut obronny: Brak
 Odporność na czary: Nie
 
 Jest to znacznie potężniejsza wersja ożywienia umarłego. Za sprawą tego złego zaklęcia masz prawo stworzyć silniejszych nieumarłych: ghoule, ghasty, mumie oraz mohrgów. Rodzaj (lub rodzaje) istot, jakie jesteś w stanie stworzyć, zależy od twojego poziomu czarującego, co podano w pobliskiej tabeli.
-
 Poziom czarującegoTworzony nieumarły
 11 i niższyGhoul
 12-14Ghast
 15-17Mumia
 18 i wyższyMohrg
-
 Jeśli chcesz, możesz stworzyć mniej potężnego nieumarłego, niż zezwala na to twój poziom. Stworzeni nieumarli nie znajdują się automatycznie pod twoją kontrolą. Jeżeli posiadasz umiejętność rozkazywania nieumarłym, masz prawo spróbować narzucić swą wolę powstającej istocie.
 Czar ten trzeba rzucać w nocy.
 Komponent materialny: Gliniany dzban wypełniony ziemią z grobu i słonawą wodą. Zaklęcie należy rzucić na zwłoki, w których ustach lub oku umieszczasz czarny onyks wart 50 sz na KW tworzonego nieumarłego. Magia czaru przemienia klejnot w nic niewartą skorupę.
@@ -5944,19 +5650,16 @@ Rzut obronny: Wola neguje
 Odporność na czary: Tak
 
 Widzisz i słyszysz istotę, która może się znajdować w dużej odległości od ciebie. Jeśli podmiotowi powiedzie się rzut obronny na Wolę, próba szpiegowania skończy się niepowodzeniem. Trudność wspomnianego rzutu obronnego zależy od tego, jak dobrze znasz daną istotę i czy posiadasz z nią jakieś fizyczne połączenie (a jeśli tak, to jakie). Jeżeli ponadto podmiot przebywa na innym planie, otrzymuje premię +5 do rzutu obronnego na Wolę.
-
 ZnajomośćModyfikator rzutu obronnego na Wolę
 Żadna1+10
 Z drugiej ręki (słyszałeś o podmiocie)+5
 Z pierwszej ręki (spotkałeś podmiot)+0
 Dobra (znasz dobrze podmiot)–5
 1 Jeśli nie znasz podmiotu, musisz mieć z nim inne powiązania.
-
 PowiązanieModyfikator rzutu obronnego na Wolę
 Podobizna lub obrazek–2
 Należąca do niego rzecz lub część garderoby–4
 Część ciała, kłębek włosów, kawałek paznokcia itp.–10
-
 Jeżeli rzut obronny podmiotu zaklęcia się nie powiedzie, widzisz i słyszysz ów podmiot oraz jego najbliższe otoczenie (średnio w promieniu 3 metrów wokół niego). Jeśli szpiegowana istota się poruszy, czujnik powędruje wraz z nią z prędkością maksymalnie 45 metrów.
 Tak jak w przypadku wszystkich czarów poznania (szpiegowania), czujnik zapewnia pełną wzrokową dokładność obejmującą wszelkie efekty magiczne. Ponadto następujące zaklęcia mogą zadziałać poprzez czujnik z szansą powodzenia 5% na poziom czarującego: wiadomość, wykrycie chaosu, wykrycie dobra, wykrycie magii, wykrycie prawa oraz wykrycie zła.
 W przypadku gdy podmiotowi powiedzie się rzut obronny, nie możesz go magicznie szpiegować przynajmniej przez najbliższe 24 godziny.
@@ -6205,13 +5908,11 @@ Rzut obronny: Brak lub Wola neguje; patrz opis
 Odporność na czary: Tak
 
 W obszarze działania zaklęcia wszystkie istoty, które nie mają dobrego charakteru i które słyszą święte słowo, podlegają następującym efektom zależnym od liczby KW lub poziomów.
-
 Liczba KWEfekt
 Równa poziomowi czarującegoOgłuszenie
 Do poziomu czarującego –1Oślepienie, ogłuszenie
 Do poziomu czarującego –5Sparaliżowanie, oślepienie, ogłuszenie
 Do poziomu czarującego –10Śmierć, sparaliżowanie, oślepienie, ogłuszenie
-
 Efekty zachodzą jednocześnie i się kumulują. Ofiara nie ma prawa do rzutu obronnego.
 Ogłuszenie: Istota jest przez 1k4 rundy ogłuszona.
 Oślepienie: Istota jest przez 2k4 rundy oślepiona.
@@ -6396,7 +6097,6 @@ W celu: Teleportowałeś się dokładnie do celu – w miejscu, w którym chcia�
 Poza celem: Pojawiasz się bezpiecznie w losowej odległości i w losowym kierunku od celu. Odległość od celu wynosi 1k10 x 1k10% dystansu, który zamierzałeś pokonać. Kierunek, w jakim znajduje się cel, należy ustalić losowo.
 Podobne miejsce: Lądujesz w okolicy, która jest wizualnie podobna do miejsca docelowego. Ogólnie rzecz ujmując, pojawiasz się w najbliższym miejscu podobnym do właściwego. Jeżeli taki obszar w zasięgu czaru nie istnieje, zaklęcie po prostu zawodzi.
 Nieszczęście: Ty i twoi towarzysze zostaliście źle “przesłani”. Każdy z was otrzymuje 1k10 obrażeń i rzuca kostką jeszcze raz, by za pomocą tabeli określić, gdzie ostatecznie wyląduje – tym razem jednak wykonuje się rzut 1k20 + 80. Za każdym razem, gdy zdarza się “nieszczęście”, postacie otrzymują kolejne obrażenia i rzucają ponownie.
-
 ZnajomośćW celuPoza celemPodobne miejsceNieszczęście
 Dobrze znane01-9798-99100—
 Uważnie zbadane01-9495-9798-99100
@@ -6759,58 +6459,6 @@ Odporność na czary: Nie
 
 Czar ten sprawia, że niektóre zaklęcia stają się permanentne. W zależności od zaklęcia, jakie chcesz utrwalić, musisz być na pewnym minimalnym poziomie czarującego oraz poświęcić pewną liczbę PD.
 Niniejsze zaklęcia może nadać sobie charakter permanentny.
-
-CzarMinimalny poziom czarującegoKoszt PD
-Języki111500 PD
-Mistyczny wzrok111500 PD
-Odczytanie magii9500 PD
-Rozumienie języków9500 PD
-Widzenie w ciemnościach101000 PD
-Wykrycie magii9500 PD
-Zobaczenie niewidzialnego101000 PD
-
-Aby zaklęcie zadziałało, najpierw rzucasz wybrany czar, a następnie utrwalenie. Wymienionych wcześniej czarów nie możesz uczynić permanentnymi względem innych istot. To zastosowanie utrwalenia zdoła rozproszyć tylko czarujący wyższego poziomu niż twój w chwili jego rzucania.
-Utrwalenie pozwala nadać charakter permanentny nie tylko zaklęciom osobistego użytku. Masz prawo zastosować je względem następujących czarów, które mogą dotyczyć ciebie, innej istoty lub przedmiotu (stosownie do zaklęcia).
-
-CzarMinimalny poziom czarującegoKoszt PD
-Magiczny kieł9500 PD
-Magiczny kieł, potężniejszy111500 PD
-Odporność9500 PD
-Pomniejszenie osoby9500 PD
-Powiększenie osoby9500 PD
-Telepatyczna więź1132500 PD
-1 Jedno rzucenie utrwalenia łączy tylko dwie istoty.
-
-Te zaklęcia możesz rzucić tylko na przedmiot lub obszar, a potem sprawić, by tały się permanentne za sprawą utrwalenia.
-
-CzarMinimalny poziom czarującegoKoszt PD
-Alarm9500 PD
-Fazowe drzwi153500 PD
-Gęsta mgła122000 PD
-Krąg teleportacji174500 PD
-Magiczne usta101000 PD
-Niewidzialność101000 PD
-Ożywienie przedmiotów143000 PD
-Pajęczyna101000 PD
-Podmuch wiatru111500 PD
-Pryzmatyczna sfera174500 PD
-Pryzmatyczna ściana164000 PD
-Skurczenie przedmiotu111500 PD
-Symbol bólu132500 PD
-Symbol obłędu164000 PD
-Symbol osłabienia153500 PD
-Symbol oszołomienia153500 PD
-Symbol perswazji143000 PD
-Symbol strachu143000 PD
-Symbol śmierci164000 PD
-Symbol uśpienia164000 PD
-Ściana mocy132500 PD
-Ściana ognia122000 PD
-Śmierdząca chmura111500 PD
-Tańczące światła9500 PD
-Widmowy odgłos9500 PD
-Zaciszna kryjówka maga132500 PD
-
 Czary, które rzucasz na istoty, przedmioty lub miejsca (a nie na siebie), są normalnie podatne na rozproszenie magii.
 Koszt PD: Patrz wcześniejsze tabele.
 Uwarunkowanie
@@ -7261,13 +6909,11 @@ Działające zaklęcie (poziom czaru)3. i niższy4-67-910+ (poziom bóstwa)
 Magiczny przedmiot (poziom czarującego)5. i niższy6-1112-2021+ (artefakt)
 
 Utrzymywanie się aury: Magiczna aura utrzymuje się jeszcze po tym, jak jej źródło się rozwieje (w przypadku czaru) lub ulegnie zniszczeniu (gdy chodzi o przedmiot magiczny). Jeśli rzucisz wykrycie magii i skierujesz je w miejsce utrzymującej się aury, wskaże ono nieznaczną siłę (potęga jeszcze mniejsza niż w przypadku słabej aury). To, jak długo aura utrzymuje się na poziomie nieznacznej siły, zależy od jej oryginalnej potęgi.
-
 Oryginalna potęgaCzas utrzymywania się aury
 Słaba1k6 rund
 Umiarkowana1k6 minut
 Silna1k6 x 10 minut
 Przytłaczająca1k6 dni
-
 Przybysze i żywiołaki to istoty, które nie są magiczne same w sobie. Jeśli jednak ktoś je przyzwał, wykrycie magii ujawni zaklęcie ze szkoły przywoływania, które się do tego przyczyniło.
 W każdej rundzie możesz się obrócić i wykrywać magię na nowym obszarze. Niniejsze zaklęcie przenika przeszkody, ale jego działanie blokuje 30 centymetrów kamienia, 2,5 centymetra zwykłego metalu, cienka warstwa ołowiu i 0,9 metra drewna lub ziemi.
 Wykryciu magii można nadać charakter permanentny za pomocą zaklęcia utrwalenie.
@@ -7310,15 +6956,12 @@ KWSiła
 2-4Umiarkowana
 5-10Silna
 11 i więcejPrzytłaczająca
-
 Utrzymywanie się aury: Aura nieumarłych utrzymuje się jeszcze po tym, jak jej źródło ulegnie zniszczeniu. Jeśli rzucisz wykrycie nieumarłych i skierujesz je w miejsce utrzymującej się aury, wskaże ono nieznaczną siłę (potęga jeszcze mniejsza niż w przypadku aury słabej). To, jak długo aura utrzymuje się na poziomie nieznacznej siły, zależy od jej oryginalnej potęgi.
-
 Oryginalna potęgaCzas utrzymywania się aury
 Słaba1k6 rund
 Umiarkowana1k6 minut
 Silna1k6 x 10 minut
 Przytłaczająca1k6 dni
-
 W każdej rundzie możesz się obrócić i wykrywać nieumarłych na nowym obszarze. Niniejsze zaklęcie przenika bariery, ale jego działanie blokuje 30 centymetrów kamienia, 2,5 centymetra zwykłego metalu, cienka warstwa ołowiu i 0,9 metra drewna lub ziemi.
 Materialny komponent wtajemniczeń: Nieco ziemi z grobu.
 Wykrycie prawa
@@ -7415,7 +7058,6 @@ Zły magiczny przedmiot lub czar (poziom czarującego)2 i mniej3-89-2021 i więc
 2 Niektóre postacie niebędące kapłanami również mogą promieniować aurą o takiej samej mocy. W takim przypadku w opisie klasy pojawia się stosowna informacja.
 
 Utrzymywanie się aury: Aura zła utrzymuje się jeszcze po tym, jak jej źródło się rozwieje (w przypadku czaru) lub ulegnie zniszczeniu (gdy chodzi o istotę lub magiczny przedmiot). Jeśli rzucisz wykrycie zła i skierujesz je w miejsce utrzymującej się aury, wskaże ono nieznaczną siłę (potęga jeszcze mniejsza niż w przypadku aury słabej). To, jak długo aura utrzymuje się na poziomie nieznacznej siły, zależy od jej oryginalnej potęgi.
-
 Oryginalna potęgaCzas utrzymywania się aury
 Słaba1k6 rund
 Umiarkowana1k6 minut
@@ -7820,7 +7462,6 @@ Rzut obronny: Wytrwałość neguje
 Odporność na czary: Tak
 
 Ofiara cierpi skutki choroby wybranej z pobliskiej tabeli. Dolegliwość atakuje natychmiast (bez okresu wylęgania). Podane ST dotyczą kolejnych rzutów obronnych (pierwszy wykonuje się z normalną ST dla zakażenia).
-
 ChorobaSTEfekt
 Ciarki131k8 Zr
 Czerwony ból151k6 S
@@ -7830,7 +7471,6 @@ Ogień umysłu121k4 Int
 Oślepiająca zaraza161k4 S1
 Oślizgła zagłada141k4 Bd
 1 Za każdym razem gdy ofiara w wyniku oślepiającej zarazy utraci 2 lub więcej punktów Siły, musi wykonać kolejny rzut obronny na Wytrwałość (stosując zwykłe ST dla choroby) – nieudany oznacza permanentne oślepienie.
-
 Zakotwiczenie w wymiarze
 Odrzucanie
 Poziom: Cza/Zak 4, Kap 4
@@ -8302,7 +7942,6 @@ Zmuszasz malutkie zwierzę, by udało się we wskazane przez ciebie miejsce. Naj
 Wykorzystując przynętę – nieco jedzenia lubianego przez dane zwierzę – przywołujesz je do siebie. Zbliża się ono do ciebie bez obaw i oczekuje na rozkazy. Mentalnie wskazujesz mu znane ci miejsce lub jakiś charakterystyczny punkt krajobrazu. Wskazówki muszą być proste, ponieważ zwierzę korzysta z twojej wiedzy i samodzielnie nie będzie w stanie znaleźć owego miejsca. Do posłańca możesz przywiązać mały przedmiot czy notatkę. Następnie zwierzę udaje się we wskazane miejsce, gdzie czeka, póki czas działania zaklęcia nie dobiegnie końca – wówczas zaczyna zachowywać się normalnie.
 Oczekujący posłaniec pozwala podejść do siebie każdemu, i dowolna osoba może wziąć zwój czy przedmiot, który zwierzę przyniosło. Zamierzony odbiorca wiadomości nie zyskuje żadnych specjalnych zdolności pozwalających mu porozumieć się ze stworzeniem ani przeczytać dołączonej wiadomości (jeśli, na przykład, zapisano ją w języku, którego nie zna).
 Komponent materialny: Kąsek pożywienia, które zwierzę lubi.
-
 Zwierzęcy trans
 Oczarowania (Przymus) [Dźwięk, Wpływający na umysł]
 Poziom: Brd 2, Drd 2
@@ -8396,7 +8035,6 @@ Niniejszy czar pozwala:
 •Przywrócić życie. Życzenie ożywia zmarłego, kopiując efekt czaru zmartwychwstanie. Za sprawą niniejszego zaklęcia można przywrócić życie istocie, której ciało zostało zniszczone. Wymaga to jednakże użycia dwóch życzeń – jednego, by odtworzyć ciało, a drugiego, by ponownie nasączyć je siłami życiowymi. Niniejszy czar nie chroni ożywionego stworzenia przed utratą poziomu doświadczenia.
 •Przetransportować podróżników. Życzenie może unieść jedną istotę na poziom czarującego z miejsca na dowolnym planie i umieścić ją gdzie indziej, w dowolnym wymiarze, bez względu na warunki lokalnie. Podmiot niechętny takiej podróży ma prawo do rzutu obronnego na Wolę (udany neguje ten efekt) i do wykorzystania odporności na czary.
 •Odwrócić nieszczęście. Życzenie pozwala cofnąć jedno ostatnie wydarzenie. Moc tego czaru umożliwia powtórzenie jednego dowolnego rzutu wykonanego w przeciągu ostatniej rundy (wliczając w to twoją ostatnią turę). Rzeczywistość zmienia się tak, by odwzorować nowy wynik. Trzeba jednakże pamiętać, że wynik powtórzonego rzutu może być równie zły – a nawet gorszy – niż oryginalny rezultat. Podmiot niechętny takiej zmianie ma prawo do rzutu obronnego na Wolę (udany neguje ten efekt) i zastosowania odporności na czary.
-
 Masz prawo podjąć próbę wykorzystania życzenia, by uzyskać efekty potężniejsze niż te, ale takie działanie jest niebezpieczne (moc czaru wypaczy twoje intencje, w efekcie czego życzenie zostanie spełnione tylko częściowo lub w całości, ale dosłownie i z nie do końca pożądanym skutkiem).
 Skopiowane zaklęcie umożliwia normalne rzuty obronne i pozwala na zwykłe użycie odporności na czary (tyle że ST rzutu obronnego odpowiada zaklęciu 9. poziomu).
 Komponent materialny: Jeśli życzenie kopiuje czar wymagający komponentu materialnego o wartości przekraczającej 10 000 sz, musisz ów komponent dostarczyć.
@@ -8411,4 +8049,3 @@ Cel: Dotknięte drzewo
 Czas działania: Jeden dzień/poziom (P)
 Rzut obronny: Brak
 Odporność na czary: Nie
-

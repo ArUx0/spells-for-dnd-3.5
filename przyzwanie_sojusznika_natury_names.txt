@@ -1,0 +1,107 @@
+1. poziom
+Małpka (zwierzę)
+Morświn1 (zwierzę)
+Orzeł (zwierzę)
+Ośmiornica1 (zwierzę)
+Sowa (zwierzę)
+Wąż, mała żmija (zwierzę)
+Wilk (zwierzę)
+Złowieszczy szczur
+
+2. poziom
+Hipogryf
+Kałamarnica1 (zwierzę)
+Krokodyl (zwierzę)
+Niedźwiedź czarny (zwierzę)
+Rekin, średni1 (zwierzę)
+Rosomak (zwierzę)
+Wąż, średnia żmija (zwierzę)
+Złowieszczy borsuk
+Złowieszczy nietoperz
+Żywiołak, mały (dowolny)
+
+3. poziom
+Lew
+Małpa (zwierzę)
+Orzeł, ogromny [ND]
+Rekin, duży1 (zwierzę)
+Satyr [CN; bez fletni]
+Sowa, ogromna [ND]
+Thoqqua
+Wąż, dusiciel (zwierzę)
+Wąż, duża żmija (zwierzę)
+Złowieszcza łasica
+Złowieszczy wilk
+
+4. poziom
+Deinonychus (dinozaur)
+Grotostrząb, dziecko
+Jednorożec [CD]
+Kot morski1
+Krokodyl, olbrzymi (zwierzę)
+Niedźwiedź brunatny (zwierzę)
+Rekin, wielki1 (zwierzę)
+Salamandra, płomienny krewniak [NZ]
+Tojanida, dziecko1
+Tygrys (zwierzę)
+Wąż, wielka żmija (zwierzę)
+Xorn, słabszy
+Złowieszcza małpa
+Złowieszczy dzik
+Złowieszczy rosomak
+Żywiołak, średni (dowolny)
+
+5. poziom
+Dżanny (dżinni)
+Elazmozur1 (dinozaur)
+Grotostrząb, dorosły
+Gryf
+Niedźwiedź, polarny (zwierzę)
+Nosorożec (zwierzę)
+Rusałka (chochlik)
+Satyr [CN; z fletnią]
+Tojanida, dorosły1
+Wąż, ogromny dusiciel (zwierzę)
+Wieloryb, orka1 (zwierzę)
+Złowieszczy lew
+Żywiołak, duży (dowolny)
+
+6. poziom
+Girallon
+Megaraptor (dinozaur)
+Ośmiornica, ogromna1 (zwierzę)
+Salamandra, zwykła [NZ]
+Skrzat* (chochlik) [ND; bez specjalnych strzał]
+Słoń (zwierzę)
+Wieloryb, fałdowiec1
+Xorn, przeciętny
+Złowieszczy niedźwiedź
+Żywiołak, wielki (dowolny)
+*Nie może rzucać porywającego tańca.
+
+7. poziom
+Dżin (dżinni) [ND]
+Grotostrząb, stary
+Kałamarnica, ogromna1 (zwierzę)
+Niewidzialny łowca
+Skrzat* (chochlik) [ND; z usypiającymi strzałami]
+Triceratops (dinozaur)
+Tyranozaur (dinozaur)
+Wieloryb, kaszalot1 (zwierzę)
+Xorn, starszy
+Złowieszczy tygrys
+Żywiołak, większy (dowolny)
+*Nie może rzucać porywającego tańca.
+
+8. poziom
+Rok
+Salamandra, szlachetna [NZ]
+Tojanida, stary
+Złowieszczy rekin1
+
+9. poziom
+Jednorożec, niebiański rycerz
+Skrzat* (chochlik) [ND; ze strzałami uśpienia i utraty pamięci]
+Świerszczyk (chochlik) [ND; ze skrzypkami]
+Żywiołak, starszy
+*Może rzucać porywający taniec.
