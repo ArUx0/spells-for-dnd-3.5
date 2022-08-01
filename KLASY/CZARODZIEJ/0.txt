@@ -1,19 +1,27 @@
-NekroDotyk zmęczenia: Udany atak dotykowy powoduje zmęczenie ofiary.
-Zranienie nieumarłego: Zadaje jednemu nieumarłemu 1k6 obrażeń.
-OczarOtumanienie: Humanoidalna istota o maksymalnie 4 KW traci następną akcję.
-OdrzucOdporność: Podmiot otrzymuje +1 do rzutów obronnych.
-PozOdczytanie magii: Pozwala odczytywać zwoje i księgi zaklęć.
-Wykrycie magii: Wykrywa czary i magiczne przedmioty w zasięgu 18 m.
-Wykrycie trucizny: Wykrywa truciznę w jednej istocie lub przedmiocie.
-PrzemDłoń maga: Telekineza na 2,5 kg.
-Naprawa: Dokonuje drobnych napraw przedmiotu.
-Otwarcie/zamknięcie: Otwiera lub zamyka małe i lekkie rzeczy.
-Wiadomość: Rozmowa szeptem na odległość.
-PrzywWybuch kwasu: Kula zadająca 1k3 obrażenia od kwasu.
-UniwMistyczny znak: Umożliwia zapisanie prywatnej runy (widocznej lub nie).
-Kuglarstwo: Powołuje do istnienia drobne sztuczki.
-WywołPromień mrozu: Promień zadający 1k3 obrażenia od zimna.
-Raca: Istota pada ofiarą olśnienia (–1 do testów ataków).
-Światło: Przedmiot rozświetla się niczym pochodnia.
-Tańczące światła: Tworzy pochodnie i innego typu światła.
-Widmowy odgłos: Tworzy złudne dźwięki.
+Nekromancja:
+- Dotyk zmęczenia: Udany atak dotykowy powoduje zmęczenie ofiary.
+- Zranienie nieumarłego: Zadaje jednemu nieumarłemu 1k6 obrażeń.
+Oczarowania:
+- Otumanienie: Humanoidalna istota o maksymalnie 4 KW traci następną akcję.
+Odrzucanie:
+- Odporność: Podmiot otrzymuje +1 do rzutów obronnych.
+Poznanie:
+- Odczytanie magii: Pozwala odczytywać zwoje i księgi zaklęć.
+- Wykrycie magii: Wykrywa czary i magiczne przedmioty w zasięgu 18 m.
+- Wykrycie trucizny: Wykrywa truciznę w jednej istocie lub przedmiocie.
+Przemiamy:
+- Dłoń maga: Telekineza na 2,5 kg.
+- Naprawa: Dokonuje drobnych napraw przedmiotu.
+- Otwarcie/zamknięcie: Otwiera lub zamyka małe i lekkie rzeczy.
+- Wiadomość: Rozmowa szeptem na odległość.
+Przywoływanie:
+- Wybuch kwasu: Kula zadająca 1k3 obrażenia od kwasu.
+Uniwersalne:
+- Mistyczny znak: Umożliwia zapisanie prywatnej runy (widocznej lub nie).
+- Kuglarstwo: Powołuje do istnienia drobne sztuczki.
+Wywołanie:
+- Promień mrozu: Promień zadający 1k3 obrażenia od zimna.
+- Raca: Istota pada ofiarą olśnienia (–1 do testów ataków).
+- Światło: Przedmiot rozświetla się niczym pochodnia.
+- Tańczące światła: Tworzy pochodnie i innego typu światła.
+- Widmowy odgłos: Tworzy złudne dźwięki.
