@@ -1,4 +1,4 @@
-console.log(spells_short);
+console.log(spells_long);
 
 function ini_spells_short(data){
 

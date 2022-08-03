@@ -26,7 +26,7 @@ KOMPONENTY = ""
 CZAS_RZUCANIA = ""
 ZASIEG = ""
 OBSZAR = ""
-CELE = ""
+CEL = ""
 CELOWANIE_CZAREM = ""
 CZAS_DZIALANIA = ""
 RZUT_OBRONNY = ""
@@ -45,7 +45,7 @@ with open(path,'r', encoding="utf-8") as file:
                 "CZAS_RZUCANIA":CZAS_RZUCANIA,
                 "ZASIEG":ZASIEG,
                 "OBSZAR":OBSZAR,
-                "CELE":CELE,
+                "CEL":CEL,
                 "CZAS_DZIALANIA":CZAS_DZIALANIA,
                 "RZUT_OBRONNY":RZUT_OBRONNY,
                 "ODPORNOSC_NA_CZARY":ODPORNOSC_NA_CZARY,
@@ -61,7 +61,7 @@ with open(path,'r', encoding="utf-8") as file:
             CZAS_RZUCANIA = ""
             ZASIEG = ""
             OBSZAR = ""
-            CELE = ""
+            CEL = ""
             CZAS_DZIALANIA = ""
             RZUT_OBRONNY = ""
             ODPORNOSC_NA_CZARY = ""
@@ -72,7 +72,7 @@ with open(path,'r', encoding="utf-8") as file:
             if 0 <= index - 2 < len(all_lines):
                 NAZWA = all_lines[index-2].strip()
             SZKOLA = line.strip()
-        
+
         elif("Poziom:" in line):
             POZIOM = line.split(":", 1)[-1].strip()
 
@@ -88,8 +88,8 @@ with open(path,'r', encoding="utf-8") as file:
         elif("Obszar:" in line):
             OBSZAR = line.split(":", 1)[-1].strip()
 
-        elif("Cele:" in line and "Cel:" in line):
-            CELE = line.split(":", 1)[-1].strip()
+        elif("Cele:" in line or "Cel:" in line):
+            CEL = line.split(":", 1)[-1].strip()
 
         elif("Czas działania:" in line):
             CZAS_DZIALANIA = line.split(":", 1)[-1].strip()
@@ -100,7 +100,7 @@ with open(path,'r', encoding="utf-8") as file:
         elif("Odporność na czary:" in line):
             ODPORNOSC_NA_CZARY = line.split(":", 1)[-1].strip()
 
-        else:#("Opis" in line):
+        elif(NAZWA not in line):#("Opis" in line):
             OPIS_DZIALANIA += line.split(":", 1)[-1].strip()
 
 
