@@ -25,6 +25,8 @@ POZIOM = ""
 KOMPONENTY = ""
 CZAS_RZUCANIA = ""
 ZASIEG = ""
+OBSZAR = ""
+CELE = ""
 CELOWANIE_CZAREM = ""
 CZAS_DZIALANIA = ""
 RZUT_OBRONNY = ""
@@ -42,7 +44,8 @@ with open(path,'r', encoding="utf-8") as file:
                 "KOMPONENTY":KOMPONENTY,
                 "CZAS_RZUCANIA":CZAS_RZUCANIA,
                 "ZASIEG":ZASIEG,
-                "CELOWANIE_CZAREM":CELOWANIE_CZAREM,
+                "OBSZAR":OBSZAR,
+                "CELE":CELE,
                 "CZAS_DZIALANIA":CZAS_DZIALANIA,
                 "RZUT_OBRONNY":RZUT_OBRONNY,
                 "ODPORNOSC_NA_CZARY":ODPORNOSC_NA_CZARY,
@@ -57,22 +60,51 @@ with open(path,'r', encoding="utf-8") as file:
             KOMPONENTY = ""
             CZAS_RZUCANIA = ""
             ZASIEG = ""
-            CELOWANIE_CZAREM = ""
+            OBSZAR = ""
+            CELE = ""
             CZAS_DZIALANIA = ""
             RZUT_OBRONNY = ""
             ODPORNOSC_NA_CZARY = ""
             OPIS_DZIALANIA = ""
+            
 
         if any(word in line for word in szkola): # linia ze szkola magii
             if 0 <= index - 2 < len(all_lines):
                 NAZWA = all_lines[index-2].strip()
             SZKOLA = line.strip()
         
-        if("Poziom" in line):
+        elif("Poziom:" in line):
             POZIOM = line.split(":", 1)[-1].strip()
 
+        elif("Komponenty:" in line):
+            KOMPONENTY = line.split(":", 1)[-1].strip()
+        
+        elif("Czas rzucania:" in line):
+            CZAS_RZUCANIA = line.split(":", 1)[-1].strip()
+        
+        elif("Zasięg:" in line):
+            ZASIEG = line.split(":", 1)[-1].strip()
 
-final_js_file = "data = '" + json.dumps(final_array) + "';"
+        elif("Obszar:" in line):
+            OBSZAR = line.split(":", 1)[-1].strip()
+
+        elif("Cele:" in line and "Cel:" in line):
+            CELE = line.split(":", 1)[-1].strip()
+
+        elif("Czas działania:" in line):
+            CZAS_DZIALANIA = line.split(":", 1)[-1].strip()
+
+        elif("Rzut obronny:" in line):
+            RZUT_OBRONNY = line.split(":", 1)[-1].strip()
+
+        elif("Odporność na czary:" in line):
+            ODPORNOSC_NA_CZARY = line.split(":", 1)[-1].strip()
+
+        else:#("Opis" in line):
+            OPIS_DZIALANIA += line.split(":", 1)[-1].strip()
+
+
+final_js_file = "data = '" + json.dumps(final_array, ensure_ascii=False) + "';"
 final_js_file += "var spells_long = JSON.parse(data);"
 
 with open('html/spells_long.js', 'w', encoding="utf-8") as spells_short:
