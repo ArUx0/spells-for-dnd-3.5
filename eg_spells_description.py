@@ -6,64 +6,38 @@ final_array = []
 tmp_array = {}
 
 szkola = {
-    "Iluzje",
+    "Iluzje","Iluzja",
     "Nekromancja",
-    "Oczarowanie",
-    "Odrzucanie",
-    "Poznanie",
-    "Przemiany",
-    "Przywoływanie",
-    "Wywoływanie"
+    "Oczarowanie", "Oczarowania",
+    "Odrzucanie","Odrzucania",
+    "Poznanie","Poznania",
+    "Przemiany","Przemiana",
+    "Przywoływanie","Przywoływania",
+    "Wywoływanie","Wywoływania"
 }
-
-okreslnik = {
-    "chaos", 
-    "ciemność", 
-    "dobro", 
-    "dźwięk", 
-    "elektryczność", 
-    "kwas", 
-    "moc", 
-    "ogień", 
-    "oparty na języku", 
-    "powietrze", "praworządność", 
-    "śmierć", "strach", "światło", 
-    "woda",
-    "wpływający na umysł", 
-    "ziemia", 
-    "zimno", 
-    "zło"
-}
-
 
 tmp_file = open(path, "r", encoding="utf-8")
 all_lines = tmp_file.readlines()
-print(all_lines[0])
+
+NAZWA = ""
+SZKOLA = ""
+POZIOM = ""
+KOMPONENTY = ""
+CZAS_RZUCANIA = ""
+ZASIEG = ""
+CELOWANIE_CZAREM = ""
+CZAS_DZIALANIA = ""
+RZUT_OBRONNY = ""
+ODPORNOSC_NA_CZARY = ""
+OPIS_DZIALANIA = ""
 
 with open(path,'r', encoding="utf-8") as file:
     for index,line in enumerate(file.readlines(), 1):
-        NAZWA = ""
-        SZKOLA = ""
-        OKRESLNIK = ""
-        POZIOM = ""
-        KOMPONENTY = ""
-        CZAS_RZUCANIA = ""
-        ZASIEG = ""
-        CELOWANIE_CZAREM = ""
-        CZAS_DZIALANIA = ""
-        RZUT_OBRONNY = ""
-        ODPORNOSC_NA_CZARY = ""
-        OPIS_DZIALANIA = ""
 
-        if any(word in line for word in szkola): # linia ze szkola magii
-            NAZWA = all_lines[index-1].strip()
-            SZKOLA = line.strip()
-            
-
+        if line in ['\n', '\r\n']:
             tmp_array = {
                 "NAZWA":NAZWA,
                 "SZKOLA":SZKOLA,
-                "OKRESLNIK":OKRESLNIK,
                 "POZIOM":POZIOM,
                 "KOMPONENTY":KOMPONENTY,
                 "CZAS_RZUCANIA":CZAS_RZUCANIA,
@@ -76,6 +50,26 @@ with open(path,'r', encoding="utf-8") as file:
             }
 
             final_array.append(tmp_array)
+
+            NAZWA = ""
+            SZKOLA = ""
+            POZIOM = ""
+            KOMPONENTY = ""
+            CZAS_RZUCANIA = ""
+            ZASIEG = ""
+            CELOWANIE_CZAREM = ""
+            CZAS_DZIALANIA = ""
+            RZUT_OBRONNY = ""
+            ODPORNOSC_NA_CZARY = ""
+            OPIS_DZIALANIA = ""
+
+        if any(word in line for word in szkola): # linia ze szkola magii
+            if 0 <= index - 2 < len(all_lines):
+                NAZWA = all_lines[index-2].strip()
+            SZKOLA = line.strip()
+        
+        if("Poziom" in line):
+            POZIOM = line.split(":", 1)[-1].strip()
 
 
 final_js_file = "data = '" + json.dumps(final_array) + "';"
